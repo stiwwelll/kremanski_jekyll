@@ -1,0 +1,465 @@
+// Place all the styles related to the main_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#about.anchor,
+#menue.anchor,
+#gallery.anchor, 
+#partner.anchor {
+	padding-top: 90px;
+}
+
+#events.anchor {
+	padding-top: 80px;
+}
+
+#contact.anchor {
+	padding-top: 70px;
+}
+
+.carousel-inner {
+	margin-top: 50px;
+}
+
+.carousel-control.right,
+.carousel-control.left  {
+	background-image: none;
+}
+
+.carousel-control:hover {
+	background-color: transparent;
+}
+
+
+.loeffel-icon {
+	position: absolute;
+	top: 50%;
+}
+
+.loeffel-links,
+.loeffel-rechts {
+	display: none;
+}
+
+.carousel-container {
+	margin-top: 50px;
+}
+
+.swipe-icon-header {
+	margin-top: 30px;
+	margin-bottom: -30px;
+}
+
+.oeffnung {
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	font-size: 1.1em;
+	text-transform: uppercase;
+	width: 70%;
+	line-height: 1.5em;
+}
+
+.loeffelpfeil3 {
+	padding-top: 50px; 
+}
+
+.about {
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+	border: none;
+	margin-top: 50px;
+}
+
+.about > h2 {
+	text-align: center;
+	font-size: 1.4em;
+}
+
+.about > p {
+	margin-top: 30px;
+	text-align: justify;
+}
+
+.menue-row {
+	margin-top: 20px;
+}
+
+.menue {
+	margin-top: 30px;
+}
+
+.menue-row > h3 {
+	margin-top: 0;
+}
+
+.foodlist {
+	padding-left: 5px;
+}
+
+.foodlist li:before {
+	content: "- ";
+}
+
+.archive {
+	padding-top: 8px;
+}
+
+.events-headline {
+	margin-bottom: 30px;
+}
+
+.event-linie {
+	padding: 20px 0;
+}
+
+.event-placeholder {
+	margin-top: 30px;
+}
+
+.loeffelpfeil2 {
+	margin-top: 50px;
+}
+
+.ownevent h1 {
+	text-transform: uppercase;
+	text-align: left;
+	margin-top: 70px;
+}
+
+.cocktail {
+	width: 100%;
+}
+
+.glas {
+	margin-top: 50px;
+}
+
+.menu_headline {
+	padding-bottom: 30px;
+}
+
+.post-it {
+	margin: 20px 0;
+}
+
+.menu-papers {
+	margin-top: 10px;
+}
+
+.partner-intro {
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 70px;
+	font-size: 1.7em;
+} 
+
+.loeffel-links-partner,
+.loeffel-rechts-partner {
+	display: none;
+}
+
+.loeffel-links-partner {
+	left: -10%;
+}
+.loeffel-rechts-partner {
+	right: -10%;
+}
+
+.kaffee {
+	position: relative;
+	top: 30px;
+}
+
+#gallery {
+	margin-top: 80px;
+	display: none;
+}
+
+.instagram-teaser {
+	text-align: center;
+	font-size: 1.1em;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+
+.muffin {
+	display: none;
+}
+
+#kontakt {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.call-us {
+	position: relative;
+	top: 30px;
+}
+
+#contact {
+	margin-bottom: 50px;
+}
+
+.col-xs-12 > .kontaktueberschrift,
+.col-sm-12 > .kontaktueberschrift {
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+
+.name,
+.email {
+	margin-bottom: 30px;
+}
+
+.textfeld,
+.textarea {
+	width: 100%;
+	border: 5px solid transparent;
+	border-image: asset_url("Linie_Punkt.png") 20 repeat;
+	border-top: 0;
+}
+
+.textfeld {
+	height: 40px;
+}
+
+.textarea {
+	height: 80px;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    outline: none;
+}
+
+.label {
+	position: relative;
+	top: 10px;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	color: #000;
+}
+
+#email-error {
+	color: red;
+}
+
+.col-xs-12 > .label,
+.col-sm-12 > .label {
+	top: -5px;
+}
+
+.btn-default {
+	float: right;
+}
+
+.find-us {
+	position: relative;
+	top: 10%;
+}
+
+.links-map {
+	margin-top: 50px;
+}
+
+.social {
+	margin-bottom: 50px;
+}
+
+.icon-link:hover {
+	opacity: 0.8;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+	-webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+#map {
+	height: 250px;
+	width: 100%;
+	display: none;
+}
+
+address {
+	text-align: center;
+}
+
+.impressum {
+	font-size: 0.9em;
+	color: #4D4946;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.instagram-teaser:hover,
+.impressum:hover,
+.impressum-container a:hover {
+	color: #000;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+.impressum-container {
+	display: none;
+	font-size: 0.9em;
+	background-color: #fff;
+	opacity: 0.6;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+.impressum-container a {
+	color: #4D4946;
+}
+
+.impressum-container .row {
+	margin: 50px 0;
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	.break2,
+	.break2:after,
+	.break4,
+	.break4:after {
+		content: " * ";
+	}
+
+	.event-highlights h1 {
+		text-align: left;
+	}
+
+	.oeffnung {
+		font-size: 1.3em;
+	}
+
+	.post-it {
+		margin: 0;
+	}
+
+	.swipe-icon-header,
+	.swipe-icon-partner {
+		display: none;
+	}
+
+	.loeffel-links,
+	.loeffel-rechts,
+	.loeffel-links-partner,
+	.loeffel-rechts-partner {
+		display: block;
+	}
+
+	#gallery {
+		display: block;
+	}
+
+	.gallery-headline {
+		margin-bottom: 20px;
+	}
+
+	.instagram-teaser {
+		font-size: 1.3em;
+	}
+
+	.muffin {
+		display: block;
+		margin-top: 80px;
+	}
+
+	#map {
+		display: block;
+		height: 250px;
+		width: 100%;
+	}
+
+	.imprint {
+		padding-right: 0;
+	}
+	
+	address {
+		text-align: left;
+	}
+	
+	.impressum {
+		margin-top: 50px;
+		text-align: left;
+		float: right;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	address {
+		padding-top: 15px;
+		font-size: 1.2em;
+	}
+
+	.archive {
+		padding-top: 0;
+	}
+
+	.event-highlights h1 {
+		font-size: 2.5em;
+	}
+
+	.event-linie {
+		width: 85%;
+	}
+
+	.event-placeholder {
+		width: 80%;
+	}
+	
+	.coffee-paper,
+	.lunch-paper {
+		position: relative;
+		top: 20px;
+	}
+	
+	.social {
+		position: relative;
+		top: 3.4em;
+		margin-bottom: 0;
+	}
+
+	.social-icon {
+		margin: 15px 0;
+	}
+
+  .loeffel-links {
+		left: -5%;
+	}
+
+	.loeffel-rechts {
+		right: -5%;
+	}
+
+	#map {
+		width: 88%;
+	}
+
+	.imprint {
+		width: 88%;
+		padding-right: 0;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.loeffel-links {
+		left: 50%;
+	}
+
+	.loeffel-rechts {
+		right: 50%;
+	}
+}

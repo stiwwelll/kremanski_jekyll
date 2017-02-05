@@ -1,0 +1,91 @@
+// Place all the styles related to the Events controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.glyphicon-ban-circle:hover {
+	color: red;
+}
+
+h1 {
+	text-align: center;
+}
+
+.neues-event {
+	margin: 20px 0; 
+}
+
+.neues-event > .btn-default {
+	float: none;
+	width: 60%;
+}
+
+.events {
+	margin-top: 80px;
+	font-size: 0.8em;
+}
+
+.event-row {
+	height: 100%;
+	margin-top: 30px;
+}
+
+.event-month {
+	padding-left: 15px;
+}
+
+.event-admin {
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.event-description {
+	margin: 10px 0;
+}
+
+.event-button,
+.event-flyer {
+	color: #4D4946;
+	padding-left: 0;
+}
+
+.event-button:hover,
+.event-flyer:hover {
+	color: #4D4946;
+	text-decoration: none;
+	opacity: 0.8;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+	-webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2 linear;
+  background-color: transparent;
+}
+
+/* event new/edit page */
+
+.field {
+	margin-bottom: 30px;
+}
+
+.file-field {
+	margin-bottom: 20px;
+}
+
+
+
+@media (min-width: 768px) {
+	.event-description {
+		margin: 0;
+	}
+}
+
+@media (min-width: 992px) {
+	.events {
+		font-size: 1em;
+	}
+
+	.neues-event > .btn-default {
+		width: 50%;
+	}
+}

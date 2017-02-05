@@ -1,0 +1,40 @@
+
+title: Kremanski
+email: your-email@domain.com
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.kremanski.de/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+collections:
+  events:
+    output: true
+
+assets:
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/javascripts
+    - _assets/fonts
+    - uploads
+
+assets:
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+
+
+# Build settings
+markdown: kramdown
+theme: kremanski
+gems:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-sitemap
+  - mini_magick
+  - autoprefixer-rails
+exclude:
+  - Gemfile
+  - Gemfile.lock

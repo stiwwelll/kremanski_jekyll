@@ -1,0 +1,73 @@
+//= require_tree .
+
+var map;
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat: 52.5000723, lng: 13.4177044},
+    zoom: 16
+  });
+  var image = "{% asset_path 'K_Pfeil.png' %}";
+  var beachMarker = new google.maps.Marker({
+    position: {lat: 52.5000723, lng: 13.4177044},
+    map: map,
+    icon: image
+  });
+ }
+
+$(function() {
+
+  var $root = $('html, body');
+    $('.navbar-nav a').click(function() {
+        var href = $.attr(this, 'href');
+        $root.animate({
+            scrollTop: $(href).offset().top
+        }, 1000, function () {
+            window.location.hash = href;
+        });
+        return false;
+    });
+
+    var $root = $('html, body');
+    $('.event-link').click(function() {
+        var href = $.attr(this, 'href');
+        $root.animate({
+            scrollTop: $(href).offset().top
+        }, 1000, function () {
+            window.location.hash = href;
+        });
+        return false;
+    });
+
+
+  $( ".impressum" ).click(function() {
+    $( "#impressum-container" ).fadeToggle( "slow", "linear");
+  });
+
+  $(".carousel-inner-header").swipe( {
+    //Generic swipe handler for all directions
+    swipeRight:function(event, direction, distance, duration, fingerCount) {
+      $(this).parent().carousel('prev');
+      $(".swipe-icon-header").css("display","none");
+    },
+    swipeLeft: function() {
+      $(this).parent().carousel('next');
+      $(".swipe-icon-header").css("display","none");
+    },
+    //Default is 75px, set to 0 for demo so any distance triggers swipe
+    threshold:0
+  });
+
+  $(".carousel-inner-partner").swipe( {
+    //Generic swipe handler for all directions
+    swipeRight:function(event, direction, distance, duration, fingerCount) {
+      $(this).parent().carousel('prev');
+      $(".swipe-icon-partner").css("display","none");
+    },
+    swipeLeft: function() {
+      $(this).parent().carousel('next');
+      $(".swipe-icon-partner").css("display","none");
+    },
+    //Default is 75px, set to 0 for demo so any distance triggers swipe
+    threshold:0
+  });
+});

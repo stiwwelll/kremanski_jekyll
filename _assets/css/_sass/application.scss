@@ -1,0 +1,229 @@
+@font-face {
+  font-family: 'futura_light';
+  src: font-url('futura_light-webfont.eot');
+  src: font-url('futura_light-webfont.eot?#iefix') format('embedded-opentype'),
+       font-url('futura_light-webfont.woff2') format('woff2'),
+       font-url('futura_light-webfont.woff') format('woff'),
+       font-url('futura_light-webfont.ttf') format('truetype'),
+       font-url('futura_light-webfont.svg#futura_lightregular') format('svg');
+}
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-size: 1em;
+	font-family: 'futura_light', Arial, sans-serif;
+	color: #222222;
+}
+
+body {
+	background-image: url('BG_Wand_Kachel.jpg');
+	background-size: 100%;
+	background-repeat: repeat-y;
+	position: relative;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h3 {
+	margin-top: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+p,
+li,
+li > a,
+ul {
+	font-family: 'futura_light', Arial, sans-serif;
+	color: #222222 !important;
+	font-size: 1em;
+}
+
+
+p,
+li {
+	line-height: 1.4em;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.navbar-default {
+	border-radius: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+	text-transform: uppercase;
+	font-size: 0.9em;
+	border: none;
+	top: 7px;
+	height: 80px;
+	background-color: #fff;
+	opacity: 0.9;
+	filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+
+.navbar-toggle,
+.navbar-toggle.collapsed {
+	position: relative;
+	top: 15px;
+	right: 15px;
+}
+
+.navbar-brand {
+	margin-top: 6px;
+	margin-left: 15px;
+	height: 100%
+}
+
+.navbar-nav {
+	position: relative;
+	top: 18px;
+	margin-left: 40px;
+}
+
+.navbar li {
+	margin-right: 5px;
+	text-align: right;
+}
+
+.navbar li.active {
+	position: relative;
+	top: 2px;
+}
+
+.navbar li a:hover {
+	opacity: 0.8;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+	-webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: transparent;
+	font-size: 1.1em;
+	padding-top: 12px;
+}
+
+.navbar-collapse.collapse,
+.navbar-collapse.collapsing,
+.navbar-collapse.collapse.in {
+	margin: 0;
+	padding-bottom: 30px;
+}
+
+#bs-example-navbar-collapse-1 {
+	border: none;
+	background-color: #fff;
+	opacity: 0.9;
+	filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+
+.nav>li + .gallery-nav {
+	display: none;
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+	.navbar-default {
+		font-size: 0.5em;
+	}
+
+	#bs-example-navbar-collapse-1 {
+		background-color: transparent;
+		width: 70%;
+		padding-left: 0;
+	}
+
+	.navbar li {
+		text-align: center;
+	}
+
+	.navbar li a {
+		font-size: 1em;
+		padding: 0;
+		width: 60px;
+	}
+
+	.navbar .partner-nav {
+		width: 140px;
+	}
+
+	.navbar-default .navbar-nav>.active>a,
+	.navbar-default .navbar-nav>.active>a:focus,
+	.navbar-default .navbar-nav>.active>a:hover {
+		background-color: transparent;
+		font-size: 0.8em;
+		padding-top: 0;
+		position: relative;
+		top: -2px;
+	}
+
+	.navbar-nav {
+		position: relative;
+		top: 30px;
+	}
+
+	.navbar > .container-fluid .navbar-brand {
+		margin-left: 5px;
+		padding-right: 0;
+	}
+
+	.navbar-right {
+		margin-right: 15px;
+		margin-left: 0;
+	}
+
+	.nav>li + .gallery-nav {
+		display: block;
+	}
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	p,
+	li {
+		font-size: 1.2em;
+	}
+
+	.navbar-default {
+		font-size: 0.9em;
+	}
+
+	.navbar li a {
+		font-size: 0.7em;
+		padding: 0;
+		width: 80px;
+	}
+
+	.navbar li a:active {
+		font-size: 0.8em;
+	}
+
+	.navbar .partner-nav {
+		width: 160px;
+	}
+
+	.navbar > .container-fluid .navbar-brand {
+		margin-left: 15px;
+	}
+}
