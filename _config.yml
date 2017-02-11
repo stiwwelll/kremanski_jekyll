@@ -12,8 +12,6 @@ collections:
     output: true
 
 assets:
-  skip_baseurl_with_cdn: false
-  skip_prefix_with_cdn: true
   prefix: "/uploads"
   sources:
     - _assets/css
