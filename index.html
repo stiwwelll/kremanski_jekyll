@@ -14,7 +14,7 @@ layout: default
             <span class="icon-bar"></span>
           </button>
 					<a href="#">
-						{% asset_source "Kremanski_Logo_226px.png" class:"navbar-brand img-responsive" alt: "Kremanski Logo"%}
+						{% img "Kremanski_Logo_226px.png" class:"navbar-brand img-responsive" alt: "Kremanski Logo"%}
 					</a>
         </div>
         <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -35,7 +35,7 @@ layout: default
         <div class="carousel-inner carousel-inner-header" role="listbox">
 					{% for new in site.data.news %}
 	          <div class="item {% if forloop.first == true %} active{% endif %}">
-							{% img "{{ new.image_path }}" class:"center-block" alt:"{{ new.alt }}" %}
+							{% asset_source "{{ new.image_path }}" class:"center-block" alt:"{{ new.alt }}" %}
 	          </div>
 					{% endfor %}
         </div>
