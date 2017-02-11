@@ -12,7 +12,7 @@ collections:
     output: true
 
 assets:
-  prefix: "/uploads"
+  prefix: "uploads"
   sources:
     - _assets/css
     - _assets/images
