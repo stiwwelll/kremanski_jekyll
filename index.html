@@ -35,7 +35,7 @@ layout: default
         <div class="carousel-inner carousel-inner-header" role="listbox">
 					{% for new in site.data.news %}
 	          <div class="item {% if forloop.first == true %} active{% endif %}">
-							{% img "{{ new.image_path }}" class:"center-block cms-no-rewrite" alt:"{{ new.alt }}" %}
+							{% img "{{ new.image_path }}" class:"center-block" alt:"{{ new.alt }}" %}
 	          </div>
 					{% endfor %}
         </div>
