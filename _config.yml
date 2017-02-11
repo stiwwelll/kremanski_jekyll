@@ -12,7 +12,7 @@ collections:
     output: true
 
 assets:
-  skip_baseurl_with_cdn: false
+  skip_baseurl_with_cdn: true
   skip_prefix_with_cdn: false
   prefix: "/uploads"
   sources:
