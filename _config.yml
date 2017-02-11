@@ -19,6 +19,8 @@ assets:
     - _assets/javascripts
     - _assets/fonts
     - uploads
+
+assets:
   autoprefixer:
     browsers:
       - "last 2 versions"
