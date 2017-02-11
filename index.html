@@ -35,7 +35,7 @@ layout: default
         <div class="carousel-inner carousel-inner-header" role="listbox">
 					{% for new in site.data.news %}
 	          <div class="item {% if forloop.first == true %} active{% endif %}">
-							{% img "{{ new.image_path }}" class:"center-block" alt:"{{ new.alt }}" %}
+							<img src="{{ new.image_path }}" class="center-block" alt="{{ new.alt }}"/>
 	          </div>
 					{% endfor %}
         </div>
@@ -54,7 +54,7 @@ layout: default
     </div>
 
     <!-- Oeffnungszeiten -->
-    <p class="oeffnung center-block">&Ouml;ffnungszeiten:<br class="break1"> Mo.-Do. 8:30 – 23:30 Uhr<br class="break2">Fr: 8:30 – 2:00 UHR<br class="break3">Sa: 10–2:00 Uhr<br class="break4"> S0: 10–23 Uhr</p>
+    <p class="oeffnung center-block editable">&Ouml;ffnungszeiten:<br class="break1 editable"> Mo.-Do. 8:30 – 23:30 Uhr<br class="break2 editable">Fr: 8:30 – 2:00 UHR<br class="break3 editable">Sa: 10–2:00 Uhr<br class="break4 editable"> S0: 10–23 Uhr</p>
 
     <!-- Loeffelpfeil und Waffelteller -->
     <div class="container">
@@ -78,7 +78,7 @@ layout: default
 						{% img "Headline_About2.png" class:"img-responsive" alt: "about"%}
           </div>
           <div class="about">
-            <p>It is a bundle of different things, that we put together in one bar – creative food, homemade ice-cream, special drinks and diverse cultural events. From day to day and year to year we try to reveal as much as possible from the motivation and the various talents that we have gathered in our team. We believe, that KREMANSKI can only be good and become better, when we all – guests and team – feel well there and are happy with the location and the activities.</p>
+            <p class="editable">It is a bundle of different things, that we put together in one bar – creative food, homemade ice-cream, special drinks and diverse cultural events. From day to day and year to year we try to reveal as much as possible from the motivation and the various talents that we have gathered in our team. We believe, that KREMANSKI can only be good and become better, when we all – guests and team – feel well there and are happy with the location and the activities.</p>
           </div>
         </div>
       </div>
@@ -107,6 +107,21 @@ layout: default
 						{% img "Headline_Events.png" class:"img-responsive events-headline" alt: "events" %}
           </div>
         </div>
+				<div class="row event-highlights">
+					{% assign event = site.events | where_exp:"event", "event.name" | first %}
+	        <div class="col-xs-12 col-sm-5 col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1">
+						<img src="{{event.image_path}}" class="img-responsive center-block" alt="{{event.image_alt}}"/>
+	        </div>
+	        <div class="col-xs-12 col-sm-7 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
+	          <h1>{{ event.name }}</h1>
+	          <h1>{{ event.date }}></h1>
+	          <p>{{ event.content }}</p>
+	        </div>
+	      </div>
+	      {% unless event.name | last }} %}
+					{% img "Linie_Punkt_Lang.png" class: "center-block event-linie img-responsive" %}
+	      {% endunless %}
+	    <% end %>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<a href="#contact_form" class="event-link">
 					{% img "Platzhalter_noEvents.png" class:"img-responsive event-placeholder center-block" alt: "noevents" %}
@@ -116,8 +131,8 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 ownevent">
-            <h1>Book <strong>Kremanski</strong> for your own event!</h1>
-            <p>You want to celebrate or invite friends or business partners – rent KREMANSKI!<br>
+            <h1 class="editable">Book <strong>Kremanski</strong> for your own event!</h1>
+            <p class="editable">You want to celebrate or invite friends or business partners – rent KREMANSKI!<br>
             <br>
             Whether you want a special buffet, set dinner, live-music or DJ – we can talk about all your ideas. The whole place fits 40 to 90 people depending on the amount of tables. The small bar in the back fits up to 25 people standing. Reserving just one table is possible as well. In terms of financial conditions, we are open to make individual deals.<br>
             <br>
@@ -141,12 +156,12 @@ layout: default
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
             {% img "Headline_Menu.png" class: "img-responsive menu_headline" alt: "eat and drink" %}
-            <p>From breakfast to lunch and from coffee break to evening drinks – our aim is simply to offer something good. Food, that is freshly made, creative and healthy. Beverages, that come from local providers. Like what we would offer our friends at home.<br>
+            <p class="editable">From breakfast to lunch and from coffee break to evening drinks – our aim is simply to offer something good. Food, that is freshly made, creative and healthy. Beverages, that come from local providers. Like what we would offer our friends at home.<br>
             <br>
             Please check out our menu!<br>
             <br>
             Helpers to keep our standard high:<br>
-            <ul class="foodlist">
+            <ul class="foodlist editable">
               <li>Espresso, roasted by BONANZA</li>
               <li>Quality brewing by LA MARZOCCO</li>
               <li>Daily fresh, fine and creative foods by JULIEN ROUVROY</li>
@@ -208,7 +223,7 @@ layout: default
               <div class="carousel-inner carousel-inner-partner" role="listbox">
 								{% for partner in site.data.partners %}
 				          <div class="item {% if forloop.first == true %} active{% endif %}">
-										{% img "{{ partner.image_path }}" class:"center-block" alt:"{{ partner.alt }}" %}
+										<img src="{{partner.image_path}}" class="img-responsive center-block" alt="{{eparner.alt}}"/>
 				          </div>
 								{% endfor %}
               </div>
