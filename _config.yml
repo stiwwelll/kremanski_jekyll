@@ -12,14 +12,15 @@ collections:
     output: true
 
 assets:
+  skip_baseurl_with_cdn: false
+  skip_prefix_with_cdn: false
+  prefix: "/uploads"
   sources:
     - _assets/css
     - _assets/images
     - _assets/javascripts
     - _assets/fonts
     - uploads
-
-assets:
   autoprefixer:
     browsers:
       - "last 2 versions"
