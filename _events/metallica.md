@@ -1,7 +1,8 @@
 ---
 name: Metallica
-date: 2017-03-05
-image_path: Bild1_kl.png
+datetime: 2017-01-01 10:43:00
+image_path: uploads/events/metallica.jpg
 image_alt: Metallica fuck yeah
 ---
+
 Best band in town

@@ -4,7 +4,7 @@
 
 #about.anchor,
 #menue.anchor,
-#gallery.anchor, 
+#gallery.anchor,
 #partner.anchor {
 	padding-top: 90px;
 }
@@ -61,7 +61,7 @@
 }
 
 .loeffelpfeil3 {
-	padding-top: 50px; 
+	padding-top: 50px;
 }
 
 .about {
@@ -154,7 +154,7 @@
 	margin-top: 80px;
 	margin-bottom: 70px;
 	font-size: 1.7em;
-} 
+}
 
 .loeffel-links-partner,
 .loeffel-rechts-partner {
@@ -183,6 +183,8 @@
 	font-size: 1.1em;
 	text-transform: uppercase;
 	margin-top: 20px;
+	color: #000;
+	font-size: 16px;
 }
 
 .muffin {
@@ -246,11 +248,6 @@ textarea:focus {
 
 #email-error {
 	color: red;
-}
-
-.col-xs-12 > .label,
-.col-sm-12 > .label {
-	top: -5px;
 }
 
 .btn-default {
@@ -384,11 +381,11 @@ address {
 	.imprint {
 		padding-right: 0;
 	}
-	
+
 	address {
 		text-align: left;
 	}
-	
+
 	.impressum {
 		margin-top: 50px;
 		text-align: left;
@@ -418,13 +415,13 @@ address {
 	.event-placeholder {
 		width: 80%;
 	}
-	
+
 	.coffee-paper,
 	.lunch-paper {
 		position: relative;
 		top: 20px;
 	}
-	
+
 	.social {
 		position: relative;
 		top: 3.4em;
@@ -433,6 +430,17 @@ address {
 
 	.social-icon {
 		margin: 15px 0;
+		i {
+			color: white;
+			width: 30px;
+			height: 30px;
+			background-color: #777;
+			border-radius: 50%;
+			display: flex;
+  		justify-content: center;
+			align-items: center;
+			margin: 0 auto;
+		}
 	}
 
   .loeffel-links {

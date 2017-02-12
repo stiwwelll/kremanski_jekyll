@@ -107,26 +107,26 @@ layout: default
 						{% img "Headline_Events.png" class:"img-responsive events-headline" alt: "events" %}
           </div>
         </div>
-				<div class="row event-highlights">
-					{% assign event = site.events | where_exp:"event", "event.name" | first %}
-	        <div class="col-xs-12 col-sm-5 col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1">
-						<img src="{{event.image_path}}" class="img-responsive center-block" alt="{{event.image_alt}}"/>
-	        </div>
-	        <div class="col-xs-12 col-sm-7 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
-	          <h1>{{ event.name }}</h1>
-	          <h1>{{ event.date }}></h1>
-	          <p>{{ event.content }}</p>
-	        </div>
-	      </div>
-	      {% unless event.name | last }} %}
-					{% img "Linie_Punkt_Lang.png" class: "center-block event-linie img-responsive" %}
-	      {% endunless %}
-	    <% end %>
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<a href="#contact_form" class="event-link">
-					{% img "Platzhalter_noEvents.png" class:"img-responsive event-placeholder center-block" alt: "noevents" %}
-				</a>
-			</div>
+				{% assign sorted = (site.events | sort: 'datetime') | reverse %}
+				{% for event in sorted %}
+					<div class="row event-highlights">
+		        <div class="col-xs-12 col-sm-5 col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1">
+							<img src="{{event.image_path}}" class="img-responsive center-block" alt="{{event.image_alt}}"/>
+		        </div>
+		        <div class="col-xs-12 col-sm-7 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
+		          <h1>{{ event.name }}</h1>
+		          <h1>{{ event.datetime | date: "%d.%m.%Y" }}</h1>
+		          <p>{{ event.content }}</p>
+		        </div>
+	      	</div>
+					{% img "Linie_Punkt_Lang.png" class:"center-block event-linie img-responsive" %}
+				{% else %}
+		      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<a href="#contact_form" class="event-link">
+							{% img "Platzhalter_noEvents.png" class:"img-responsive event-placeholder center-block" alt: "noevents" %}
+						</a>
+					</div>
+				{% endfor %}
       </div>
       <div class="container">
         <div class="row">
@@ -146,7 +146,7 @@ layout: default
     <div class="container cocktail">
       <div class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-1 col-md-3 col-md-offset-1 col-lg-3´2 col-lg-offset-3 glas">
-          {% img "Cocktail_frei_kl.png" class: "center-block img-responsive" %}
+          {% img "Cocktail_frei_kl.png" class:"center-block img-responsive" %}
         </div>
       </div>
     </div>
@@ -155,7 +155,7 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
-            {% img "Headline_Menu.png" class: "img-responsive menu_headline" alt: "eat and drink" %}
+            {% img "Headline_Menu.png" class:"img-responsive menu_headline" alt: "eat and drink" %}
             <p class="editable">From breakfast to lunch and from coffee break to evening drinks – our aim is simply to offer something good. Food, that is freshly made, creative and healthy. Beverages, that come from local providers. Like what we would offer our friends at home.<br>
             <br>
             Please check out our menu!<br>
@@ -181,23 +181,26 @@ layout: default
             </p>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 post-it">
-            {% img "Post_It_Menu.png" class: "center-block img-responsive" %}
+            {% img "Post_It_Menu.png" class:"center-block img-responsive" %}
           </div>
         </div>
         <div class="row menu-papers">
           <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-						<a href="#" target: "_blank">
-							{% img "But_Papier_Coffee.png" class: "center-block img-responsive coffee-paper" alt: "Getraenkekarte" %}
+						{% assign drinks = site.data.pdfs | where: "name", "Drinks" | first %}
+						<a href="{{ drinks.path }}" target="_blank">
+							{% img "But_Papier_Coffee.png" class:"center-block img-responsive coffee-paper" alt: "Getraenkekarte" %}
 						</a>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-						<a href="#" target: "_blank">
-							{% img "But_Papier_Breakfast.png" class: "center-block img-responsive breakfast-paper" alt: "Fruehstueckskarte" %}
+						{% assign breakfast = site.data.pdfs | where: "name", "Breakfast" | first %}
+						<a href="{{ breakfast.path }}" target="_blank">
+							{% img "But_Papier_Breakfast.png" class:"center-block img-responsive breakfast-paper" alt: "Fruehstueckskarte" %}
 						</a>
           </div>
           <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-						<a href="#" target: "_blank">
-							{% img "But_Papier_Lunch.png" class: "center-block img-responsive lunch-paper" alt: "Mittagskarte" %}
+						{% assign lunch = site.data.pdfs | where: "name", "Lunch" | first %}
+						<a href="{{ lunch.path }}" target"_blank">
+							{% img "But_Papier_Lunch.png" class:"center-block img-responsive lunch-paper" alt: "Mittagskarte" %}
 						</a>
           </div>
         </div>
@@ -207,7 +210,7 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-5 col-sm-offset-4 col-md-4 col-md-offset-4 col-lg-4 col-lg-offset-4">
-          {% img "Chia_Muesli_frei.png" class: "center-block img-responsive" %}
+          {% img "Chia_Muesli_frei.png" class:"center-block img-responsive" %}
         </div>
       </div>
     </div>
@@ -217,7 +220,7 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            {% img "Headline_Partner.png" class: "center-block img-responsive partnerueberschrift" %}
+            {% img "Headline_Partner.png" class:"center-block img-responsive partnerueberschrift" %}
             <div id="carousel-example-generic-2" class="carousel slide" data-ride="carousel" data-interval="3500">
               <!-- Wrapper for slides -->
               <div class="carousel-inner carousel-inner-partner" role="listbox">
@@ -230,31 +233,48 @@ layout: default
 
               <!-- Controls -->
               <a class="left carousel-control" href="#carousel-example-generic-2" role="button" data-slide="prev">
-                {% img "Loeffel_off_links.png" class: "loeffel-icon loeffel-links-partner" %}
+                {% img "Loeffel_off_links.png" class:"loeffel-icon loeffel-links-partner" %}
                 <span class="sr-only">Previous</span>
               </a>
               <a class="right carousel-control" href="#carousel-example-generic-2" role="button" data-slide="next">
-                {% img "Loeffel_off.png" class: "loeffel-icon loeffel-rechts-partner" %}
+                {% img "Loeffel_off.png" class:"loeffel-icon loeffel-rechts-partner" %}
                 <span class="sr-only">Next</span>
               </a>
-              {% img "swipe_icon.png" class: "center-block img-responsive swipe-icon-partner" %}
+              {% img "swipe_icon.png" class:"center-block img-responsive swipe-icon-partner" %}
             </div>
           </div>
           <div class="col-xs-6 col-xs-offset-3 col-sm-12 col-sm-offset-0 col-md-4 col-lg-4 col-lg-offset-0">
-            {% img "Kaffee_LatteArt_kl.png" class: "center-block img-responsive kaffee" %}
+            {% img "Kaffee_LatteArt_kl.png" class:"center-block img-responsive kaffee" %}
           </div>
         </div>
       </div>
     </div>
-    <a href="https://www.instagram.com/cafekremanski/" class: "instagram-teaser center-block", target: "_blank">
-			Wanna see more? Check Instagram
-		</a>
+
+		<!-- Bildergalerie -->
+		<div id="gallery" class="anchor">
+		  <div class="container">
+		    <div class="row">
+		      <div class="col-xs-12 col-sm-10 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1">
+		        {% img "Headlines_Impressions1.png" class:"img-responsive gallery-headline" alt:"gallery" %}
+		      </div>
+					{% for gallery in site.data.galleries %}
+			      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+							<a data-lightbox="Gallerie" href="{{ gallery.image_path_gr }}">
+								<img class="center-block" alt="{{ gallery.name }}" src="{{ gallery.image_path_kl }}">
+							</a>
+			      </div>
+		      {% endfor %}
+		    </div>
+		    <a href="https://www.instagram.com/cafekremanski/" class="instagram-teaser center-block" target="_blank">Wanna see more? Check Instagram</a>
+		  </div>
+		</div>
+
 
     <!-- Muffin -->
     <div class="container">
       <div class="row">
         <div class="col-xs-6 col-xs-offset-3 col-sm-5 col-sm-offset-4 col-md-4 col-md-offset-8 col-lg-3 col-lg-offset-7">
-          {% img "SchokoMuffin_frei.png" class: "center-block img-responsive muffin" %}
+          {% img "SchokoMuffin_frei.png" class:"center-block img-responsive muffin" %}
         </div>
       </div>
     </div>
@@ -264,29 +284,69 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-            {% img "Circle_Call_Us.png" class: "center-block img-responsive call-us" %}
+            {% img "Circle_Call_Us.png" class:"center-block img-responsive call-us" %}
           </div>
+					<div class="col-xs-12 col-xs-offset-0 col-sm-12 col-sm-offset-0 col-md-7 col-lg-7 form">
+	          {% img "Headline_Kontakt.png" class:"center-block img-responsive kontaktueberschrift" %}
+						<form action="https://formspree.io/marco.steffensky@gmail.com"
+		      method="POST">
+							<div class="form-group">
+		            <div class="row name">
+		              <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+		                <label class="label" for="name">Name:</label>
+		              </div>
+		              <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 ">
+		                <input type="text" name="name" id="name" class="textfeld" required="required" aria-required="true">
+		              </div>
+		            </div>
+		          </div>
+		          <div class="form-group">
+		            <div class="row email">
+		              <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+		                <label class="label" for="email">E-mail:</label>
+		              </div>
+		              <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+		                <input type="email" name="_replyto" id="email" class="textfeld" required="required" aria-required="true">
+		              </div>
+		            </div>
+		          </div>
+		          <div class="form-group">
+		            <div class="row email">
+		              <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+		                <label class="label" for="message">Nachricht:</label>
+		              </div>
+		              <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+		                <textarea name="message" id="message" class="textarea" required="required" aria-required="true"></textarea>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="submit">
+		              <input type="submit" value="Senden" class="btn btn-default has-spinner" id="contact-form-submit">
+		          </div>
+						</form>
+	        </div>
         </div>
+
         <div class="row links-map">
           <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 social">
             <div class="col-xs-3 col-sm-3 col-md-12 col-lg-12 social-icon">
-							<a href="https://www.facebook.com/kremanski/" target: "_blank">
-								{% img "Icon_FB_35x35.png" class: "center-block icon-link" alt: "Facebook_Icon" %}
+							<a href="https://www.facebook.com/kremanski/" target="_blank" class="icon">
+								<i class="fa fa-facebook fa-lg" aria-hidden="true"></i>
 							</a>
             </div>
             <div class="col-xs-3 col-sm-3 col-md-12 col-lg-12 social-icon">
-							<a href="https://www.instagram.com/cafekremanski/" target: "_blank">
-								{% img "Icon_Instagram_35x35.png" class: "center-block icon-link" alt: "Instagram_Icon" %}
+							<a href="https://www.instagram.com/cafekremanski/" target="_blank" class="icon">
+								<i class="fa fa-instagram fa-lg" aria-hidden="true"></i>
 							</a>
             </div>
             <div class="col-xs-3 col-sm-3 col-md-12 col-lg-12 social-icon">
-							<a href="http://www.yelp.de/biz/kremanski-berlin" target: "_blank">
-								{% img "Icon_Yelp_35x35.png" class: "center-block icon-link" alt: "Yelp_Icon" %}
+							<a href="http://www.yelp.de/biz/kremanski-berlin" target="_blank" class="icon">
+								<i class="fa fa-yelp fa-lg" aria-hidden="true"></i>
 							</a>
             </div>
             <div class="col-xs-3 col-sm-3 col-md-12 col-lg-12 social-icon">
-							<a href="http://tinyurl.com/hqqybx4/" target: "_blank">
-								{% img "Icon_Maps_35x35.png" class: "center-block icon-link" alt: "Maps_Icon" %}
+							<a href="http://tinyurl.com/hqqybx4/" target="_blank" class="icon">
+								<i class="fa fa-map-marker fa-lg" aria-hidden="true"></i>
 							</a>
             </div>
           </div>
