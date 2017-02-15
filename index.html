@@ -288,8 +288,7 @@ layout: default
           </div>
 					<div class="col-xs-12 col-xs-offset-0 col-sm-12 col-sm-offset-0 col-md-7 col-lg-7 form">
 	          {% img "Headline_Kontakt.png" class:"center-block img-responsive kontaktueberschrift" %}
-						<form action="https://formspree.io/marco.steffensky@gmail.com"
-		      method="POST">
+						<form method="POST">
 							<div class="form-group">
 		            <div class="row name">
 		              <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
@@ -320,9 +319,12 @@ layout: default
 		              </div>
 		            </div>
 		          </div>
+							<input type="hidden" name="_to" class="email_to">
+							<input type="text" name="_gotcha" style="display: none;">
 		          <div class="submit">
 		              <input type="submit" value="Senden" class="btn btn-default has-spinner" id="contact-form-submit">
 		          </div>
+							<div class="g-recaptcha" data-sitekey="6LcFvBUUAAAAAMi5ozJ4NLe_fRaphPxd1gKxQkes"></div>
 						</form>
 	        </div>
         </div>

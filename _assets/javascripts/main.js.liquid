@@ -43,6 +43,10 @@ $(function() {
     $( "#impressum-container" ).fadeToggle( "slow", "linear");
   });
 
+  $("#contact-form-submit").click(function() {
+    $(".email_to").val("marco.steffensky@gmail.com");
+  });
+
   $(".carousel-inner-header").swipe( {
     //Generic swipe handler for all directions
     swipeRight:function(event, direction, distance, duration, fingerCount) {
