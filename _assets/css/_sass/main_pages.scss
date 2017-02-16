@@ -240,14 +240,17 @@ textarea:focus {
 
 .label {
 	position: relative;
-	top: 10px;
+	top: -5px;
 	font-size: 1.2em;
 	text-transform: uppercase;
 	color: #000;
 }
 
-#email-error {
-	color: red;
+#thank_you {
+	display: none;
+	font-weight: bold;
+	color: #004400;
+	width: 80%;
 }
 
 .btn-default {
@@ -265,16 +268,29 @@ textarea:focus {
 
 .social {
 	margin-bottom: 50px;
-}
-
-.icon-link:hover {
-	opacity: 0.8;
-	filter: alpha(opacity=80); /* For IE8 and earlier */
-	-webkit-transition: all 0.3s linear;
-  -moz-transition: all 0.3s linear;
-  -ms-transition: all 0.3s linear;
-  -o-transition: all 0.3s linear;
-  transition: all 0.3s linear;
+	.social-icon {
+		margin: 15px 0;
+		a:hover {
+			text-decoration: none;
+		}
+		i {
+			color: #fff;
+			width: 30px;
+			height: 30px;
+			background-color: #777;
+			border-radius: 50%;
+			display: flex;
+  		justify-content: center;
+			align-items: center;
+			margin: 0 auto;
+			transition: 0.2s;
+			i:hover {
+				background-color: #fff;
+				color: #777;
+				border: 1px solid #777;
+			}
+		}
+	}
 }
 
 #map {
@@ -422,6 +438,10 @@ address {
 		top: 20px;
 	}
 
+	.label {
+		top: 10px;
+	}
+
 	.social {
 		position: relative;
 		top: 3.4em;
@@ -433,17 +453,6 @@ address {
 		a:hover {
 			text-decoration: none;
 		}
-		i {
-			color: white;
-			width: 30px;
-			height: 30px;
-			background-color: #777;
-			border-radius: 50%;
-			display: flex;
-  		justify-content: center;
-			align-items: center;
-			margin: 0 auto;
-		}
 	}
 
   .loeffel-links {
@@ -452,13 +461,6 @@ address {
 
 	.loeffel-rechts {
 		right: -5%;
-	}
-
-
-	#thank_you {
-		display: none;
-		font-weight: bold;
-		color: #004400;
 	}
 
 
