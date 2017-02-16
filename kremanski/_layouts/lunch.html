@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<img class="lunch_logo" src="assets/Kremanski_Logo_226px.png" />
+
+<p class="lunch_date">{{ site.time | date: "%d.%m.%Y" }}</p>
+
+<div class="container lunch_content">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 editable">
+      {{ content }}
+    </div>
+  </div>
+</div>

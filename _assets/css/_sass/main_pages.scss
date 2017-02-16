@@ -430,6 +430,9 @@ address {
 
 	.social-icon {
 		margin: 15px 0;
+		a:hover {
+			text-decoration: none;
+		}
 		i {
 			color: white;
 			width: 30px;
