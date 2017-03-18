@@ -35,7 +35,7 @@ layout: default
         <div class="carousel-inner carousel-inner-header" role="listbox">
 					{% for new in site.data.news %}
 	          <div class="item {% if forloop.first == true %} active{% endif %}">
-							<img src="{{ new.image_path }}" class="center-block" alt="{{ new.alt }}"/>
+							<img src="{{ new.image_path }}" class="center-block" alt="{{ new.alt }}" />
 	          </div>
 					{% endfor %}
         </div>
@@ -54,7 +54,7 @@ layout: default
     </div>
 
     <!-- Oeffnungszeiten -->
-    <p class="oeffnung center-block editable">&Ouml;ffnungszeiten:<br class="break1 editable"> Mo.-Do. 8:30 – 23:30 Uhr<br class="break2 editable">Fr: 8:30 – 2:00 UHR<br class="break3 editable">Sa: 10–2:00 Uhr<br class="break4 editable"> S0: 10–23 Uhr</p>
+    <p class="oeffnung center-block editable">&Ouml;ffnungszeiten:<br class="break1" />Mo. &ndash; Do. 8:30 &ndash; 23:30 Uhr<br class="break2" />Fr: 8:30 &ndash; 2:00 UHR<br class="break3" />Sa: 10&ndash;2:00 Uhr<br class="break4" />So: 10&ndash;23 Uhr</p>
 
     <!-- Loeffelpfeil und Waffelteller -->
     <div class="container">
@@ -107,11 +107,11 @@ layout: default
 						{% img "Headline_Events.png" class:"img-responsive events-headline" alt: "events" %}
           </div>
         </div>
-				{% assign sorted = (site.events | sort: 'datetime') | reverse %}
+				{% assign sorted = (site.events | where: site.event.show,"true" | sort: 'datetime') | reverse %}
 				{% for event in sorted %}
 					<div class="row event-highlights">
 		        <div class="col-xs-12 col-sm-5 col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1">
-							<img src="{{event.image_path}}" class="img-responsive center-block" alt="{{event.image_alt}}"/>
+							<img src="{{event.image_path}}" class="img-responsive center-block" alt="{{event.image_alt}}" />
 		        </div>
 		        <div class="col-xs-12 col-sm-7 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
 		          <h1>{{ event.name }}</h1>
@@ -132,12 +132,12 @@ layout: default
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 ownevent">
             <h1 class="editable">Book <strong>Kremanski</strong> for your own event!</h1>
-            <p class="editable">You want to celebrate or invite friends or business partners – rent KREMANSKI!<br>
-            <br>
-            Whether you want a special buffet, set dinner, live-music or DJ – we can talk about all your ideas. The whole place fits 40 to 90 people depending on the amount of tables. The small bar in the back fits up to 25 people standing. Reserving just one table is possible as well. In terms of financial conditions, we are open to make individual deals.<br>
-            <br>
-            So, please feel free to talk to us about your personal idea and together we figure out something that fits!<br>
-            <br>
+            <p class="editable">You want to celebrate or invite friends or business partners – rent KREMANSKI!<br />
+            <br />
+            Whether you want a special buffet, set dinner, live-music or DJ – we can talk about all your ideas. The whole place fits 40 to 90 people depending on the amount of tables. The small bar in the back fits up to 25 people standing. Reserving just one table is possible as well. In terms of financial conditions, we are open to make individual deals.<br />
+            <br />
+            So, please feel free to talk to us about your personal idea and together we figure out something that fits!<br />
+            <br />
             Please note: Because of noise-sensitive neighbours we can´t be a real „club space“ until the morning hours.</p>
           </div>
         </div>
@@ -156,29 +156,21 @@ layout: default
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
             {% img "Headline_Menu.png" class:"img-responsive menu_headline" alt: "eat and drink" %}
-            <p class="editable">From breakfast to lunch and from coffee break to evening drinks – our aim is simply to offer something good. Food, that is freshly made, creative and healthy. Beverages, that come from local providers. Like what we would offer our friends at home.<br>
-            <br>
-            Please check out our menu!<br>
-            <br>
-            Helpers to keep our standard high:<br>
+            <p class="editable">From breakfast to lunch and from coffee break to evening drinks – our aim is simply to offer something good. Food, that is freshly made, creative and healthy. Beverages, that come from local providers. Like what we would offer our friends at home.<br />
+            <br />
+            Please check out our menu!<br />
+            <br />
+            Helpers to keep our standard high:<br />
             <ul class="foodlist editable">
-              <li>Espresso, roasted by BONANZA</li>
-              <li>Quality brewing by LA MARZOCCO</li>
-              <li>Daily fresh, fine and creative foods by JULIEN ROUVROY</li>
-              <li>Homemade Cakes by CAMILLA and friends</li>
-              <li>SUPERFOOD (CHIA grains, ACEROLA, ACAI) from Fine Fruits Company</li>
-              <li>Local quality beers from SCHOPPE BRÄU and BERLINER BERG</li>
-              <li>And many others!</li>
+              <li class="editable">Espresso, roasted by BONANZA</li>
+              <li class="editable">Quality brewing by LA MARZOCCO</li>
+              <li class="editable">Daily fresh, fine and creative foods by JULIEN ROUVROY</li>
+              <li class="editable">Homemade Cakes by CAMILLA and friends</li>
+              <li class="editable">SUPERFOOD (CHIA grains, ACEROLA, ACAI) from Fine Fruits Company</li>
+              <li class="editable">Local quality beers from SCHOPPE BRÄU and BERLINER BERG</li>
+              <li class="editable">And many others!</li>
             </ul>
-            <p class="editable">As YOU, our clients, are the key to our efforts, please let us know your opinion on your KREMANSKI-experience. We are glad to make things even more satisfying for YOU!<br>
-            <br>
-            Enjoy Kremanski at HOME or in your OFFICE:<br>
-            If you want to enjoy a creative lunch once or every week together with your whole team in the office: no problem! Talk to us and we organize it "custom-made"! <br>
-            <br>
-            If you want to order lunch spontaneously- check out our partners DELIVEROO and FOODORA!<br>
-            <br>
-            You are also welcome  to order BIG AMOUNTS (like 10-40 meals) – once or on a regular basis – please contact us and we will send an individual composition of meals to you!
-            </p>
+            </p><p class="editable">As YOU, our clients, are the key to our efforts, please let us know your opinion on your KREMANSKI-experience. We are glad to make things even more satisfying for YOU!<br /><br />Enjoy Kremanski at HOME or in your OFFICE:<br />If you want to enjoy a creative lunch once or every week together with your whole team in the office: no problem! Talk to us and we organize it "custom-made"!<br /><br />You are also welcome to order BIG AMOUNTS (like 10-40 meals) &ndash; once or on a regular basis &ndash; please contact us and we will send an individual composition of meals to you!</p>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 post-it">
             {% img "Post_It_Menu.png" class:"center-block img-responsive" %}
@@ -226,7 +218,7 @@ layout: default
               <div class="carousel-inner carousel-inner-partner" role="listbox">
 								{% for partner in site.data.partners %}
 				          <div class="item {% if forloop.first == true %} active{% endif %}">
-										<img src="{{partner.image_path}}" class="img-responsive center-block" alt="{{eparner.alt}}"/>
+										<img src="{{partner.image_path}}" class="img-responsive center-block" alt="{{eparner.alt}}" />
 				          </div>
 								{% endfor %}
               </div>
@@ -260,7 +252,7 @@ layout: default
 					{% for gallery in site.data.galleries %}
 			      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 							<a data-lightbox="Gallerie" href="{{ gallery.image_path_gr }}">
-								<img class="center-block" alt="{{ gallery.name }}" src="{{ gallery.image_path_kl }}">
+								<img class="center-block" alt="{{ gallery.name }}" src="{{ gallery.image_path_kl }}" />
 							</a>
 			      </div>
 		      {% endfor %}
@@ -295,7 +287,7 @@ layout: default
 		                <label class="label" for="name">Name:</label>
 		              </div>
 		              <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 ">
-		                <input type="text" name="name" id="name" class="textfeld" required="required" aria-required="true">
+		                <input type="text" name="name" id="name" class="textfeld" required="required" aria-required="true" />
 		              </div>
 		            </div>
 		          </div>
@@ -305,7 +297,7 @@ layout: default
 		                <label class="label" for="email">E-mail:</label>
 		              </div>
 		              <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
-		                <input type="email" name="_replyto" id="email" class="textfeld" required="required" aria-required="true">
+		                <input type="email" name="_replyto" id="email" class="textfeld" required="required" aria-required="true" />
 		              </div>
 		            </div>
 		          </div>
@@ -319,10 +311,10 @@ layout: default
 		              </div>
 		            </div>
 		          </div>
-							<input type="hidden" name="_to" class="email_to">
-							<input type="text" name="_gotcha" style="display: none;">
+							<input type="hidden" name="_to" class="email_to" />
+							<input type="text" name="_gotcha" style="display: none;" />
 		          <div class="submit">
-		              <input type="submit" value="Senden" class="btn btn-default has-spinner" id="contact-form-submit">
+		              <input type="submit" value="Senden" class="btn btn-default has-spinner" id="contact-form-submit" />
 		          </div>
 						</form>
 						<div class="alert alert-success" id="thank_you">
@@ -365,7 +357,6 @@ layout: default
       </div>
     </div>
   </main>
-  <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANLRwunMi2LxFy5bF8-XaOK7CFoZhOleg&callback=initMap">
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANLRwunMi2LxFy5bF8-XaOK7CFoZhOleg&callback=initMap">
 	</script>
 </body>
