@@ -11,6 +11,17 @@ collections:
   events:
     output: true
 
+defaults:
+  - scope:
+      path: "lunch.html"
+    values:
+      layout: lunch
+      title: "Kremanski: Have a look at our latest lunch menu"
+  - scope:
+      type: events
+    values:
+      show: true
+
 assets:
   sources:
     - _assets/css
