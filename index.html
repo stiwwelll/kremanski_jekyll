@@ -251,8 +251,8 @@ layout: default
 		      </div>
 					{% for gallery in site.data.galleries %}
 			      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-							<a data-lightbox="Gallerie" href="{{ gallery.image_path_gr }}">
-								<img class="center-block" alt="{{ gallery.name }}" src="{{ gallery.image_path_kl }}" />
+							<a data-lightbox="Gallerie" href="{{ gallery.image_gr_path }}">
+								<img class="center-block" alt="{{ gallery.name }}" src="{{ gallery.image_kl_path }}" />
 							</a>
 			      </div>
 		      {% endfor %}
