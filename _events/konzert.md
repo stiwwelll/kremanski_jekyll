@@ -1,7 +1,9 @@
 ---
 show: false
-name: konzert
-datetime: 2017-01-01 10:43:00
-image_path: uploads/events/metallica.jpg
-image_alt: Iron Maiden
+name: Nick Evans
+datetime: 2017-04-01 00:00:00
+image_path: /uploads/events/NickEvans.jpg
+image_alt: NIck Evans
 ---
+
+
