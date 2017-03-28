@@ -107,7 +107,7 @@ layout: default
 						{% img "Headline_Events.png" class:"img-responsive events-headline" alt: "events" %}
           </div>
         </div>
-				{% assign sorted = (site.events | where: site.event.show,"true" | sort: 'datetime') | reverse %}
+				{% assign sorted = (site.events | where: site.event.show, true | sort: "datetime") | reverse %}
 				{% for event in sorted %}
 					<div class="row event-highlights">
 		        <div class="col-xs-12 col-sm-5 col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1">
