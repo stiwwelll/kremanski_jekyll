@@ -1,4 +1,3 @@
-
 - name: Cocktailkarte
   image_gr_path: /uploads/gallery/Cocktailschild_gr.jpg
   image_kl_path: /uploads/gallery/Cocktailschild_kl.png
@@ -39,16 +38,16 @@
   image_gr_path: /uploads/gallery/Mueslifenster_gr.jpg
   image_kl_path: /uploads/gallery/Mueslifenster_kl.png
 - name: Interior
-  image_gr_path: /uploads/gallery/4_Interior1_gr.jpg
+  image_gr_path: /uploads/gallery/4_Interior1.jpg
   image_kl_path: /uploads/gallery/4_Interior1_kl.png
 - name: Kaffeemaschine
-  image_gr_path: /uploads/gallery/5_KaffeeMaschine_gr.jpg
+  image_gr_path: /uploads/gallery/KaffeeMaschine.jpg
   image_kl_path: /uploads/gallery/5_KaffeeMaschine_kl.png
 - name: Schild
-  image_gr_path: /uploads/gallery/6_Schild_vorne_kl.jpg
+  image_gr_path: /uploads/gallery/6_Schild_vorne.jpg
   image_kl_path: /uploads/gallery/6_Schild_vorne_kl.png
 - name: Sofakaffee
-  image_gr_path: /uploads/gallery/7_Sofa-Kaffee_gr.jpg
+  image_gr_path: /uploads/gallery/7_Sofa-Kaffee.jpg
   image_kl_path: /uploads/gallery/7_Sofa-Kaffee_kl.png
 - name: Kerzen
   image_gr_path: /uploads/gallery/Tische_Kerzenschein_gr.jpg
