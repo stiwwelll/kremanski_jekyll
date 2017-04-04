@@ -3,15 +3,17 @@ layout: lunch
 ---
 
 
-A brand new week in K!!!!
+Dienstag, 04.04..2017
 
-Monday maniac:
+Come and have K-Lunch with us!!!!
 
 \*Risotto mit Champignon und Thymian (6,9)
 
-\*Zucchini gef&uuml;hlt mit Rindfleisch und Zaziki (6,9)
+\*gef&uuml;llte Zucchini mit Rindfleisch und Tzatziki Sauce (6,9)
 
-\*Vollkorn Penne mit Gem&uuml;se in Soja Sauce (5,9)
+\*Vollkorn Penne mit Gem&uuml;se in Soya Sauce (5,9)
+
+\* Kartoffel-Spinat Gnocchi in Salbeibutter [VEGAN] (6,9)
 
 All Day Long
 
@@ -23,4 +25,4 @@ All Day Long
 
 Limetten Cheesecake, Karotten Kuchen, Schoko-Blaubeere Kuchen, Cheesecake mit Erdbeere Deckel, Schoko Vegan Brownie, Vegane Banane Brot, Vegane Apfel Streusel Kuchen....
 
-und......BONANZA COFFEE!!!!!!!!
+<br>und......BONANZA COFFEE!!!!!!!!
