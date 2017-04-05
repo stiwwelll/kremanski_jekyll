@@ -3,26 +3,26 @@ layout: lunch
 ---
 
 
-Dienstag, 04.04..2017
+Mittwoch, 5.4.2017
 
-Come and have K-Lunch with us!!!!
+Sonne auf der Terrasse, kreativer Lunch, BONANZA-Kaffee und was noch?
 
-\*Risotto mit Champignon und Thymian (6,9)
+\* Kichererbsen-Ragout mit S&uuml;sskartoffeln (6,9)
 
-\*gef&uuml;llte Zucchini mit Rindfleisch und Tzatziki Sauce (6,9)
+\* Spinat-Gnocchi (hausgemacht, OLD-STYLE) (6,9)
 
-\*Vollkorn Penne mit Gem&uuml;se in Soya Sauce (5,9)
+\* Pasta-Auflauf mit Rindfleisch (6,9)
 
-\* Kartoffel-Spinat Gnocchi in Salbeibutter [VEGAN] (6,9)
+\* Cremiges Chamignon-Risotto (6,9)
 
-All Day Long
+\* Lauch-Paprika-Quiche o/m Salat (3,9/6)
 
-\*Suppe (Tomaten-Bohnen) mit Brot und Dip (5,-)
+\* Orange-M&ouml;hre-Suppe mit hausgemachtem Brot und Dip (5)
 
-\*Quiche (Paprika-Champignon) ohne/mit Salat (3,9/6)
+danach Limetten-Cheesecake, Carrot Cake, Erdbeer-Joghurt-Torte, Orange-Joghurt-Kuchen oder Schoko-Brownie (vegan)?
 
-\*Sandwiches (Lachs-DillSauce-Salat/K&auml;se-Dip-Salat) (2,8)
+Oder doch Chia-M&uuml;sli und Acerola-Shake?
 
-Limetten Cheesecake, Karotten Kuchen, Schoko-Blaubeere Kuchen, Cheesecake mit Erdbeere Deckel, Schoko Vegan Brownie, Vegane Banane Brot, Vegane Apfel Streusel Kuchen....
+Oder schon ein Craft-Beer?
 
-<br>und......BONANZA COFFEE!!!!!!!!
+Setz Dich!
