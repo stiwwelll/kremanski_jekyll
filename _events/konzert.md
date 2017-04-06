@@ -10,4 +10,4 @@ Next Saturday proudly present: Nick Evans – a singer/songwriter and environmen
 <br>
 <br>Evans’ debut solo EP, “American Drab,” was released in Winter 2016.
 <br>
-<br>[https://www.facebook.com/events/1753180918344084/](https://www.facebook.com/events/1753180918344084/)
+<br>[Facebook Event](https://www.facebook.com/events/1753180918344084/)
