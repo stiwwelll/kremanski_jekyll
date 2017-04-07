@@ -3,26 +3,24 @@ layout: lunch
 ---
 
 
-Mittwoch, 5.4.2017
+Freitag, 7.4.2017
 
 Sonne auf der Terrasse, kreativer Lunch, BONANZA-Kaffee und was noch?
 
-\* Kichererbsen-Ragout mit S&uuml;sskartoffeln (6,9)
+Start the week-end in a good way, start the week.end with K!!!
 
-\* Spinat-Gnocchi (hausgemacht, OLD-STYLE) (6,9)
+\*Kirchererbsen Ragout mit S&uuml;&szlig;kartoffeln -VEGAN- (6,9)
+<br>\*Chili sin Carne (Sojafleisch) a la Daiblo (Scharf)[VEGan] (6,5)
+<br>\* Pasta Auflauf mit Rindfleisch (7,5)
 
-\* Pasta-Auflauf mit Rindfleisch (6,9)
+All Day Long
 
-\* Cremiges Chamignon-Risotto (6,9)
+\*Suppe (Orange- M&ouml;hre) mit Brot und Dip (5,-)
+<br>\*Quiche (Paprika-Lauch) ohne/mit Salat (3,9/6)
+<br>\*Sandwiches (Lachs-DillSauce-Salat/K&auml;se-Dip-Salat) (2,8)
 
-\* Lauch-Paprika-Quiche o/m Salat (3,9/6)
+Limetten Cheesecake, Karotten Kuchen, Klassischer Mandarinen K&auml;sekuchen, Cheesecake mit Erdbeere Deckel, Schoko Vegan Brownie, Vegane Banane Brot, Vegane Apfel Streusel Kuchen, Chia M&uuml;sli, Obstsalat, Waffeln mit Apfelmuse, Nutella oder Zimt und Zucker...
 
-\* Orange-M&ouml;hre-Suppe mit hausgemachtem Brot und Dip (5)
+und......unserer leckerer BONANZA COFFEE!!!!!!!!
 
-danach Limetten-Cheesecake, Carrot Cake, Erdbeer-Joghurt-Torte, Orange-Joghurt-Kuchen oder Schoko-Brownie (vegan)?
-
-Oder doch Chia-M&uuml;sli und Acerola-Shake?
-
-Oder schon ein Craft-Beer?
-
-Setz Dich!
+wir freuen uns auf dich
