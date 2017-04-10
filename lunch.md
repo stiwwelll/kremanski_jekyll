@@ -14,9 +14,13 @@ Kommt zum Essen!:
 
 \* Brombeer-Cheesecake
 
-\* Carrot Cake\* Schoko-Brownie
+\* Carrot Cake
 
-\* Bananenbrot\* Mandarinen-Cheesecake......oder CHIA-M&uuml;sli und ACEROLA-Shake?
+\* Schoko-Brownie
+
+\* Bananenbrot
+
+\* Mandarinen-Cheesecake......oder CHIA-M&uuml;sli und ACEROLA-Shake?
 
 nat&uuml;rlich mit BONANZA-Kaffee oder einer SoliMate!
 
