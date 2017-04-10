@@ -3,24 +3,23 @@ layout: lunch
 ---
 
 
-Freitag, 7.4.2017
+Kommt zum Essen!:
 
-Sonne auf der Terrasse, kreativer Lunch, BONANZA-Kaffee und was noch?
+\* Fleischb&auml;llchen mit Reis a la Mexicana (7,5)
 
-Start the week-end in a good way, start the week.end with K!!!
+\* Penne mit Petersilienpeste und Strauchtomaten (6,5)
 
-\*Kirchererbsen Ragout mit S&uuml;&szlig;kartoffeln -VEGAN- (6,9)
-<br>\*Chili sin Carne (Sojafleisch) a la Daiblo (Scharf)[VEGan] (6,5)
-<br>\* Pasta Auflauf mit Rindfleisch (7,5)
+\* Schokobohnen-Ragout mit Reis -VEGAN- (6,9)
+<br>dazu hausgemachten Kuchen:
 
-All Day Long
+\* Brombeer-Cheesecake
 
-\*Suppe (Orange- M&ouml;hre) mit Brot und Dip (5,-)
-<br>\*Quiche (Paprika-Lauch) ohne/mit Salat (3,9/6)
-<br>\*Sandwiches (Lachs-DillSauce-Salat/K&auml;se-Dip-Salat) (2,8)
+\* Carrot Cake\* Schoko-Brownie
 
-Limetten Cheesecake, Karotten Kuchen, Klassischer Mandarinen K&auml;sekuchen, Cheesecake mit Erdbeere Deckel, Schoko Vegan Brownie, Vegane Banane Brot, Vegane Apfel Streusel Kuchen, Chia M&uuml;sli, Obstsalat, Waffeln mit Apfelmuse, Nutella oder Zimt und Zucker...
+\* Bananenbrot\* Mandarinen-Cheesecake......oder CHIA-M&uuml;sli und ACEROLA-Shake?
 
-und......unserer leckerer BONANZA COFFEE!!!!!!!!
+nat&uuml;rlich mit BONANZA-Kaffee oder einer SoliMate!
+
+Bis gleich!
 
 wir freuen uns auf dich
