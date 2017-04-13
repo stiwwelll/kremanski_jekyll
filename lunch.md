@@ -3,9 +3,11 @@ layout: lunch
 ---
 
 
-Mittwoch ins K!!
+Donnerstag den. 13.04.17
 
-\* Fleischb&auml;llchen a la Mexicana 7,5
+Hunger Hunger ?? Komm doch essen essen !!!
+
+\* Meatballs in Tomatenso&szlig;e mit Salat 7,5
 
 \* Hausgemachte Gnocchi in Butter & Salbei Sauce 6,9
 
@@ -13,16 +15,16 @@ Mittwoch ins K!!
 
 All Day Long
 
-\* Suppe (Kartoffel-Lauch) mit Brot und Dip 5,-
+\*Suppe (Kartoffel-Brokkoli- Kokosmilch) mit Brot und Dip 5,-
 
-\* Quiche (Auberginen-Paprika) ohne/mit Salata 3,9/6,-
+\*Quiche (Auberginen-Paprika) ohne/mit Salata 3,9/6,-
 
 \* Sandwiches (Lachs-Dill Sauce-Salate/K&auml;se-Dip-Salat 2,8
 
-Und noch was S&uuml;sses....
+Und noch was s&uuml;sses??
 
-Veganes BananenBrot, Veganer Brownie, Carrot Cake, Klassischer K&auml;se Kuchen, Limetten Cheesecake. Blaubeer-Yoghurt Torte...
+Veganes BananenBrot, Veganen Brownie, Carrot Cake, Klassischer K&auml;se Kuchen, Snickers Torte. Blaubeere Yoghurt Torte, Waffeln, Chia M&uuml;sli und Power Fruit Shakes...
 
-und Bonanza Coffee....
+Bonanza Coffee ist nat&uuml;rlich auch immer dabei !
 
-Are u still at home!??!?!
+Wir freuen uns auf dich &lt;3
