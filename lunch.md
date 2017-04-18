@@ -3,28 +3,20 @@ layout: lunch
 ---
 
 
-Donnerstag den. 13.04.17
+Dienstag, den. 18.04.17
 
-Hunger Hunger ?? Komm doch essen essen !!!
+H&Auml;SCHENLUNCH f&uuml;r alle, die noch nicht alle Eier gefunden haben, nach dem Motto: AUCH VEGAN IST SUPERLECKER!
 
-\* Meatballs in Tomatenso&szlig;e mit Salat 7,5
+\* Cremiges Champignon-Risotto -regular oder VEGAN (7,5)
 
-\* Hausgemachte Gnocchi in Butter & Salbei Sauce 6,9
+\* Wei&szlig;e Bohnen-Ragout mit Reis (VEGAN) (6,9)
 
-\* Risotto mit Champignon (Vegan Auch) 6,9
+\* Quiche (Champignon-Lauch) o/m Salat (3,9/6)
 
-All Day Long
+\* Suppe (Blumenkohl-Curry mit Kokosmilch) + hausgemachtes
 
-\*Suppe (Kartoffel-Brokkoli- Kokosmilch) mit Brot und Dip 5,-
+Brot + Dip (5)
 
-\*Quiche (Auberginen-Paprika) ohne/mit Salata 3,9/6,-
+Und dazu wie immer BONANZA-Kaffee + vieeeeele hausgemachte Kuchen ,brownie CHIA-M&uuml;sli.....ACAI oder Acerola-Shakes!
 
-\* Sandwiches (Lachs-Dill Sauce-Salate/K&auml;se-Dip-Salat 2,8
-
-Und noch was s&uuml;sses??
-
-Veganes BananenBrot, Veganen Brownie, Carrot Cake, Klassischer K&auml;se Kuchen, Snickers Torte. Blaubeere Yoghurt Torte, Waffeln, Chia M&uuml;sli und Power Fruit Shakes...
-
-Bonanza Coffee ist nat&uuml;rlich auch immer dabei !
-
-Wir freuen uns auf dich &lt;3
+Bis dann!
