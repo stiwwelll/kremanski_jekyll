@@ -3,20 +3,23 @@ layout: lunch
 ---
 
 
-Dienstag, den. 18.04.17
+Mittwoch, den. 19.04.17
 
-H&Auml;SCHENLUNCH f&uuml;r alle, die noch nicht alle Eier gefunden haben, nach dem Motto: AUCH VEGAN IST SUPERLECKER!
+Suprise Suprise!
+<br>Heute wird es HEI&szlig;-er als gestern!
+<br>Die Sonne sitzt schon auf unserer Terasse und ladet euch zum schlemmen und genie&szlig;en ein :)
 
-\* Cremiges Champignon-Risotto -regular oder VEGAN (7,5)
+Heute auf unserer Speisekarte:
 
-\* Wei&szlig;e Bohnen-Ragout mit Reis (VEGAN) (6,9)
+Cremiges Champignon Risotto (vegan: 7,5 - regul&auml;r: 7,5)
 
-\* Quiche (Champignon-Lauch) o/m Salat (3,9/6)
+Vegetarische Lasagne (7,5)
 
-\* Suppe (Blumenkohl-Curry mit Kokosmilch) + hausgemachtes
+wei&szlig;e Bohnen Ragout- mit Reis (vegan: 6,9)
 
-Brot + Dip (5)
+........ALL DAY AND NIGHT LONG..........
 
-Und dazu wie immer BONANZA-Kaffee + vieeeeele hausgemachte Kuchen ,brownie CHIA-M&uuml;sli.....ACAI oder Acerola-Shakes!
+Champignon Zucchini Quiche (o.Salat 3,9 -- m.Salat 6,9)
 
-Bis dann!
+n&acute; Blumenkohl S&uuml;ppchen mit hausgemachtem Brot und Dip
+<br>(5 Eur&ouml;lein)
