@@ -5,21 +5,24 @@ layout: lunch
 
 Mittwoch, den. 19.04.17
 
-Suprise Suprise!
-<br>Heute wird es HEI&szlig;-er als gestern!
-<br>Die Sonne sitzt schon auf unserer Terasse und ladet euch zum schlemmen und genie&szlig;en ein :)
+Hunger?!?!..K hat die Antwort!!
 
-Heute auf unserer Speisekarte:
+\* Weiss Bohnen Ragout mit Reis (VEGAN) (6,5)
 
-Cremiges Champignon Risotto (vegan: 7,5 - regul&auml;r: 7,5)
+\* Hausgemachte Kartoffel Gnocchi in Butter & Salbei Sauce (6,9)
 
-Vegetarische Lasagne (7,5)
+\* Vegetarisch Lasagne (7,2)
 
-wei&szlig;e Bohnen Ragout- mit Reis (vegan: 6,9)
+ALL DAY LONG
 
-........ALL DAY AND NIGHT LONG..........
+\* Suppe (Kartoffel/Brokkoli/Kokosmilch) mit Dip und Brot (5,-)
 
-Champignon Zucchini Quiche (o.Salat 3,9 -- m.Salat 6,9)
+\* Quiche (Champignon/Paprika) ohne/mit Salat (3,9/6,-)
 
-n&acute; Blumenkohl S&uuml;ppchen mit hausgemachtem Brot und Dip
-<br>(5 Eur&ouml;lein)
+\* Sandwiches (Lachs/Gurke/Dill Sauce-K&auml;se/Salat/Dip)
+
+und noch was S&uuml;ss.....
+
+Carrot Cake, Limetten CheeseCake, Klassischer K&auml;se, Apfel Streusel Kuchen (VEGAN), Schoko Brownie (VEGAN), Bananen Brot (VEGAN)...
+
+..Worauf wartest du??..
