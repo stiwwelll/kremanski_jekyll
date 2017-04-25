@@ -3,32 +3,26 @@ layout: lunch
 ---
 
 
-Montag, den 24.04.2017
+Dienstag, dem 25. 04 2017
+<br>
+<br>The coziest, warmer, sweeter corner in Kottbusser Tor in this cold, rainy, gray day!!
 
-Neue Woche, neue Horizonte,
+\*Klassische Lasagne mit Gem&uuml;se (7,9)
 
-alte Gewohnheiten, feine Gewohnheiten:
+\*Risotto mit Champignon in Thymian Aroma (AUCH VEGAN) (7,5)
 
-KREMANSKI!!!
-
-\* Hausgemachte Kartoffel Gnocchi in Tomaten Sauce (6,9)
-
-\* Vegane Rotebete Bratlinge mit Salat (6,9)
-
-\* Panierter und Frittierter Camembert (K&auml;se) mit Preiselbeere (6,9)
+\*Panierter und Frittierter Camembert (K&auml;se) mit Preiselbeere und Salat (6,9)
 
 ALL DAY LONG
 
-\*Suppe (Weisse Bohnen/Paprika) mit Dip und Brot (5,-)
+\*Suppe (Weiss Bohnen/Paprika) mit Dip und Brot (5,-)
 
-\*Quiche (Paprika/Auberginen/Zucchini) ohne/mit Salata (3,9/6,-)
+\*Quiche (Auberginen/Paprika/Zucchini) ohne/mit Salat (3,9/6,-)
 
-\*Sandwiches (Lachs/Dill Sauce/Salat - K&auml;se/Dip/Salat) (2,8)
+\*Sandwiches (Lachs-DillSauce-Salat/K&auml;se-Dip-Salat) (2,8)
 
-and for your sweets moments...
+and......
 
-Snickers Torte, Carrot Cake, Limetten Cheesecake, Kirsch-Mascarpone Torte mit Mandelboden (gluteinfrei), Blaubeer Yoghurt Torte, Vegane Bananen Brot, Vegane Schocko Brownie, Vegane Apfel Streusel Kuchen....
+Edrnuss Himmel Torte, Kirsch-Mascarpone Torte mit Mandel Boden (gluteinfrei), Limetten Cheesecake, Blaubeer-Yoghurt Torte, Vegan banane Brot, Vegan Schocko Brownie...
 
-.....und BONANZA COFFEE RULEZ...
-
-..bist du noch zu hause?!?!?...
+warm your day up.....
