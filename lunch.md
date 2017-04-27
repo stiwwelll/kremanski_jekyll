@@ -3,26 +3,26 @@ layout: lunch
 ---
 
 
-Dienstag, dem 25. 04 2017
-<br>
-<br>The coziest, warmer, sweeter corner in Kottbusser Tor in this cold, rainy, gray day!!
+Dienstag, dem 27. 04 2017
 
-\*Klassische Lasagne mit Gem&uuml;se (7,9)
+IT&acute;s TIME TO SAY GOODBYE,
+<br>GOODBYE TO THE HUNGER!
 
-\*Risotto mit Champignon in Thymian Aroma (AUCH VEGAN) (7,5)
+Und wo geht das wohl besser, als heute auf unserer von Sonne erf&uuml;llten Terasse.
+<br>Ach, und schon erg&auml;nzt die einsame Tr&auml;ne unserer leidenschaftlichen K&ouml;chin das P&uuml;nktchen Salz das noch fehlte.
 
-\*Panierter und Frittierter Camembert (K&auml;se) mit Preiselbeere und Salat (6,9)
+Heute auf unserer Speisekarte:
 
-ALL DAY LONG
+\* Chilli sin Carne (vegan 5,9)
+<br>\* Risotto mit Champignon in Thymian Aroma (auch vegan 7,5)
+<br>\* Gem&uuml;se-Curry mit Pilao (vegan 6,9/mit Lachs 7,9)
+<br>Pilao eine Reis-Kartoffel-Cardamon Beilage
 
-\*Suppe (Weiss Bohnen/Paprika) mit Dip und Brot (5,-)
+ALL DAY LONGER und noch Longer
 
-\*Quiche (Auberginen/Paprika/Zucchini) ohne/mit Salat (3,9/6,-)
+\* Aubergine-Paprika-Zuccini Quiche (m.Salat 6,-/o.Salat 3,9)
+<br>\* Kartoffel-Lauchzwiebel Suppe (5,-)
+<br>mit hausgemachtem Dip und Brot
 
-\*Sandwiches (Lachs-DillSauce-Salat/K&auml;se-Dip-Salat) (2,8)
-
-and......
-
-Edrnuss Himmel Torte, Kirsch-Mascarpone Torte mit Mandel Boden (gluteinfrei), Limetten Cheesecake, Blaubeer-Yoghurt Torte, Vegan banane Brot, Vegan Schocko Brownie...
-
-warm your day up.....
+Bis in ein paar Stunden!
+<br>Eurer Kremanski-Team!
