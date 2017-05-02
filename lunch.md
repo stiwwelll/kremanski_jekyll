@@ -3,26 +3,18 @@ layout: lunch
 ---
 
 
-Dienstag, dem 27. 04 2017
+Dienstag, dem 02. 05. 2017
 
-IT&acute;s TIME TO SAY GOODBYE,
-<br>GOODBYE TO THE HUNGER!
+Refill your Stamina in Kremanski!!
+<br>1. Mai ist weg, aber wir sind immer noch hier, weil, bei uns, es ist immer 1.Mai!!
 
-Und wo geht das wohl besser, als heute auf unserer von Sonne erf&uuml;llten Terasse.
-<br>Ach, und schon erg&auml;nzt die einsame Tr&auml;ne unserer leidenschaftlichen K&ouml;chin das P&uuml;nktchen Salz das noch fehlte.
+\*Risotto mit Champignon in Thymian Aroma (AUCH VEGAN) (6,9)
+<br>\*Cordon Bleu mit Salat und Preiselbeer (7,2)
 
-Heute auf unserer Speisekarte:
+ALL DAY LONG
+<br>\*Suppe (Kartoffeln/Blumenkohl/Rote Linsen) mit Brot und Dip (5)
+<br>\*Quiche (Zucchini) ohne/mit Salat (3,9/6)
+<br>\*Sandwich (Lachs/Dill Sauce/Salat - K&auml;se/Dip/Salat) (2,8)
 
-\* Chilli sin Carne (vegan 5,9)
-<br>\* Risotto mit Champignon in Thymian Aroma (auch vegan 7,5)
-<br>\* Gem&uuml;se-Curry mit Pilao (vegan 6,9/mit Lachs 7,9)
-<br>Pilao eine Reis-Kartoffel-Cardamon Beilage
-
-ALL DAY LONGER und noch Longer
-
-\* Aubergine-Paprika-Zuccini Quiche (m.Salat 6,-/o.Salat 3,9)
-<br>\* Kartoffel-Lauchzwiebel Suppe (5,-)
-<br>mit hausgemachtem Dip und Brot
-
-Bis in ein paar Stunden!
-<br>Eurer Kremanski-Team!
+und noch was s&uuml;ss.....
+<br>Carrot Cake, Milchreis Torte mit Erdbeerdeckel, Oreo Cheesecake, Tiramisu&acute; Torte, Vegan Brownie, Vegan Banane Brot....
