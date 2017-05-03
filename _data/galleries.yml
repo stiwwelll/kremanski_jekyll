@@ -1,28 +1,51 @@
-
-- name: Cocktailkarte
-  image_gr_path: /uploads/gallery/Cocktailschild_gr.jpg
-  image_kl_path: /uploads/gallery/Cocktailschild_kl.png
-- name: Edu an der Bar
-  image_gr_path: /uploads/gallery/Edu_bar_gr.jpg
-  image_kl_path: /uploads/gallery/Edu_bar_kl.png
-- name: Ravioli
-  image_gr_path: /uploads/gallery/Bild3_gr.jpg
-  image_kl_path: /uploads/gallery/Bild3_kl.png
 - name: Blick raus Stehtresen
   image_gr_path: /uploads/gallery/Fensterblick_gr.jpg
   image_kl_path: /uploads/gallery/Fensterblick_kl.png
+- name: Edu an der Bar
+  image_gr_path: /uploads/gallery/Edu_bar_gr.jpg
+  image_kl_path: /uploads/gallery/Edu_bar_kl.png
 - name: Kaffee und Kuchen
   image_gr_path: /uploads/gallery/Bereich_hinten_gr.jpg
   image_kl_path: /uploads/gallery/Bereich_hinten_kl.jpg
+- name: Müsli mit Tagesspiegel
+  image_gr_path: /uploads/gallery/Mueslifenster_gr.jpg
+  image_kl_path: /uploads/gallery/Mueslifenster_kl.png
+- name: Ravioli
+  image_gr_path: /uploads/gallery/Bild3_gr.jpg
+  image_kl_path: /uploads/gallery/Bild3_kl.png
+- name: Malo an der Kaffeemaschine
+  image_gr_path: /uploads/malo-kaffeemaschine-gr.jpg
+  image_kl_path: /uploads/malo-kaffeemaschine-kl.png
+- name: Interior
+  image_gr_path: /uploads/gallery/4_Interior1.jpg
+  image_kl_path: /uploads/gallery/4_Interior1_kl.png
+- name: Kaffeemaschine
+  image_gr_path: /uploads/gallery/KaffeeMaschine.jpg
+  image_kl_path: /uploads/gallery/5_KaffeeMaschine_kl.png
+- name: Sofakaffee
+  image_gr_path: /uploads/gallery/7_Sofa-Kaffee.jpg
+  image_kl_path: /uploads/gallery/7_Sofa-Kaffee_kl.png
+- name: Cocktailkarte
+  image_gr_path: /uploads/gallery/Cocktailschild_gr.jpg
+  image_kl_path: /uploads/gallery/Cocktailschild_kl.png
+- name: Aperol Cocktail
+  image_gr_path: /uploads/aperol-cocktail-gr.jpg
+  image_kl_path: /uploads/aperol-cocktail-kl.png
+- name: Bottles in the bar
+  image_gr_path: /uploads/gallery/Flaschenregal_gr.jpg
+  image_kl_path: /uploads/gallery/Flaschenregal_kl.png
 - name: Mischpult
   image_gr_path: /uploads/gallery/Bild6_gr.jpg
   image_kl_path: /uploads/gallery/Bild6_kl.png
-- name: Music1
-  image_gr_path: /uploads/gallery/Bild7_gr.jpg
-  image_kl_path: /uploads/gallery/Bild7_kl.png
+- name: Schild
+  image_gr_path: /uploads/gallery/6_Schild_vorne.jpg
+  image_kl_path: /uploads/gallery/6_Schild_vorne_kl.png
 - name: Music2
   image_gr_path: /uploads/gallery/Bild8_gr.jpg
   image_kl_path: /uploads/gallery/Bild8_kl.png
+- name: Kerzen
+  image_gr_path: /uploads/gallery/Tische_Kerzenschein_gr.jpg
+  image_kl_path: /uploads/gallery/Tische_Kerzenschein_kl.png
 - name: Crowd1
   image_gr_path: /uploads/gallery/Bild9_gr.jpg
   image_kl_path: /uploads/gallery/Bild9_kl.png
@@ -35,30 +58,3 @@
 - name: Bar Night
   image_gr_path: /uploads/gallery/1_Bar_night_gr.jpg
   image_kl_path: /uploads/gallery/1_Bar_night_kl.png
-- name: Müsli mit Tagesspiegel
-  image_gr_path: /uploads/gallery/Mueslifenster_gr.jpg
-  image_kl_path: /uploads/gallery/Mueslifenster_kl.png
-- name: Interior
-  image_gr_path: /uploads/gallery/4_Interior1_gr.jpg
-  image_kl_path: /uploads/gallery/4_Interior1_kl.png
-- name: Kaffeemaschine
-  image_gr_path: /uploads/gallery/5_KaffeeMaschine_gr.jpg
-  image_kl_path: /uploads/gallery/5_KaffeeMaschine_kl.png
-- name: Schild
-  image_gr_path: /uploads/gallery/6_Schild_vorne_kl.jpg
-  image_kl_path: /uploads/gallery/6_Schild_vorne_kl.png
-- name: Sofakaffee
-  image_gr_path: /uploads/gallery/7_Sofa-Kaffee_gr.jpg
-  image_kl_path: /uploads/gallery/7_Sofa-Kaffee_kl.png
-- name: Kerzen
-  image_gr_path: /uploads/gallery/Tische_Kerzenschein_gr.jpg
-  image_kl_path: /uploads/gallery/Tische_Kerzenschein_kl.png
-- name: Bottles in the bar
-  image_gr_path: /uploads/gallery/Flaschenregal_gr.jpg
-  image_kl_path: /uploads/gallery/Flaschenregal_kl.png
-- name: Aperol Cocktail
-  image_gr_path: /uploads/aperol-cocktail-gr.jpg
-  image_kl_path: /uploads/aperol-cocktail-kl.png
-- name: Malo an der Kaffeemaschine
-  image_gr_path: /uploads/malo-kaffeemaschine-gr.jpg
-  image_kl_path: /uploads/malo-kaffeemaschine-kl.png
