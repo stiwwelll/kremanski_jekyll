@@ -1,13 +1,13 @@
 ---
 name: A Spacefrau ist a Spacefrau ist a Spacefrau
-datetime: 2017-05-18 21:00:00
+datetime: 2017-05-18 19:00:00
 image_path: /uploads/events/flyersisisi.jpg
 image_alt: A Spacefrau ist a Spacefrau ist a Spacefrau
 ---
 
 
 **Elsye Suquilanda – Ligia Liberatori – Minsk (Mijal Bloch)**
-<br>...three women of the latin-american galaxy went out from different points of their world to explore the cosmos and to find their own voices in the industrialized systems.
+<br>…three women of the latin-american galaxy went out from different points of their world to explore the cosmos and to find their own voices in the industrialized systems.
 <br>Hazard, chances and love took them all to the planet 030-Berlin. In this place they put music to their thoughts, experiments and biographical sublimations.
 <br>A Spacefrau
 <br>ist a Spacefrau
