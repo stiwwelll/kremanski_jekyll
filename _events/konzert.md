@@ -1,6 +1,6 @@
 ---
 name: A Spacefrau ist a Spacefrau ist a Spacefrau
-datetime: 2017-05-18 19:00:00 +0200
+datetime: 2017-05-18 19:00:00
 image_path: /uploads/events/flyersisisi.jpg
 image_alt: A Spacefrau ist a Spacefrau ist a Spacefrau
 ---
