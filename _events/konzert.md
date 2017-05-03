@@ -1,6 +1,6 @@
 ---
 name: Nick Evans
-datetime: 2017-04-01 00:00:00
+datetime: 2017-04-01 20:00:00
 image_path: /uploads/events/NickEvans.jpg
 image_alt: Nick Evans
 ---
