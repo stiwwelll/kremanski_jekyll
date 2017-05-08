@@ -3,20 +3,38 @@ layout: lunch
 ---
 
 
-Freitag, dem 05. 05. 2017
+Montag, dem 08. 05. 2017
 
-Warm it up your week-end!!!
+Nichts h&auml;llt uns auf!
 
-\*Vollkorn Penne mit Spargel und Kirschtomaten (7,2)
-<br>\*H&auml;hnchenstreifen in frischer Tomatensauce mit Reis (7,2)
-<br>\*Schoko Trio Bohnen mit Basmati Reis (VEGAN) (6,9)
+Viel muss passieren damit einer von uns verstummt!
 
-All Day Long
-<br>\*Suppe (Linsen/Ingwer/Curry/Kokosmilch) mit Brot und Dip (5,-)
-<br>\*Quiche (Auberginen/Paprika) ohne/mit Salat (3,9/6,-)
-<br>\*Sandwiches (Lachs/Dillsaue/Salat - K&auml;se/Dip/Salat) (2,8)
+Unsere K&uuml;che brummt!
 
-and.....
-<br>Carrot Cake, Oreo Cheesecake, Klassischer K&auml;sekuchen, Cheesecake mit Erdbeer Deckel, Apfel Rhabarber streusel Kuchen (VEGAN), Schoko Brownie (VEGAN), Banane Brot (VEGAN)....
-<br>und BONANZA COFFEE....
-<br>...i mean...what else!?!??!?!
+Und wie jeden Tag,
+
+weil Gloria das so mag,
+
+kein langes Abgewarte,
+
+sonder ne t&auml;glich wechselnde Speisekarte!
+
+Heute bei uns!
+
+\*Hausgemachter Kartoffel Gnocchi in Butter und Salbei Sauce (6,9)
+
+\*Zucchini Spaghetti mit Soya Bolognese Sauce (VEGAN) (6,9)
+
+\*Mexikanicher Wraps mit BioRind Fleisch, Avocado und Feta mit Salat (7,5)
+
+ALL DAY LONG
+
+\*SUPPE (Linsen,Ingwer,Curry,Kokosmilch) mit Brot und Dip (5,-)
+
+\*QUICHE (Spargel, Kirschtomaten) ohne/mit Salat (3,8-6,-)
+
+und was noch suss...
+
+Karroten Kuchen, Erdbeer-Yoghurt Torte, Tiramisu&acute; Torte, Klassischer K&auml;se Kuchen, Apfel Rhabarbar Streusel (VEGAN), Banane Brot (VEGAN), Brownie (VEGAN), Snicker Torte (VEGAN)...
+
+und BONANZA COFFEE....
