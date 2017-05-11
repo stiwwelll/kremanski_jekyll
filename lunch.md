@@ -3,15 +3,15 @@ layout: lunch
 ---
 
 
-Mittwoch, dem 10. 05. 2017
+Donnerstag, dem 11. 05. 2017
 
-Take a break! Pass by Kremanski!!!
+Wenn ich erregt bin, gibt es nur ein Mittel, mich v&ouml;llig zu beruhigen: Essen. (Oscar Wilde)
 
-\*Hausgemachter Kartoffel Gnocchi in Butter und Salbei Sauce (6,9)
+\*Klassischer Lasagna mit Gem&uuml;se + Salat (7,5)
 
-\*Gef&uuml;llte Zucchini mit Soya Bolognese Sauce (VEGAN) (6,9)
+\*Gef&uuml;llte Zucchini mit Soya Bolognese Sauce (VEGAN) mit K&auml;se (VEGETARISCH) (6,9)
 
-\*Gef&uuml;llte Zucchini mit Bio Rind Fleisch und Parmesan K&auml;se mit Salat (7,2)
+\*Spinat-Dal mit Knoblauch Brot (VEGAN) mit Yoghurt (VEGETARISCH) (5,9)
 
 ALL DAY LONG
 
@@ -21,6 +21,6 @@ ALL DAY LONG
 
 und S&uuml;&szlig;es haben wir nat&uuml;&uuml;&uuml;&uuml;rlich auch...
 
-Karroten Kuchen, Apfel streusel kuchen (VEGAN), Heidelbeer Quark Torte (VEGAN), Banane Brot (VEGAN), Vanille-Kokos-Cheesecake, Brownie (VEGAN), Snicker T&ouml;rtchen (VEGAN)...
+Karroten Kuchen, Apfel streusel kuchen (VEGAN), Heidelbeer Quark Torte (VEGAN), Banane Brot (VEGAN), Vanille-Kokos-Cheesecake, Brownie (VEGAN)
 
 und BONANZA COFFEE....
