@@ -3,24 +3,44 @@ layout: lunch
 ---
 
 
-Donnerstag, dem 11. 05. 2017
+MONTAG, 15.05.17
 
-Wenn ich erregt bin, gibt es nur ein Mittel, mich v&ouml;llig zu beruhigen: Essen. (Oscar Wilde)
+"Schmigedi Schmatzi"
 
-\*Klassischer Lasagna mit Gem&uuml;se + Salat (7,5)
+"Schl&uuml;rfedi Schluck"
 
-\*Gef&uuml;llte Zucchini mit Soya Bolognese Sauce (VEGAN) mit K&auml;se (VEGETARISCH) (6,9)
+Man h&ouml;rt das vergn&uuml;gte Schmatzten
 
-\*Spinat-Dal mit Knoblauch Brot (VEGAN) mit Yoghurt (VEGETARISCH) (5,9)
+unserer zufriedenen Trup!
 
-ALL DAY LONG
+Ein Seuftzer hier,
 
-\*SUPPE (Wei&szlig; Bohene-Tomaten) mit Brot und Dip (5,-)
+ein Sabberfaden dort.
 
-\*QUICHE (Spargel, Kirschtomaten,Zucchini) ohne/mit Salat (3,9-6,-)
+Heut gibts keine Kabbereien,
 
-und S&uuml;&szlig;es haben wir nat&uuml;&uuml;&uuml;&uuml;rlich auch...
+zufrieden sollen unsere Kunden sein,
 
-Karroten Kuchen, Apfel streusel kuchen (VEGAN), Heidelbeer Quark Torte (VEGAN), Banane Brot (VEGAN), Vanille-Kokos-Cheesecake, Brownie (VEGAN)
+also ne t&auml;glich wechselnde Speisekarte vor Ort.
 
-und BONANZA COFFEE....
+Heute im Angebot "Lecker gegen Knete":
+
+\*Vollkorn Penne mit Basilikum Pesto (6,9)
+
+und getrokneten Tomaten
+
+\*Kichererbsen Hamburger mit Salat (vegan 6,9)
+
+\*Tortilla de Patata mit Salat (5,9)
+
+++++ Longer then the Day ++++
+
+\*Karotten-Linsen-S&uuml;&szlig;kartoffel Suppe mit Brot und Dip (5,-)
+
+\*Spargel-Cherrytomaten Quiche (m.Salat 6,-/o.Salat 3,9)
+
+\*Sandwishes Lachs oder K&auml;se (2,8)
+
+Bis gleech !
+
+Euer Kremanski Team!
