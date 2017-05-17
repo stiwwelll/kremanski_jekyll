@@ -3,44 +3,34 @@ layout: lunch
 ---
 
 
-MONTAG, 15.05.17
+Mittwoch, 17.05.17
 
-"Schmigedi Schmatzi"
+``Kochen kommt Kalorienreich, denn k&auml;me es von Kohlenhydrate dann hie&szlig;e es ja....&acute;&acute;
 
-"Schl&uuml;rfedi Schluck"
+Ne nochmal!
 
-Man h&ouml;rt das vergn&uuml;gte Schmatzten
+``Kochen kommt von K&auml;se, denn k&auml;me es von Kartoffel dann hie&szlig;e es ja ...&acute;&acute;
 
-unserer zufriedenen Trup!
+Ne nochmal!
 
-Ein Seuftzer hier,
+``Kochen kommt von K&ouml;nnen, JA so war&acute;s , und K&ouml;nnen kommt von Kremanski, dieses wiederum kommt von t&auml;glich-wechselnder Speisekarte, also kommt vorbei &acute;&acute;
 
-ein Sabberfaden dort.
+Heute auf unserer t&auml;glich wechselnden Speisekarte:
 
-Heut gibts keine Kabbereien,
+\* Burritos mexicanos mit Fleisch (7,9)
 
-zufrieden sollen unsere Kunden sein,
+\* Tortilla de Patata m. Salat (5,9)
 
-also ne t&auml;glich wechselnde Speisekarte vor Ort.
+\* Ratatouille mit Reis (vegan 5,9)
 
-Heute im Angebot "Lecker gegen Knete":
++++++ Den lieben ganzen Tag lang +++++
 
-\*Vollkorn Penne mit Basilikum Pesto (6,9)
+\* Paprika-Brokkoli-Porre Quiche (m.Salat 6,-/o.Salat 3,9)
 
-und getrokneten Tomaten
+\*S&uuml;&szlig;kartoffel-Linsen-Karotten Suppe (5,-)
 
-\*Kichererbsen Hamburger mit Salat (vegan 6,9)
+\* Lachs oder K&auml;se Sandwishes (2,8)
 
-\*Tortilla de Patata mit Salat (5,9)
+&Uuml;brigens!
 
-++++ Longer then the Day ++++
-
-\*Karotten-Linsen-S&uuml;&szlig;kartoffel Suppe mit Brot und Dip (5,-)
-
-\*Spargel-Cherrytomaten Quiche (m.Salat 6,-/o.Salat 3,9)
-
-\*Sandwishes Lachs oder K&auml;se (2,8)
-
-Bis gleech !
-
-Euer Kremanski Team!
+K&uuml;ssen kommt von klebrig! Ach das haben wir noch nicht erw&auml;hnt , wir haben jetzt EIS!! :)
