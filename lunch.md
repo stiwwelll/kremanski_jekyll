@@ -3,34 +3,30 @@ layout: lunch
 ---
 
 
-Mittwoch, 17.05.17
+Lustige Salate und Caf&eacute; latte?
 
-``Kochen kommt Kalorienreich, denn k&auml;me es von Kohlenhydrate dann hie&szlig;e es ja....&acute;&acute;
+heut im K:
 
-Ne nochmal!
+\* Kichererbsensalat mit Avocadodressing (VEGAN) (6)
 
-``Kochen kommt von K&auml;se, denn k&auml;me es von Kartoffel dann hie&szlig;e es ja ...&acute;&acute;
+- auch mit Speck und Feta (7)
 
-Ne nochmal!
+\* Gem&uuml;sepizza mit /ohne Mozzarella mit Salat (7/6)
 
-``Kochen kommt von K&ouml;nnen, JA so war&acute;s , und K&ouml;nnen kommt von Kremanski, dieses wiederum kommt von t&auml;glich-wechselnder Speisekarte, also kommt vorbei &acute;&acute;
+\* Chilli sin Carne vegan oder mit saurer Sahne (7,5)
 
-Heute auf unserer t&auml;glich wechselnden Speisekarte:
+\* Quiche (wilde Gem&uuml;semischung) o/m Salat (3,9/6)
 
-\* Burritos mexicanos mit Fleisch (7,9)
+\* Suppe (Kartoffel/Lauch) mit hausgemachtem Brot und Dip (5)
 
-\* Tortilla de Patata m. Salat (5,9)
+DANACH:
 
-\* Ratatouille mit Reis (vegan 5,9)
+\* Hausgemachter Kuchen (Apfel-Mandel, SchokoBlaubeer,
 
-+++++ Den lieben ganzen Tag lang +++++
+K&auml;sekuchen....vegan/nicht-vegan)
 
-\* Paprika-Brokkoli-Porre Quiche (m.Salat 6,-/o.Salat 3,9)
+\* Superfood (Acai/Acerola/Chia)
 
-\*S&uuml;&szlig;kartoffel-Linsen-Karotten Suppe (5,-)
+und nen Espresso von BONANZA!
 
-\* Lachs oder K&auml;se Sandwishes (2,8)
-
-&Uuml;brigens!
-
-K&uuml;ssen kommt von klebrig! Ach das haben wir noch nicht erw&auml;hnt , wir haben jetzt EIS!! :)
+Bis gleich!
