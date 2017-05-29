@@ -3,30 +3,42 @@ layout: lunch
 ---
 
 
-Lustige Salate und Caf&eacute; latte?
+L
 
-heut im K:
+Du hast Hunger?
 
-\* Kichererbsensalat mit Avocadodressing (VEGAN) (6)
+Du hast Bock auf eine sommerlich frischwindige Brise?
 
-- auch mit Speck und Feta (7)
+Und die Ostsee ist zu weit?
 
-\* Gem&uuml;sepizza mit /ohne Mozzarella mit Salat (7/6)
+...Hmm..?
 
-\* Chilli sin Carne vegan oder mit saurer Sahne (7,5)
+Ja, also im Prinzenbad ist die Schlange zu lang und meistens gibts nur Pommes mit Mayo...
 
-\* Quiche (wilde Gem&uuml;semischung) o/m Salat (3,9/6)
+Aber im Kremanski lautet unser heutiges Motto "fresh cooking with Ventilator so fresh! "
 
-\* Suppe (Kartoffel/Lauch) mit hausgemachtem Brot und Dip (5)
+Also kommt vorbei und lasst euch erfrischen!
 
-DANACH:
+Sonne auf der Terasse ,
 
-\* Hausgemachter Kuchen (Apfel-Mandel, SchokoBlaubeer,
+frischer Wind aus der Gasse,
 
-K&auml;sekuchen....vegan/nicht-vegan)
+und unsere t&auml;glich wechselnde Speisekarte , Mensch Klasse!
 
-\* Superfood (Acai/Acerola/Chia)
+Heute auf unserem Men&uuml;:
 
-und nen Espresso von BONANZA!
+\*klassische Lasagne mit Salat (7,2)
 
-Bis gleich!
+\*kicherbsen Salat mit Granatapfel und Avocado dressing (VEGAN) oder mit Halloumi (5,90/6,50)
+
+\*CousCous mit Salat (VEGAN) oder mit Feta (5,-/5,50)
+
+ALL DAY LONG
+
+\*Linsen Suppe (VEGAN) oder Tomaten Suppe + Dip und Brot (5,-)
+
+\*Quiche (Gemischter Gem&uuml;se) ohne/mit Salat (3,9/6,-)
+
+und noch was suss....
+
+Erdbeere Yoghurt Kuchen, Carrot Cake, NY Cheesecake, Vegan Brownie, Vegan Banane Brot......und noch EIS!!!!
