@@ -3,42 +3,30 @@ layout: lunch
 ---
 
 
-L
+Donnerstag. 1.6. 2017
 
-Du hast Hunger?
+Am Ende z&auml;hlen nur die Erinnerungen- also macht was draus-auch am Mittag, Nachmittag und Abend in Kreuzberg.
 
-Du hast Bock auf eine sommerlich frischwindige Brise?
+Mittags k&ouml;nnte man z.B. anfangen mit:
 
-Und die Ostsee ist zu weit?
+- Frischem Bulgur-Salat mit Minze, Granatapfel und Avocado
 
-...Hmm..?
+Dressing -VEGAN- optionell auch mit Feta! (6)
 
-Ja, also im Prinzenbad ist die Schlange zu lang und meistens gibts nur Pommes mit Mayo...
+- Zucchini-Reispfanne auf Salatbett -VEGAN- (6,9)
 
-Aber im Kremanski lautet unser heutiges Motto "fresh cooking with Ventilator so fresh! "
+- Cremiges Risotto mit Champignons, auch VEGAN
 
-Also kommt vorbei und lasst euch erfrischen!
+verf&uuml;gbar (6,9)
 
-Sonne auf der Terasse ,
+- Suppe (Linse) mit hausgemachtem Brot und Dip (5)
 
-frischer Wind aus der Gasse,
+- Quiche (Mix-Gem&uuml;se) o/m Salat (3,9/6)
 
-und unsere t&auml;glich wechselnde Speisekarte , Mensch Klasse!
+Oder danach ein leckeres Eis?
 
-Heute auf unserem Men&uuml;:
+Endlich wieder das original hausgemachte Zitrone-Minze?
 
-\*klassische Lasagne mit Salat (7,2)
+Oder Granatapfel-Mango?
 
-\*kicherbsen Salat mit Granatapfel und Avocado dressing (VEGAN) oder mit Halloumi (5,90/6,50)
-
-\*CousCous mit Salat (VEGAN) oder mit Feta (5,-/5,50)
-
-ALL DAY LONG
-
-\*Linsen Suppe (VEGAN) oder Tomaten Suppe + Dip und Brot (5,-)
-
-\*Quiche (Gemischter Gem&uuml;se) ohne/mit Salat (3,9/6,-)
-
-und noch was suss....
-
-Erdbeere Yoghurt Kuchen, Carrot Cake, NY Cheesecake, Vegan Brownie, Vegan Banane Brot......und noch EIS!!!!
+Check it out!
