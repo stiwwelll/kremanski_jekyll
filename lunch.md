@@ -3,30 +3,31 @@ layout: lunch
 ---
 
 
-Donnerstag. 1.6. 2017
+Dienstag, 5.6. 2017
 
-Am Ende z&auml;hlen nur die Erinnerungen- also macht was draus-auch am Mittag, Nachmittag und Abend in Kreuzberg.
+TODAY X LUNCH:
 
-Mittags k&ouml;nnte man z.B. anfangen mit:
+- Spinat Linsen Dal mit Granatapfelhemen (vegan) -
+<br>&nbsp;&nbsp; optional Feta!!! (6,9)
 
-- Frischem Bulgur-Salat mit Minze, Granatapfel und Avocado
+- Gemuse Pizza vegan/Mozzarella/Schinken!!! (6,9)
 
-Dressing -VEGAN- optionell auch mit Feta! (6)
+- Hausgemachte Gnocchi mit Salbei Butter!! (6,9)
 
-- Zucchini-Reispfanne auf Salatbett -VEGAN- (6,9)
+- Suppe (Orangen-Karotte-Chilli) mit Brot und Dip (5)
 
-- Cremiges Risotto mit Champignons, auch VEGAN
+- Quiche (Paprika-Zucchini) o/m Salat 3,9/6
 
-verf&uuml;gbar (6,9)
+Und danach einen Bio-Espress von BONANZA?
 
-- Suppe (Linse) mit hausgemachtem Brot und Dip (5)
+mit:
 
-- Quiche (Mix-Gem&uuml;se) o/m Salat (3,9/6)
+. Carrot-Cake
 
-Oder danach ein leckeres Eis?
+. Erdbeer-Cheesecake
 
-Endlich wieder das original hausgemachte Zitrone-Minze?
+.veganem Schokobrownie
 
-Oder Granatapfel-Mango?
+oder doch ein Eis?
 
-Check it out!
+Bis gleich!
