@@ -3,42 +3,24 @@ layout: lunch
 ---
 
 
-Wer hat eigentlich gesagt, dass man am Kotti nicht was anderes essen kann ausser Mittelmeer?
+Fri-Fra-Freitaaaaag - Esst mit Uns!
 
-Heute z.B.:
-
-- Basmati-Reissalat (Kachumbar) mit Erdn&uuml;ssen und vielen
-
-Gem&uuml;sen (6)
-
-- Gemuse Pizza vegan/Mozzarella/Schinken!!! 1 St&uuml;ck/2St&uuml;ck
-
-(3,5/6)
-
-- Hausgemachte Gnocchi mit Salbei Butter!! (6,9)
+- Basmati-Reissalat (Kachumbar) mit Erdn&uuml;ssen und viel
+<br>Gem&uuml;se (6)
+<br>- Gem&uuml;se-Pizza vegan/Mozzarella/Schinken!!! 1 St&uuml;ck/ 2 St&uuml;ck
+<br>(3,5/6)
+<br>- Hausgemachte Gnocchi in Salbeibutter!! (6,9)
 
 - Suppe (Orangen-Karotte-Chilli) mit Brot und Dip (5)
+<br>- Quiche (Paprika-Zucchini) o/m Salat 3,9/6
 
-- Quiche (Paprika-Zucchini) o/m Salat 3,9/6
-
-Und danach einen Bio-Espress von BONANZA?
-
-mit:
-
-. Limetten-Cheesecake
-
-. Carrot-Cake
-
-. Erdbeer-Cheesecake
-
-. Saftiger Apfel-Streuselkuchen (vegan)
-
-. veganem Schokobrownie oder Bananenbrot
-
-. oder einem saftigen Apfel-Streusel-Kuchen
+Und danach einen Bio-Espresso von BONANZA?
+<br>mit:
+<br>. Limetten-Cheesecake
+<br>. Carrot-Cake
+<br>. Erdbeer-Cheesecake
+<br>. Saftiger Apfel-Streuselkuchen (vegan)
+<br>. veganem Schokobrownie oder Bananenbrot
 
 oder doch ein Eis?
-
-Bis gleich!
-
-Wir warten auf euch:)
+<br>Heute haben wir eine neue Sorte: ZIEGENK&Auml;SE - Gebts zu, dass h&ouml;rt sich spannend an, wa?
