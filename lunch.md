@@ -3,24 +3,52 @@ layout: lunch
 ---
 
 
-Fri-Fra-Freitaaaaag - Esst mit Uns!
+- Zuerst ist wie so ein kleines "Zucken" am Auge
 
-- Basmati-Reissalat (Kachumbar) mit Erdn&uuml;ssen und viel
-<br>Gem&uuml;se (6)
-<br>- Gem&uuml;se-Pizza vegan/Mozzarella/Schinken!!! 1 St&uuml;ck/ 2 St&uuml;ck
-<br>(3,5/6)
-<br>- Hausgemachte Gnocchi in Salbeibutter!! (6,9)
+"Pah! Beachtungslos ...hihi"
 
-- Suppe (Orangen-Karotte-Chilli) mit Brot und Dip (5)
-<br>- Quiche (Paprika-Zucchini) o/m Salat 3,9/6
+- Dann wirbelt es in deinen Haaren und pocht auf der Zunge...
 
-Und danach einen Bio-Espresso von BONANZA?
-<br>mit:
-<br>. Limetten-Cheesecake
-<br>. Carrot-Cake
-<br>. Erdbeer-Cheesecake
-<br>. Saftiger Apfel-Streuselkuchen (vegan)
-<br>. veganem Schokobrownie oder Bananenbrot
+"Immer noch nicht gef&auml;hrlich"
 
-oder doch ein Eis?
-<br>Heute haben wir eine neue Sorte: ZIEGENK&Auml;SE - Gebts zu, dass h&ouml;rt sich spannend an, wa?
+- Doch nun entfaltet es sich wie ein Feuerwerk im Sigma Coloni und steigt auf zum Expanctrum Coloquicus , bis es sich dann schlie&szlig;lich durch die ganzen Neuronen deines Gehirns wirbelt und sich als HUNGER herraus stellt!
+
+"ALARM!"
+
+Nicht viele k&ouml;nnen etwas dagegen tun, doch wir schon!
+
+Mit unserer t&auml;glich wechselnden Speisekarte:
+
+\* Rote-Beete-Pasta mit frischen
+
+Kr&auml;utern, optionall auch VEGAN (6,-)
+
+\* Frischer Bulgur-Kichererbsensalat mit Kr&auml;utern -VEGAN- (6,-)
+
+\* Brokkoli-Kartoffel-Auflauf (6,9)
+
+\* Quiche (verschiedene Gem&uuml;se) o/m Salat (3,9/6)
+
+\* Suppe (Brokkoli-Lauch-Kartoffel) mit hausgemachtem Dip
+
+und Brot -VEGAN- (5)
+
+Und danach ein hausgemachter Kuchen, als Pr&auml;vention?
+
+\* Orange-Cheese
+
+\* Limetten-Cheese
+
+\* Klassischer K&auml;sekuchen
+
+\* Carrot-Cake
+
+Und ein leckerer Kaffee von Bonanza?
+
+Und nat&uuml;rlich ein hausgmachtes Eis....
+
+Snickers? Oder doch ein Schokosorbet oder ein anderes fruchtiges Sorbet (Zitrone-Minze, Grapefruit...)?
+
+Bis gleich!
+
+Nennt mich Doc und kommt vorbei :)
