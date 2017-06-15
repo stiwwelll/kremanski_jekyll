@@ -3,20 +3,23 @@ layout: lunch
 ---
 
 
-Dienstag, 13.6.17
+Donnerstag, 15.6.17
 
-Ist Dein K&uuml;lschrank leer und du hast Lust dich bedienen zu lassen?? Komm ins K..da warten leckere Gerichte auf dich!
+Donnerstag ins K!
 
-\* Rote-Beete-Pasta mit frischen Kr&auml;utern, optionall
-<br>&nbsp; auch VEGAN (6,-)
+\* hausgemachte Gnocchi in Salbei Butter (6,9)
 
-\* Frischer Bulgur-Kichererbsensalat mit Kr&auml;utern -VEGAN- (6,-)
+\* saftiger Linsensalat mit Pilzen und Kirschpaprika
 
-\* Brokkoli-Kartoffel-Auflauf (6,9)
+- VEGAN (5,9)
+
+- mit Feta (6,5)
+
+\* ofen&uuml;berbackene Baguette mit Ziegenk&auml;se, Birne und Pistazien (7,2)
 
 \* Quiche (verschiedene Gem&uuml;se) o/m Salat (3,9/6)
 
-\* Suppe (Brokkoli-Lauch-Kartoffel) ODER (Brokkoli-Creme) mit hausgemachtem Dip
+\* Suppe (Brokkoli Cremel) ODER (Brokkoli-Creme) mit hausgemachtem Dip
 
 und Brot -VEGAN- (5)
 
@@ -28,12 +31,8 @@ Und danach ein hausgemachter Kuchen, als Pr&auml;vention?
 
 \* Klassischer K&auml;sekuchen
 
-\* Carrot-Cake
+\* veganes Bananen Brot und Schoko Brownie
 
 Und ein leckerer Kaffee von Bonanza?
 
-Und nat&uuml;rlich ein hausgmachtes Eis....
-
-Snickers? Oder doch ein Schokosorbet oder ein anderes fruchtiges Sorbet (Zitrone-Minze, Grapefruit...)?
-
-Wir freuen uns auf dich &lt;3
+Wir freuen uns auf dich
