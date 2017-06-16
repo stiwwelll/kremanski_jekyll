@@ -3,9 +3,9 @@ layout: lunch
 ---
 
 
-Donnerstag, 15.6.17
+Freitag, 16.6.17
 
-Donnerstag ins K!
+Refill your stamina before the weekend!!!
 
 \* hausgemachte Gnocchi in Salbei Butter (6,9)
 
@@ -32,6 +32,8 @@ Und danach ein hausgemachter Kuchen, als Pr&auml;vention?
 \* Klassischer K&auml;sekuchen
 
 \* veganes Bananen Brot und Schoko Brownie
+
+\* vegan Apfel Streusel Kuchen
 
 Und ein leckerer Kaffee von Bonanza?
 
