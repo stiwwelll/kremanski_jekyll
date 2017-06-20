@@ -3,38 +3,24 @@ layout: lunch
 ---
 
 
-Freitag, 16.6.17
+Dienstag, 20.6.17
 
-Refill your stamina before the weekend!!!
+Dienstag ins K!!!
 
-\* hausgemachte Gnocchi in Salbei Butter (6,9)
+\* marokkanischer Kichererbsen-Oliven Salat mit Orangen (vegan 6,- oder mit Ziegenk&auml;se 6,5)
 
-\* saftiger Linsensalat mit Pilzen und Kirschpaprika
+\* Linsen-Pilz-Pilaw (vegan 6,- oder mit Feta 6,5)
 
-- VEGAN (5,9)
+\* italienisches Ciabatta mit Kirschtomaten, Avocado mit Morzarella (6,9)
 
-- mit Feta (6,5)
+++++++++Den ganzen Tag hinweg!++++++++
 
-\* ofen&uuml;berbackene Baguette mit Ziegenk&auml;se, Birne und Pistazien (7,2)
+\* Gem&uuml;se Quiche (m. Salat 3,9/ o. Salat 6,-)
 
-\* Quiche (verschiedene Gem&uuml;se) o/m Salat (3,9/6)
+\* Linsen-Ingwer-S&uuml;&szlig;kartoffel Suppe mit hausgemachtem Dip (5,-)
 
-\* Suppe (Brokkoli Cremel) ODER (Brokkoli-Creme) mit hausgemachtem Dip
+Und nat&uuml;rlich ne menge Kuchen und noch Eissssssss!
 
-und Brot -VEGAN- (5)
+Wir sehen uns im K!
 
-Und danach ein hausgemachter Kuchen, als Pr&auml;vention?
-
-\* Orange-Cheese
-
-\* Limetten-Cheese
-
-\* Klassischer K&auml;sekuchen
-
-\* veganes Bananen Brot und Schoko Brownie
-
-\* vegan Apfel Streusel Kuchen
-
-Und ein leckerer Kaffee von Bonanza?
-
-Wir freuen uns auf dich
+&nbsp;
