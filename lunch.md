@@ -3,15 +3,15 @@ layout: lunch
 ---
 
 
-Dienstag, 20.6.17
+Mittwoch, 21.6.17
 
-Dienstag ins K!!!
+Starte in den Sommer mit uns!!!
 
 \* marokkanischer Kichererbsen-Oliven Salat mit Orangen (vegan 6,- oder mit Ziegenk&auml;se 6,5)
 
 \* Linsen-Pilz-Pilaw (vegan 6,- oder mit Feta 6,5)
 
-\* italienisches Ciabatta mit Kirschtomaten, Avocado mit Morzarella (6,9)
+\* italienisches Ciabatta mit Kirschtomaten, Avocado, Morzarella und Serrano Schinken (6,9)
 
 ++++++++Den ganzen Tag hinweg!++++++++
 
@@ -22,5 +22,3 @@ Dienstag ins K!!!
 Und nat&uuml;rlich ne menge Kuchen und noch Eissssssss!
 
 Wir sehen uns im K!
-
-&nbsp;
