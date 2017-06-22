@@ -3,21 +3,21 @@ layout: lunch
 ---
 
 
-Mittwoch, 21.6.17
+Donnerstag, 22.6.17
 
-Starte in den Sommer mit uns!!!
+Sommer-Lunch im K:
 
-\* marokkanischer Kichererbsen-Oliven Salat mit Orangen (vegan 6,- oder mit Ziegenk&auml;se 6,5)
+\* griechischer Pita-Salat (mit Feta 6,9)
 
-\* Linsen-Pilz-Pilaw (vegan 6,- oder mit Feta 6,5)
+\* gr&uuml;ner Gem&uuml;sesalat mit Joghurtdressing (vegetarisch oder vegan) (6,5)
 
-\* italienisches Ciabatta mit Kirschtomaten, Avocado, Morzarella und Serrano Schinken (6,9)
+\* frischer Gem&uuml;sereis mit Zitrone (VEGAN) (6,5)
 
 ++++++++Den ganzen Tag hinweg!++++++++
 
 \* Gem&uuml;se Quiche (m. Salat 3,9/ o. Salat 6,-)
 
-\* Linsen-Ingwer-S&uuml;&szlig;kartoffel Suppe mit hausgemachtem Dip (5,-)
+\* Karotten-Orangen-Suppe mit hausgemachtem Dip (5,-)
 
 Und nat&uuml;rlich ne menge Kuchen und noch Eissssssss!
 
