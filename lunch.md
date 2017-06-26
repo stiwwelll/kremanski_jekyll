@@ -3,18 +3,24 @@ layout: lunch
 ---
 
 
-Friday, 23.6.17
+Monday, 26.6.17
 
-Friday madness day..get ready for your weekend!!
+Neue Woche neue Menu&acute;!!!
 
-\* griechischer Pita-Salat (mit Feta 6,9 oder vegan 6,5)
-<br>\* gr&uuml;ner Gem&uuml;sesalat mit Joghurtdressing (vegetarisch oder vegan) (6,5)
-<br>\* frischer Gem&uuml;sereis mit Zitrone (VEGAN) (6,5)
+\*Pasta mit Rote Bete Sauce (Vegan oder Vegetarisch) 5,50
 
-++++++++Den ganzen Tag hinweg!++++++++
+\*Risotto mit cremiges Champignon Sauce (Vegan oder Vegetarisch) 6,50
 
-\* Gem&uuml;se Quiche (m. Salat 3,9/ o. Salat 6,-)
-<br>\* Linsen-Susskartoffe-M&ouml;hren-Ingwer Suppe mit hausgemachtem Dip und Brot (5,-)
+\*Fruchtiger Bulger Salat (Vegan) mit Feta (Vegetarisch) 5/5,50
 
-Und nat&uuml;rlich ne menge Kuchen und noch Eissssssss!
-<br>Wir sehen uns im K!
+All Day Long
+
+\*Suppe (Karotten-Orangen-Kokosmilch) mit Brot und Dip 5,-
+
+\*Quiche (Tomate,Sellerie,Paprika,Spinat) ohne/mit Salat 3,9/6,-
+
+und noch was su&szlig;...und Eissssssssss...und of course
+
+BONANZA COFFEE!!!!
+
+what are u waitin for!??!?!
