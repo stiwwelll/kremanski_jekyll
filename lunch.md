@@ -3,36 +3,22 @@ layout: lunch
 ---
 
 
-Mittwoch, 28.6.17
+Donnerstag, 29.6.17
 
-\* Cremiges Champignon Risotto auf Rucola Bett (6,5)
+\*Marrokanischer Linsensalat mit Oliven und frittierten Orangen (VEGAN) oder mit Feta (5,-/5,50)
 
-\* Fruchtiger Bulger Salat mit Orangen Dressing (5,0)
+\*Reich belegte Gem&uuml;se Pizza mit Mozzarella (VEGETARISCH) wahlweise mit Serrano Schinken (4,5/5,5)
 
-\* Rosa Pasta mit cremiger So&szlig;e, Rote Bete und Dill (5,5)
+\*Pink Pasta; mit Rote Bete und s&auml;miger so&szlig;e
 
-... alle Gerichte k&ouml;nnen sowohl VEGAN als auch VEGETARISCH bestellt werden !!
+All Day Long
 
-ALL DAY LONG:
+\*Suppe (Su&szlig;kartoffel, Curcuma, Curry) mit brot und Dip (5,-)
 
-\*Suppe (Karotten-Kircherersben, Curcuma und Curry) mit hausgemachtem Brot (hell oder Volkorn) und Dip 5,-
+\*Quiche (Gemischter Gem&uuml;se) ohne/mit salat (3,9/6,-)
 
-\*Quiche (S&uuml;&szlig;kartoffel, Zucchini, Aubergine) ohne/mit Salat 3,9/6,-
+und noch..
 
-Und nat&uuml;rlich hausgemachte Kuchen:
+Su&szlig;kartoffel-Mandel Tarte mit KokosCreme (VEGAN-GLUTEINFREI), Limetten Cheesecake, Karotten Kuchen, Beeren Power im Glass - Beeren Power Brot, Schoko Brownie (VEGAN), Bananen Brot (VEGAN)....
 
-- Carrot Cake
-
-- Limetten Cheesecake
-
-- Cheesecake mit Erdbeerdeckel
-
-- S&uuml;&szlig;kartoffel, Kokos und Mandel Torte (glutenfrei + vegan +
-
-zuckerarm)
-
-- veganer Brownie und Bananen Brot
-
-Dazu: BONANZA-KAFFEE und SUPERFOOD-Drinks!
-
-wir freuen uns auf euch &lt;3es
+und EISSSSSSSSSSSSSSSSSSS....
