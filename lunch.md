@@ -3,22 +3,24 @@ layout: lunch
 ---
 
 
-Schnappt euch das Schlauchboot und kommt hergepaddelt, wir warte auf Euch mit:
+Feiert mit uns das Comeback der Sonne !!
 
-\*Marrokanischer Linsensalat mit Oliven und frittierten Orangen (VEGAN) oder mit Feta (5,-/5,50)
+Heute bei uns:
 
-\*Reich belegte Gem&uuml;se Pizza mit Mozzarella (VEGETARISCH) wahlweise mit Serrano Schinken (4,5/5,5)
+\*bunter Spinat-Kichererbsensalat mit Avocadodressing (VEGAN) oder mit Feta (5,-/5,50)
 
-\*cremiges Champignon-Risotto auf Rucola Bett (6)
+\*Walnuss-Ciabatta mit Ziegenk&auml;se &uuml;berbacken und Pistazien, dazu Salat (6,5)
+
+\*scharfe Gem&uuml;sereispfanne mit Ingwer, Minze, Koriander und Erdn&uuml;ssen (6)
 
 All Day Long
 
 \*Suppe (S&uuml;&szlig;kartoffel, Curcuma, Curry) mit Brot und Dip (5,-)
 
-\*Quiche (Gemischtes Gem&uuml;se) ohne/mit Salat (3,9/6,-)
+\*Quiche (Gemischtes Gem&uuml;se und Cherrytomaten) ohne/mit Salat (3,9/6,-)
 
 und noch..
 
-S&uuml;&szlig;kartoffel-Mandel Tarte mit Kokos-Creme (VEGAN-GLUTENFREI), Limetten Cheesecake, Karotten Kuchen, Beeren Power im Glass - Beeren Power Brot, Erdbeer-Joghurt-Torte, Schoko Brownie (VEGAN), Bananen Brot (VEGAN)....
+Karotten Kuchen, Apfelkuchen, Erdbeer-Joghurt-Torte, Brownie (VEGAN) und Bananen Brot (VEGAN)....
 
 und EISSSSSSSSSSSSSSSSSSS....
