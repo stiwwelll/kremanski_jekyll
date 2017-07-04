@@ -3,24 +3,26 @@ layout: lunch
 ---
 
 
-Feiert mit uns das Comeback der Sonne !!
+\*bunter Spinat-Kichererbsensalat mit Avocadodressing
 
-Heute bei uns:
+(VEGAN) oder mit Feta (5,-/5,50)
 
-\*bunter Spinat-Kichererbsensalat mit Avocadodressing (VEGAN) oder mit Feta (5,-/5,50)
+\*Walnuss-Ciabatta mit Ziegenk&auml;se &uuml;berbacken und Pistazien,
 
-\*Walnuss-Ciabatta mit Ziegenk&auml;se &uuml;berbacken und Pistazien, dazu Salat (6,5)
+dazu Salat (6,5)
 
-\*scharfe Gem&uuml;sereispfanne mit Ingwer, Minze, Koriander und Erdn&uuml;ssen (6)
+\*scharfe Gem&uuml;sereispfanne mit Ingwer, Minze, Koriander und
 
-All Day Long
+Erdn&uuml;ssen (6)
 
 \*Suppe (S&uuml;&szlig;kartoffel, Curcuma, Curry) mit Brot und Dip (5,-)
 
-\*Quiche (Gemischtes Gem&uuml;se und Cherrytomaten) ohne/mit Salat (3,9/6,-)
+\*Quiche (Gemischtes Gem&uuml;se und Cherrytomaten) ohne/mit
+
+Salat (3,9/6,-)
 
 und noch..
 
-Karotten Kuchen, Apfelkuchen, Erdbeer-Joghurt-Torte, Brownie (VEGAN) und Bananen Brot (VEGAN)....
+Stachelbeer-Cheesecake, Carrot Cake, Veganer Brownie, Bananenbrot....
 
-und EISSSSSSSSSSSSSSSSSSS....
+oder nat&uuml;rlich EEEIIIIISSS!
