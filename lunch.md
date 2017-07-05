@@ -3,17 +3,13 @@ layout: lunch
 ---
 
 
-\*bunter Spinat-Kichererbsensalat mit Avocadodressing
+Hat Muddi nichts gekocht?? Dann komm doch mal r&uuml;ber! Heute gibt es f&uuml;r euch:
 
-(VEGAN) oder mit Feta (5,-/5,50)
+\* asiatischer Reis mit Bohnen und H&auml;nchenbruststreifen aus Brandenburg in w&uuml;rziger Sauce (auch VEGAN)
 
-\*Walnuss-Ciabatta mit Ziegenk&auml;se &uuml;berbacken und Pistazien,
+\* mediterrane Tagliatelle mit Bio-K&uuml;rbis, Rucola und Salbei (VEGAN oder mit Parmesan)
 
-dazu Salat (6,5)
-
-\*scharfe Gem&uuml;sereispfanne mit Ingwer, Minze, Koriander und
-
-Erdn&uuml;ssen (6)
+\* cremiges Champignon Risotto mit frischem Rosmarin (auch VEGAN)
 
 \*Suppe (S&uuml;&szlig;kartoffel, Curcuma, Curry) mit Brot und Dip (5,-)
 
@@ -23,6 +19,8 @@ Salat (3,9/6,-)
 
 und noch..
 
-Stachelbeer-Cheesecake, Carrot Cake, Veganer Brownie, Bananenbrot....
+Stachelbeer-Cheesecake, Carrot Cake, Veganer Brownie, Bananenbrot, Limetten Cheesecake....
 
-oder nat&uuml;rlich EEEIIIIISSS!
+oder nat&uuml;rlich selbstgemachtes EEEIIIIISSS!
+
+Wir freuen uns auf euch &lt;3
