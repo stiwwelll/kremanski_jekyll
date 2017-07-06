@@ -3,7 +3,9 @@ layout: lunch
 ---
 
 
-Hat Muddi nichts gekocht?? Dann komm doch mal r&uuml;ber! Heute gibt es f&uuml;r euch:
+Donnnnerwetter, kommt vorbei!
+
+Heute:
 
 \* asiatischer Reis mit Bohnen und H&auml;nchenbruststreifen aus Brandenburg in w&uuml;rziger Sauce (auch VEGAN)
 
@@ -23,4 +25,4 @@ Stachelbeer-Cheesecake, Carrot Cake, Veganer Brownie, Bananenbrot, Limetten Chee
 
 oder nat&uuml;rlich selbstgemachtes EEEIIIIISSS!
 
-Wir freuen uns auf euch &lt;3
+Wir freuen uns auf euch !!
