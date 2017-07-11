@@ -3,26 +3,30 @@ layout: lunch
 ---
 
 
-Donnnnerwetter, kommt vorbei!
+Was gibts heute am Kotti? Risotti, Risotti.......
 
-Heute:
+Und:
 
-\* asiatischer Reis mit Bohnen und H&auml;nchenbruststreifen aus Brandenburg in w&uuml;rziger Sauce (auch VEGAN)
+\*\* fruchtig-pikanter Kichererbsen-Bulgur-Salat mit Kr&auml;utern in Orangendressing
 
-\* mediterrane Tagliatelle mit Bio-K&uuml;rbis, Rucola und Salbei (VEGAN oder mit Parmesan)
+\*\* cremiges Champignon-Risotto an frischem Rosmarin
 
-\* cremiges Champignon Risotto mit frischem Rosmarin (auch VEGAN)
+\*\* Pink Pasta (Penne in Rote-Beete-Sahne-So&szlig;e)
 
-\*Suppe (S&uuml;&szlig;kartoffel, Curcuma, Curry) mit Brot und Dip (5,-)
+All day long:
 
-\*Quiche (Gemischtes Gem&uuml;se und Cherrytomaten) ohne/mit
+\*\* Suppe mit hausgemachtem Brot und Dip
 
-Salat (3,9/6,-)
+\*\* Quiche mit/ohne Salat
 
-und noch..
+Und f&uuml;r den s&uuml;&szlig;en Hunger:
 
-Stachelbeer-Cheesecake, Carrot Cake, Veganer Brownie, Bananenbrot, Limetten Cheesecake....
+Selbstgemachte Kuchen:
 
-oder nat&uuml;rlich selbstgemachtes EEEIIIIISSS!
+\* Cranberry Cheesecake
 
-Wir freuen uns auf euch !!
+\* Carrot Cake
+
+\* Kokos-S&uuml;sskartoffel-Schnitte
+
+und EIS, veganes Bananabread und Brownie!
