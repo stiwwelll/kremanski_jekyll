@@ -35,7 +35,8 @@ layout: default
         <div class="carousel-inner carousel-inner-header" role="listbox">
 					{% for new in site.data.news %}
 	          <div class="item {% if forloop.first == true %} active{% endif %}">
-							<img src="{{ new.image_path }}" class="center-block" alt="{{ new.alt }}" />
+							{% assign carousel_image = new.image_path | replace: '/uploads/', '' %}
+							{% img "{{ carousel_image }}" magick:resize:800x class:"center-block" alt:"{{ new.alt }}" %}
 	          </div>
 					{% endfor %}
         </div>
@@ -85,7 +86,7 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-xs-6 col-xs-offset-3 col-sm-5 col-sm-offset-4 col-md-4 col-md-offset-4 col-lg-3 col-lg-offset-5">
-						{% img "Eiskugel_frei_kl.png" class:"eiskugel center-block img-responsive" %}
+            {% img "Eiskugel_frei_kl.png" class:"eiskugel center-block img-responsive" %}
           </div>
         </div>
       </div>
@@ -111,7 +112,8 @@ layout: default
 				{% for event in sorted %}
 					<div class="row event-highlights">
 		        <div class="col-xs-12 col-sm-5 col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1">
-							<img src="{{event.image_path}}" class="img-responsive center-block" alt="{{event.image_alt}}" />
+							{% assign event_image = event.image_path | replace: '/uploads/', '' %}
+							{% img "{{ event_image }}" magick:resize:360x class:"img-responsive center-block" alt:"{{event.image_alt}}" %}
 		        </div>
 		        <div class="col-xs-12 col-sm-7 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
 		          <h1>{{ event.name }}</h1>
@@ -218,7 +220,8 @@ layout: default
               <div class="carousel-inner carousel-inner-partner" role="listbox">
 								{% for partner in site.data.partners %}
 				          <div class="item {% if forloop.first == true %} active{% endif %}">
-										<img src="{{partner.image_path}}" class="img-responsive center-block" alt="{{eparner.alt}}" />
+										{% assign partner_image = partner.image_path | replace: '/uploads/', '' %}
+										{% img "{{ partner_image }}" magick:resize:520x class:"img-responsive center-block" alt:"{{partner_alt}}" %}
 				          </div>
 								{% endfor %}
               </div>
