@@ -3,30 +3,34 @@ layout: lunch
 ---
 
 
-Was gibts heute am Kotti? Risotti, Risotti.......
+12.07.2017
 
-Und:
+Hunger Hunger??? Komm doch zu uns essen essen !!
 
-\*\* fruchtig-pikanter Kichererbsen-Bulgur-Salat mit Kr&auml;utern in Orangendressing
+Heute gubt es f&uuml;r dich :
 
-\*\* cremiges Champignon-Risotto an frischem Rosmarin
+\* cremiges Champignon-Risotto an frischem Rosmarin (auch VEGAN) (6,9)
 
-\*\* Pink Pasta (Penne in Rote-Beete-Sahne-So&szlig;e)
+\* Cannelloni mit Ricotta und Spinaci nach italienischer Art (6.5)
 
-All day long:
+\* Sommer Salat mit getrockneten Tomaten, Rucola, Feta und Riscotta (6,0)
 
-\*\* Suppe mit hausgemachtem Brot und Dip
+\*\* ALL DAY LONG \*\*
 
-\*\* Quiche mit/ohne Salat
+\* Suppe (Karotte, Orange, Chilli) VEGAN (5,0)
 
-Und f&uuml;r den s&uuml;&szlig;en Hunger:
+\* Quiche (gemischte Gem&uuml;se und Cherrytomaten) mit/ohne Salat (3,9/6,0)
 
-Selbstgemachte Kuchen:
+\*\* S&Uuml;SS und LECKER \*\*
 
-\* Cranberry Cheesecake
+\* Carrot Cake, Cranberry NY Cheesecake, S&uuml;&szlig;kartoffeln- Kokos Schnitte, Waldbeeren Cheesecake...
 
-\* Carrot Cake
+\* Power Acai und Acerola Shakes
 
-\* Kokos-S&uuml;sskartoffel-Schnitte
+\* WAffeln mit Nutella, Zimt/Zucker und Apfelmus
 
-und EIS, veganes Bananabread und Brownie!
+\* Frappe und Eiskaffee
+
+\* selbsgemachtes Eis
+
+wir freuen uns auf dich &lt;3
