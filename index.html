@@ -115,7 +115,7 @@ layout: default
 		        </div>
 		        <div class="col-xs-12 col-sm-7 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
 		          <h1>{{ event.name }}</h1>
-		          <h1>{{ event.datetime | date: "%d.%m.%Y" }}</h1>
+		          <h1>{{ event.datetime | date: "%d.%m.%Y // %lPM " }}</h1>
 		          <p>{{ event.content }}</p>
 		        </div>
 	      	</div>
@@ -280,7 +280,7 @@ layout: default
           </div>
 					<div class="col-xs-12 col-xs-offset-0 col-sm-12 col-sm-offset-0 col-md-7 col-lg-7 form">
 	          {% img "Headline_Kontakt.png" class:"center-block img-responsive kontaktueberschrift" %}
-						<form method="post" id="contact-form" action="#thank_you">
+						<form method="post" id="contact-form--js" action="#thank_you">
 							<div class="form-group">
 		            <div class="row name">
 		              <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">

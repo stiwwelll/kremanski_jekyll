@@ -1,13 +1,18 @@
 ---
-name: Nick Evans
-datetime: 2017-04-01 00:00:00
-image_path: /uploads/events/NickEvans.jpg
-image_alt: Nick Evans
+name: A Spacefrau ist a Spacefrau ist a Spacefrau
+datetime: 2017-05-18 19:00:00
+image_path: /uploads/events/flyersisisi.jpg
+image_alt: A Spacefrau ist a Spacefrau ist a Spacefrau
 ---
 
 
-Next Saturday proudly present: Nick Evans – a singer/songwriter and environmental policy student from a mountaintop town in Tennessee. Having spent the larger part of his life in small town America, Nick made the leap in 2014 not only to the city (as many do) but across the ocean, eventually settling in Berlin, Germany. His songs blend folk and Americana styles with introspective and natural lyrics.
-<br>
-<br>Evans’ debut solo EP, “American Drab,” was released in Winter 2016.
-<br>
-<br>[Facebook Event](https://www.facebook.com/events/1753180918344084/)
+**Elsye Suquilanda – Ligia Liberatori – Minsk (Mijal Bloch)**
+<br>…three women of the latin-american galaxy went out from different points of their world to explore the cosmos and to find their own voices in the industrialized systems.
+<br>Hazard, chances and love took them all to the planet 030-Berlin. In this place they put music to their thoughts, experiments and biographical sublimations.
+<br>A Spacefrau
+<br>ist a Spacefrau
+<br>ist a Spacefrau
+<br>is a multilingual woman,
+<br>is a space-time game,
+<br>is a body language and beyond.
+<br>Electronic space sounds, gaucho-voltaic female guitars and in-corporeal voice frequencies gather together to tell about the intrepid and exasperating experience from outer space migration.

@@ -4,7 +4,10 @@ var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: 52.5000723, lng: 13.4177044},
-    zoom: 16
+    zoom: 16,
+    disableDefaultUI: true,
+    zoomControl: true,
+    scrollwheel: false
   });
   var image = "{% asset_path 'K_Pfeil.png' %}";
   var beachMarker = new google.maps.Marker({

@@ -3,26 +3,30 @@ layout: lunch
 ---
 
 
-Mittwoch, 5.4.2017
+Was gibts heute am Kotti? Risotti, Risotti.......
 
-Sonne auf der Terrasse, kreativer Lunch, BONANZA-Kaffee und was noch?
+Und:
 
-\* Kichererbsen-Ragout mit S&uuml;sskartoffeln (6,9)
+\*\* fruchtig-pikanter Kichererbsen-Bulgur-Salat mit Kr&auml;utern in Orangendressing
 
-\* Spinat-Gnocchi (hausgemacht, OLD-STYLE) (6,9)
+\*\* cremiges Champignon-Risotto an frischem Rosmarin
 
-\* Pasta-Auflauf mit Rindfleisch (6,9)
+\*\* Pink Pasta (Penne in Rote-Beete-Sahne-So&szlig;e)
 
-\* Cremiges Chamignon-Risotto (6,9)
+All day long:
 
-\* Lauch-Paprika-Quiche o/m Salat (3,9/6)
+\*\* Suppe mit hausgemachtem Brot und Dip
 
-\* Orange-M&ouml;hre-Suppe mit hausgemachtem Brot und Dip (5)
+\*\* Quiche mit/ohne Salat
 
-danach Limetten-Cheesecake, Carrot Cake, Erdbeer-Joghurt-Torte, Orange-Joghurt-Kuchen oder Schoko-Brownie (vegan)?
+Und f&uuml;r den s&uuml;&szlig;en Hunger:
 
-Oder doch Chia-M&uuml;sli und Acerola-Shake?
+Selbstgemachte Kuchen:
 
-Oder schon ein Craft-Beer?
+\* Cranberry Cheesecake
 
-Setz Dich!
+\* Carrot Cake
+
+\* Kokos-S&uuml;sskartoffel-Schnitte
+
+und EIS, veganes Bananabread und Brownie!
