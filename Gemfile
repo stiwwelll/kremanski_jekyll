@@ -6,6 +6,7 @@ gem "mini_magick"
 gem "autoprefixer-rails"
 gem "bootstrap-sass"
 gem "font-awesome-sass"
+gem "uglifier"
 
 gem "kremanski", path: "kremanski"
 

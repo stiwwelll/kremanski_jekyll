@@ -18,6 +18,9 @@ defaults:
       show: true
 
 assets:
+  compress:
+    css: true
+    js: true
   sources:
     - _assets/css
     - _assets/images
