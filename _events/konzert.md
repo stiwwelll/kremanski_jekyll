@@ -1,8 +1,8 @@
 ---
-name: A Spacefrau ist a Spacefrau ist a Spacefrau
-datetime: 2017-05-18 19:00:00
-image_path: /uploads/events/flyersisisi.jpg
-image_alt: A Spacefrau ist a Spacefrau ist a Spacefrau
+name: Chochán Volador
+datetime: 2017-07-14 21:00:00
+image_path: /uploads/events/ChochanVolador.png
+image_alt: Chochán Volador live at Kremanski
 ---
 
 
