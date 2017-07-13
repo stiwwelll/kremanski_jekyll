@@ -3,17 +3,17 @@ layout: lunch
 ---
 
 
-12.07.2017
+13.07.2017
 
-Hunger Hunger??? Komm doch zu uns essen essen !!
+Knurt deinen Magen schon so doll?? Keine Sorge...Kremanski Kaffee l&auml;sst dich nicht verhungern !!
 
-Heute gubt es f&uuml;r dich :
+Heute im Angebot:
 
-\* cremiges Champignon-Risotto an frischem Rosmarin (auch VEGAN) (6,9)
+\* hausgemachte Lasagne Bolognese (6,9)
 
 \* Cannelloni mit Ricotta und Spinaci nach italienischer Art (6.5)
 
-\* Sommer Salat mit getrockneten Tomaten, Rucola, Feta und Riscotta (6,0)
+\* Pasta fredda alla "Crudaiola"mit Tomaten, Artischocken, Basilikum, Oliven und Mozzarella (6,5) auch VEGAN (6,0)
 
 \*\* ALL DAY LONG \*\*
 
@@ -23,7 +23,9 @@ Heute gubt es f&uuml;r dich :
 
 \*\* S&Uuml;SS und LECKER \*\*
 
-\* Carrot Cake, Cranberry NY Cheesecake, S&uuml;&szlig;kartoffeln- Kokos Schnitte, Waldbeeren Cheesecake...
+\* Carrot Cake, Cranberry NY Cheesecake, S&uuml;&szlig;kartoffeln- Kokos Schnitte, Waldbeeren Cheesecake, Apfel-Streusel Kuchen...
+
+\* veganes Bananebrot
 
 \* Power Acai und Acerola Shakes
 
