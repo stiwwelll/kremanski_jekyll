@@ -3,36 +3,26 @@ layout: lunch
 ---
 
 
-13.07.2017
+Neustart in die Woche... am besten mit viel Energie und was Gutem im Bauch.
 
-Knurt deinen Magen schon so doll?? Keine Sorge...Kremanski Kaffee l&auml;sst dich nicht verhungern !!
+Wir haben gekocht!
 
-Heute im Angebot:
+\* Lasagne Bolognese Italien Style (6,8)
 
-\* hausgemachte Lasagne Bolognese (6,9)
+\* Gef&uuml;llte Tomaten mit Ricotta (6,5)
 
-\* Cannelloni mit Ricotta und Spinaci nach italienischer Art (6.5)
+\* Gef&uuml;llte Tomaten mit Gem&uuml;seragout (6,5) VEGAN
 
-\* Pasta fredda alla "Crudaiola"mit Tomaten, Artischocken, Basilikum, Oliven und Mozzarella (6,5) auch VEGAN (6,0)
+ALL DAY LONG:
 
-\*\* ALL DAY LONG \*\*
+\* Suppe (Karotte-Orange) mit hausgemachtem Brot und Dip (5,0) VEGAN
 
-\* Suppe (Karotte, Orange, Chilli) VEGAN (5,0)
+\* Quiche (Zucchini, Karotte, Aubergine) o./m. Salat (3,9/6,0)
 
-\* Quiche (gemischte Gem&uuml;se und Cherrytomaten) mit/ohne Salat (3,9/6,0)
+...und zum kr&ouml;nenden Abschluss ein guter Kaffee mit einem St&uuml;ck Kuchen (Carrot Cake, Banana Bread, Limetten-Cheesecake, Apfelkuchen (VEGAN) oder einem Chia-M&uuml;sli?
 
-\*\* S&Uuml;SS und LECKER \*\*
+danach auf jeden Fall noch ein hausgemachtes Eis, z.B. Rhaberber-Sorbet?
 
-\* Carrot Cake, Cranberry NY Cheesecake, S&uuml;&szlig;kartoffeln- Kokos Schnitte, Waldbeeren Cheesecake, Apfel-Streusel Kuchen...
-
-\* veganes Bananebrot
-
-\* Power Acai und Acerola Shakes
-
-\* WAffeln mit Nutella, Zimt/Zucker und Apfelmus
-
-\* Frappe und Eiskaffee
-
-\* selbsgemachtes Eis
+Bis dann!
 
 wir freuen uns auf dich &lt;3
