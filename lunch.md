@@ -3,11 +3,13 @@ layout: lunch
 ---
 
 
-Dienstag in K !!!!
+Wednesday in K, fill your stamina!!!
 
 \* Lasagne Bolognese Italien Style (6,9)
 
 \* Mediteraner kichererbsen Bucheweizen mit gerostete Pinienkerne und Feta (6,5) oder nach Wunsch VEGAN (6,0)
+
+\* Frische Bruschetta mit Bohnen und kleinen Salat und Ricotta (5,5) oder nach Wunsch auch VEGAN (5,0)
 
 ALL DAY LONG:
 
