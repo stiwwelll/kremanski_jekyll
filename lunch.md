@@ -3,13 +3,15 @@ layout: lunch
 ---
 
 
-Wednesday in K, fill your stamina!!!
+#### 20.07.2017
 
-\* Lasagne Bolognese Italien Style (6,9)
+Wir haben gro&szlig;en Hunger...und du ?? Komm doch mal uns besuchen !!
 
-\* Mediteraner kichererbsen Bucheweizen mit gerostete Pinienkerne und Feta (6,5) oder nach Wunsch VEGAN (6,0)
+\* Penne alla Bolognese (6,5)
 
-\* Frische Bruschetta mit Bohnen und kleinen Salat und Ricotta (5,5) oder nach Wunsch auch VEGAN (5,0)
+\* Yucchini Pancake mit Feldsalat und gebeitzem Radieschen -VEGAN- (6,5)
+
+oder auch mit Feta und einem pochiertem Ei (7,5)
 
 ALL DAY LONG:
 
