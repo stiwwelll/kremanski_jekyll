@@ -3,22 +3,20 @@ layout: lunch
 ---
 
 
-#### 25.07.2017
+#### 28.07.2017
 
-Drau&szlig;en regnet es aber bei uns scheint die Sonne mit unserem leckeren Lunch ;)
+Get ready for your week end!!!
 
-\* getostete Buchweizen mit Pilzen, serviert mit frrischen Tomaten und Feta-Salat (mit Erdn&uuml;ssen) (6,5)
+\*feines Kr&auml;uter-Zitronen-Risotto mit frischem Gem&uuml;se
 
-\* rustikales Roggen- Sandwich mit ger&ouml;steten Pflaumen, Ricotta, Speck und Rucola (6,5)
+(vegan/regul&auml;r 6,5)
 
-ALL DAY LONG:
+\*fruchtig-scharfes Bohnen Tomaten Chilli (vegan/m.Sahne 6,-)
 
-\* Suppe (Brokkoli, Lauch, Kartoffel) und (Kokos, Curry, Karotte)(5,0) VEGAN
+\*\*\*\*\*\*\*\*\*\*\*\*ALL DAY LONG\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-\* Quiche (Gem&uuml;se-Mix) o./m. Salat (3,9/6,0)
+\*Kartoffel-Lauch-Brokkoli Suppe mit Brot und Dip (5,.)
 
-...und zum kr&ouml;nenden Abschluss ein guter Kaffee mit einem St&uuml;ck Kuchen (Banana Bread, Apfel-Rhabarber Kuchen mit Vanille Pudding, Himbeere Cheesecake, Limetten-Ny-Cheesecake oder ein Chia-M&uuml;sli?
+\*Gem&uuml;se Mix Quiche (m.Salat 6,0/o.S 3,9)
 
-danach auf jeden Fall noch ein hausgemachtes Eis, z.B. Caipirihna Sorbet?
-
-Wir freuen uns auf dich &lt;3
+.....und Apfel-Rhabarbar Streusel Kuchen mit Vanille Pudding, Himbeere Cheesecake, Limette Cheesecake, Karotten Kuchen, Vegan Schoko Brownie, Vegan BananenBrot...und Eissssssss!!
