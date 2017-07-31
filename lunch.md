@@ -9,7 +9,7 @@ Es ist Montag morgen und es scheint schwer aufzuwachen abeeeer mit unserem Kaffe
 
 \* Sweet & Salty Roggen- Sandwiches mit Ricotta, Rucola und selbstgebraten Pflaumen (7,2)
 
-\* M&ouml;hren Salat mit crunchy Speck, pochiertem Ei, Grana Padano serviert mit Zitronen- Reis (7,9)
+\* M&ouml;hren Salat mit crunchy Speck, pochiertem Ei, Grana Padano serviert mit Zitronen- Buchweizen (7,9)
 
 \*\*\*\*\*\*\*\*\*\*\*\*ALL DAY LONG\*\*\*\*\*\*\*\*\*\*\*\*\*
 
