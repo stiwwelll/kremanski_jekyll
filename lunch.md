@@ -3,22 +3,28 @@ layout: lunch
 ---
 
 
-#### 31.07.2017
+#### 01.09.2017
 
-Es ist Montag morgen und es scheint schwer aufzuwachen abeeeer mit unserem Kaffee BONANZA und PASSENGER klappt es ganz gut !! Da du schon auf den Weg zu uns bist, sitzt dich mal hin und lunche mit uns :)
+Kremaski Lunch ist wieder da!!!!
 
-\* Sweet & Salty Roggen- Sandwiches mit Ricotta, Rucola und selbstgebraten Pflaumen (7,2)
+Wir kamen wieder st&auml;rker als zuvor mit einer neuen sch&ouml;nen begabter Koch; wir freuen uns, dass wir Jules vorzustellen!!
 
-\* M&ouml;hren Salat mit crunchy Speck, pochiertem Ei, Grana Padano serviert mit Zitronen- Buchweizen (7,9)
+September beginnen wir mit mediterranen Aromen:
 
-\*\*\*\*\*\*\*\*\*\*\*\*ALL DAY LONG\*\*\*\*\*\*\*\*\*\*\*\*\*
+\* Dicke Kartoffel-Tortilla [Kartoffel-Zwiebeln-Ei] mit Hausgemachte Alioli Creme und Tomaten-Kr&auml;uter Salat 6,-
 
-\*Kartoffel-Lauch-Brokkoli Suppe mit Brot und Dip (5,.)
+\* Knoblauch Hummus Salat mit Tahini Dressing und Hausgemachte Brot [Gr&uuml;n Salat, Blaukraut, Tomaten, Eingelegter Rettich, G&uuml;rken] (VEGAN) 6,5
 
-\*Gem&uuml;se Mix Quiche (m.Salat 6,0/o.S 3,9)
+ALL DAY LONG
 
-.....und Apfel-Rhabarbar Streusel Kuchen mit Vanille Pudding, Himbeere Cheesecake, Limette Cheesecake, Erdbeer- Kokos Raffaelo Kuchen, Vegan Schoko Brownie, Vegan BananenBrot...und selbstgemachtes Eissssssss!!
+\*Suppe (Marokkaniche Kichererbsen, Tomaten, Karotten) mit Hausgemachte Brot und Dip 5,-
 
-Wir freuen uns auf dich &lt;3
+\*Quiche (Fenchel-Zucchini) ohne/mit Salat 3,9/6,-
 
-&nbsp;
+und noch etwas suss......
+
+Apfel Tarte, Johannesbeer Cheesecake, Walnuss-Karotten Kuchen, Croissant-Brot Pudding, Zitronen Cheesecake, Vegan Schoko Brownie, Vegan BananenBrot...
+
+und genau noch Eisssssssssssss.....
+
+alles umrahmt von Passenger Blend Espresso & Bonanza Coffee....what else?!?!?!
