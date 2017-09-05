@@ -3,19 +3,34 @@ layout: lunch
 ---
 
 
-#### 04.09.2017
+#### 05.09.2017
 
-WE ARE BACK to regular opening times and a daily changing lunch menu – today's special are:
-<br>
-<br>\* Spanish omelette with homemade Aioli and tomato-herb-salad – 6,50 €
-<br>\* Fancy BLT-Sandwich with redcabbage-Kohlrabi-carrot-salad with Tahini-dressing – 7,90 € (vegan option 6,90 €)
-<br>
-<br>All Day Long
-<br>
-<br>\* Suppe ( Marokkanische Kicheerbsen, Tomaten, Karotten) mit Haugemachte Brot und Dip 5,-
-<br>\* Quiche ( Tomaten - Spinat ) ohne/mit Salat 3,90/6,00
-<br>
-<br>Und noch was suss.....
-<br>Karotten kuchen, Cheesecake, Apfle Tarte, Vegan Schoko Brownie, Vegan Bananen-Brot und Eissssssssssss!!!!!!!!
-<br>
-<br>What are u waitin for?!?!?!
+Tuesday kitchen madness!
+
+Explosion of flavors for every taste!!
+
+\* Dicke Kartoffel-Tortilla mit hausgemachte Alioli Creme und Tomaten-Kr&auml;uter Salta 6,5
+
+\* Spiegel Ei Sandwich: " Ei, Frischk&auml;se, G&uuml;rke, Hausgemachte Pesto, Tomaten & Mix Salat " mit Kraut-Salat 6,-
+
+\* Bio Lachs Salat: " Bio Lachs, Mix Salat, Rotkohl, Karotten & ger&ouml;stetes K&uuml;rbiskerne + hausgemachte Pesto Dressing " mit Hausgemachte Brot 7,5
+
+All Day Long
+
+\* Quiche ( Spinat-Tomaten ) ohne/mit Salat 3,9/6,-
+
+\* Suppe ( Tomaten ) mit Hausgemachte Brot & Dip 5,-
+
+and for the sweeties fan....
+
+Apfel tarte, Apfel-Birne Kuchen, K&auml;sekuchen, Karotten Kuchen, Cheesecake mit Erdbeere Deckel, Vegan Schoko Brownie, Vegan BananeBrot...all backed with love in our cozy kitchen...
+
+or cheer ur last summer days with our beloved Eissssss...
+
+all of this framed by the unique taste of
+
+BONANZA COFFEE & PASSENGER BLEND ESPRESSO..
+
+with love
+
+K-Team
