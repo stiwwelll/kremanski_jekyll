@@ -3,9 +3,9 @@ layout: lunch
 ---
 
 
-7.9.2017
+8.9.2017
 
-Sieht schon finster aus am Himmel, es gibt aber Licht am Horizont....ein K.....?!
+We are ready to warm up your week-end!!
 
 \* Lachs-Spinat-Crispies auf Salat mit ger&ouml;steten Zucchini, Tomaten, gemischtes Gr&uuml;nzeug, Tomaten, Brot
 
@@ -19,10 +19,8 @@ Sieht schon finster aus am Himmel, es gibt aber Licht am Horizont....ein K.....?
 
 \* Suppe ( Tomaten ) mit Hausgemachte Brot & Dip 5,-
 
-Dazu neue Kuchen: Karrotte-Walnuss-Kuchen, Cheesecake mit Erdbeer-Deckel, Apfel-Birnen-Kuchen, Bananenbrot, Schokobrownie.......
+Dazu neue Kuchen: Karrotte-Walnuss-Kuchen, Cheesecake mit Erdbeer-Deckel, Apfel-Birnen-Kuchen, Tiramis&uacute; Torte, Bananenbrot, Schokobrownie.......
 
 Oder selbstgemachtes Eis? Der Sommer ist ja gleich vorbei....
 
 Bis gleich!
-
-&nbsp;
