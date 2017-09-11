@@ -3,24 +3,24 @@ layout: lunch
 ---
 
 
-8.9.2017
+11.9.2017
 
-We are ready to warm up your week-end!!
+MONDAY....We know sometimes it&acute;s hard to start the week, that why we are here ready to give you your right dose of food, drink & coffee!!
 
-\* Lachs-Spinat-Crispies auf Salat mit ger&ouml;steten Zucchini, Tomaten, gemischtes Gr&uuml;nzeug, Tomaten, Brot
+\*CRISPY SPECK SANDWICH: Gegrillte Fenchel, Speck, Feta mit Salat 6,9
 
---auch VEGAN m&ouml;glich 7,5
+\*VEGAN RICE BOWL: Ger&ouml;stet Pilzen, Rotkohl, Greens, Rote Bohnen, Hausgemachte Eingelegter Rettich 6,5
 
-\* Fette Kartoffel-Tortilla mit hausgemachte Alioli und Tomaten-Kr&auml;uter Salsa 6,5
++ Spiegel Ei 1,-
 
-\* Spiegel Ei Sandwich: " Ei, Frischk&auml;se, Hausgemachte Pesto, Tomaten & Mix Salat " mit Kraut-Salat 6,5
++ Lachs 1,5
 
-\* Quiche ( Spinat-Tomaten ) ohne/mit Salat 3,9/6,-
++ Speck 1,5
 
-\* Suppe ( Tomaten ) mit Hausgemachte Brot & Dip 5,-
+All Day Long
 
-Dazu neue Kuchen: Karrotte-Walnuss-Kuchen, Cheesecake mit Erdbeer-Deckel, Apfel-Birnen-Kuchen, Tiramis&uacute; Torte, Bananenbrot, Schokobrownie.......
+\*Quiche (Fenchel-Tomaten) ohne/mit Salat 3,9/6,-
 
-Oder selbstgemachtes Eis? Der Sommer ist ja gleich vorbei....
+\*Suppe (Kokosmilch-Spinat) + Brot & Dip 5,-
 
-Bis gleich!
+Und noch sweeettttttttt......
