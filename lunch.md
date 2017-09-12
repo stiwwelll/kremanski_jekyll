@@ -3,19 +3,29 @@ layout: lunch
 ---
 
 
-11.9.2017
+Ach egal, wir gehen jetzt was essen!
 
-MONDAY....We know sometimes it&acute;s hard to start the week, that why we are here ready to give you your right dose of food, drink & coffee!!
+12.09.2017
 
-\*CRISPY SPECK SANDWICH: Gegrillte Fenchel, Speck, Feta mit Salat 6,9
+\* Super-gemischter Salat: Gr&uuml;n, Avocado, Speck (auch ohne),
 
-\*VEGAN RICE BOWL: Ger&ouml;stet Pilzen, Rotkohl, Greens, Rote Bohnen, Hausgemachte Eingelegter Rettich 6,5
+Ei, K&auml;se mit Brot 6,9
 
-+ Spiegel Ei 1,-
+\* CRISPY SPECK SANDWICH: Gegrillte Fenchel, Speck, Feta
+
+mit Salat 6,9
+
+\* VEGAN BOWL: Ger&ouml;stete Pilze, Fenchel, Greens, Rote
+
+Bohnen, eingelegter Rettich, Rotkohl 6,5
+
++ Spiegelei 1,-
 
 + Lachs 1,5
 
 + Speck 1,5
+
+\* Tortilla mit Tomaten-Radicchio-Salat + Aioli (hausgemacht) 6,5
 
 All Day Long
 
@@ -23,4 +33,12 @@ All Day Long
 
 \*Suppe (Kokosmilch-Spinat) + Brot & Dip 5,-
 
+\* Oder Superfood: CHIA-M&uuml;sli, ACAI-Shake, ACEROLA-Shake
+
 Und noch sweeettttttttt......
+
+\* Beeren-Cheesecake
+
+\* Carrot Cake, Tirsmisu-Torte
+
+\* Blaubeer-New York-Cheesecaske
