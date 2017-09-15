@@ -5,40 +5,18 @@ layout: lunch
 
 Ach egal, wir gehen jetzt was essen!
 
-12.09.2017
+15.09.2017
 
-\* Super-gemischter Salat: Gr&uuml;n, Avocado, Speck (auch ohne),
+Guys it&acute;s fridayyy, come pay us a visit!
 
-Ei, K&auml;se mit Brot 6,9
+Todays specials:<br>\* MUSHROOM ZUCCHINNI GRAIN BOWL:<br>"Avocado, Red Beans, Pickled Radish, Beete over Buckwheat and Rice mit Chimichuri sauce" (6,9)<br>+ fried egg (1)<br>+ chicken (1,5)<br>+ salmon (1,5)
 
-\* CRISPY SPECK SANDWICH: Gegrillte Fenchel, Speck, Feta
+\* CHICKEN RADICCHIO BREAD SALAT:<br>"Tomato, Bulgar Scharfk&auml;se, Rucola, Lettuce and pesto Dressing" (7,50)
 
-mit Salat 6,9
+\*Fresh Figs, Frishk&auml;se, Honey with Housemade Sesam Bread (5,-))
 
-\* VEGAN BOWL: Ger&ouml;stete Pilze, Fenchel, Greens, Rote
+ALL DAY LONG<br>\*Suppe (Lenses - Tomato) mit Housemade Bread and Dip (5,-)<br>\*Quiche (Fennel-Tomato) ohne/mit Salat (3,9/6,-)
 
-Bohnen, eingelegter Rettich, Rotkohl 6,5
+and many many sweet homemade with love cakes...
 
-+ Spiegelei 1,-
-
-+ Lachs 1,5
-
-+ Speck 1,5
-
-\* Tortilla mit Tomaten-Radicchio-Salat + Aioli (hausgemacht) 6,5
-
-All Day Long
-
-\*Quiche (Fenchel-Tomaten) ohne/mit Salat 3,9/6,-
-
-\*Suppe (Kokosmilch-Spinat) + Brot & Dip 5,-
-
-\* Oder Superfood: CHIA-M&uuml;sli, ACAI-Shake, ACEROLA-Shake
-
-Und noch sweeettttttttt......
-
-\* Beeren-Cheesecake
-
-\* Carrot Cake, Tirsmisu-Torte
-
-\* Blaubeer-New York-Cheesecaske
+What are u waitin for?!?!
