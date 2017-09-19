@@ -3,19 +3,19 @@ layout: lunch
 ---
 
 
-Ach egal, wir gehen jetzt was essen!
+19.09.2017
 
-18.09.2017
+Come have a Sunny Lunch at K!!
 
-Another Monday, another week, another sun, another lunch in K!!!
+\* Green Rice with roasted Zucchini, spiced chickpeas, avocado, pickled radish (6,5)
 
-\*Avocado Sesam Toast with roasted vegetables (carrots, kohlrabi) VEGAN 6,- oder + SpiegelEi 1,-
++ poached egg (1)
 
-+ Salmon 1,5
++ Salmon (1,5)
 
-+ Ham 1,5
++ Ham (1,5)
 
-\*Speck & Fried Egg Sandwich with Pesto Mayo, Frischcheese, Tomato, Green Salat and Housemade Fries 7,5
+\* Salmon meets Avocado: toast with herbed crispy potatoes and pickled onion (7,5)
 
 ALL DAY LONG
 
@@ -25,4 +25,6 @@ ALL DAY LONG
 
 and sweets.....
 
-Apple Cake, Carrots Cake, Blueberry Cheesecake, Cherry Mascarpone Almond Cake, Vegan Schoko Brownie, Vegan Bananebrot..
+Carrots Cake, Blueberry Cheesecake, Cherry Mascarpone Almond Cake, Rasberry-NY-Cheesecake, Vegan Schoko Brownie or Vegan Bananebrot
+
+See You :)
