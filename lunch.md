@@ -3,19 +3,23 @@ layout: lunch
 ---
 
 
-21.09.2017
+22.09.2017
 
-S&ouml;rsd&auml;i Lansch!
+Fridayyy, begin the Weekend in Kremanski:
 
-Don&acute;t die if you didn&acute;t try! (In my case: the rice bowl...)
+\* RED & GREEN BOWL
 
-\* KREMANSKI Salad with fried green Tomatoes, onion rings in Polenta breading, with Corn Salad, Cucumber Yoghurt and spicy mayo (6,5)
+buckwheat, roasted leeks and radicchio, avocado, sesame beets, served with creamy vegan green sauce (6,5)
 
-\* The Colored Sandwich: "Lachs, Avocado, fried Green Tomato, FreshCheese with Sesam Root Salat" (7,5)
++ salmon (1,5)
 
-\*Green Rice: "Poached Egg, grilled Zucchini, spicy Pumpkin Seeds, pickled Radish, Cheese" (VEGAN OPTION AVAILABLE"
++ crispy bacon (1,5)
 
-(6,5) +Lachs (1,5) +Crispy Speck (1,5) +Avocado (1,-)
++ fried egg (1)
+
+\* KOOKOO SABZI (persing herb frittata)
+
+cucumber yogurt sauce + side of roasted eggplant + Schafsk&auml;se (6,5)
 
 All Day Long
 
