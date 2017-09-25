@@ -3,32 +3,24 @@ layout: lunch
 ---
 
 
-22.09.2017
+25.09.2017
 
-Fridayyy, begin the Weekend in Kremanski:
+KREMANSKI It&acute;s foggy, but no need to feel depressed. Come on, get your ass out into life- and have a light lunch:
 
-\* RED & GREEN BOWL
+\* Traffic Salad:
 
-buckwheat, roasted leeks and radicchio, avocado, sesame beets, served with creamy vegan green sauce (6,5)
+\* Ger&ouml;steter Gem&uuml;sesalad: S&uuml;sskartoffeln, rote Beete,<br>&nbsp;&nbsp; Kerne, Karrotten und mehr..... mit Brot (VEGAN) (6,9)+<br>&nbsp;&nbsp; boiled egg (1)
 
-+ salmon (1,5)
+\* Coriander-Egg-Sandwich with sauce special (5)
 
-+ crispy bacon (1,5)
+\*Soup (Potato-Leek) with Bread and Dip (VEGAN) (5,-)
 
-+ fried egg (1)
+\*Quiche (Radicchio-Zucchini) w/o Salat (3,9/6,-)
 
-\* KOOKOO SABZI (persing herb frittata)
+and for who can&acute;t live without sweeetyyyys:
 
-cucumber yogurt sauce + side of roasted eggplant + Schafsk&auml;se (6,5)
+Chocolate-Pear-Cake, Apple tarte, Carrot Cake, Vegan Schoko Brownie, Cheesecake with Raspberry & Strawberry Cover, Vegan BananeBread....and Ice Baby!
 
-All Day Long
+Coffee from BONANZA and Passenger....
 
-\*Soup (Potato-Leek) with Bread and Dip (5,-)
-
-\*Quiche (Radicchio-Zucchini) ohne/mit Salat (3,9/6,-)
-
-and for who can&acute;t live without sweeetyyyy
-
-Apple tarte, Carrot Cake, Vegan Schoko Brownie, Cheesecake with Raspberry & Strawberry Cover, Vegan BananeBread....and Ice Baby!
-
-When is the funeral?
+See you!
