@@ -3,24 +3,36 @@ layout: lunch
 ---
 
 
-25.09.2017
+26.09.2017
 
-KREMANSKI It&acute;s foggy, but no need to feel depressed. Come on, get your ass out into life- and have a light lunch:
+The sun is shining in our hearts and food, so come around if you are looking for sun today:
 
-\* Traffic Salad:
+\* WARM GOAT CHEESE SANDWICH
 
-\* Ger&ouml;steter Gem&uuml;sesalad: S&uuml;sskartoffeln, rote Beete,<br>&nbsp;&nbsp; Kerne, Karrotten und mehr..... mit Brot (VEGAN) (6,9)+<br>&nbsp;&nbsp; boiled egg (1)
+with sundried tomato, roasted fennel and rucola (5,5)
 
-\* Coriander-Egg-Sandwich with sauce special (5)
++ fried egg (1)
+
++ speck (1,5)
+
++ salmon (1,5)
+
+\* BUCKWHEAT GRAIN BOWL
+
+in roasted beeta with avocado, carrots, garlic roasted sweet potato and green sauce (6,9)
+
++ fried egg (1)
+
++ speck (1,5)
+
++ salmon (1,5)
 
 \*Soup (Potato-Leek) with Bread and Dip (VEGAN) (5,-)
 
 \*Quiche (Radicchio-Zucchini) w/o Salat (3,9/6,-)
 
-and for who can&acute;t live without sweeetyyyys:
+and for who can&acute;t live without sweeetyyyy
 
 Chocolate-Pear-Cake, Apple tarte, Carrot Cake, Vegan Schoko Brownie, Cheesecake with Raspberry & Strawberry Cover, Vegan BananeBread....and Ice Baby!
-
-Coffee from BONANZA and Passenger....
 
 See you!
