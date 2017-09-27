@@ -3,33 +3,39 @@ layout: lunch
 ---
 
 
-26.09.2017
+27.09.2017
 
-The sun is shining in our hearts and food, so come around if you are looking for sun today:
+Kremanski LightYear to Infinity and Beyond!
 
 \* WARM GOAT CHEESE SANDWICH
 
-with sundried tomato, roasted fennel and rucola (5,5)
+with sundried tomato, roasted fennel and basil (5,9)
 
 + fried egg (1)
 
-+ speck (1,5)
++ crispy speck (1,5)
 
 + salmon (1,5)
 
-\* BUCKWHEAT GRAIN BOWL
+\* BUCKWHEAT RICE BOWL
 
-in roasted beeta with avocado, carrots, garlic roasted sweet potato and green sauce (6,9)
+with spicy roasted beets, avocado, kidney beans, grilled mushroom, pickled radish and green salat (6,9)
 
 + fried egg (1)
 
-+ speck (1,5)
++ crispy speck (1,5)
 
 + salmon (1,5)
 
-\*Soup (Potato-Leek) with Bread and Dip (VEGAN) (5,-)
+\* FILLED OMELETTE with stir fried green paprika, cheese, carrots, garlic and green sauce with Brot (6,5)
 
-\*Quiche (Radicchio-Zucchini) w/o Salat (3,9/6,-)
++crispy speck (1,5)
+
++salmon (1,5)
+
+\*Soup (Lentil-Red Beans-Kokosmilch) with Bread and Dip (VEGAN) (5,-)
+
+\*Quiche (Mushroom-Paprika) w/o Salat (3,9/6,-)
 
 and for who can&acute;t live without sweeetyyyy
 
