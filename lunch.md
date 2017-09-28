@@ -3,13 +3,13 @@ layout: lunch
 ---
 
 
-27.09.2017
+28.09.2017
 
-Kremanski LightYear to Infinity and Beyond!
+Great food, great coffee, great drinks, great workers....what do u need more?!?!
 
 \* WARM GOAT CHEESE SANDWICH
 
-with sundried tomato, roasted fennel and basil (5,9)
+with sundried tomato, roasted fennel and basil & rucolA (5,9)
 
 + fried egg (1)
 
@@ -19,7 +19,7 @@ with sundried tomato, roasted fennel and basil (5,9)
 
 \* BUCKWHEAT RICE BOWL
 
-with spicy roasted beets, avocado, kidney beans, grilled mushroom, pickled radish and green salat (6,9)
+with roasted muschroom, avocado, spicy beets, kidney beans, radish and chimichurri sauce (6,9) (VEGAN)
 
 + fried egg (1)
 
@@ -27,11 +27,17 @@ with spicy roasted beets, avocado, kidney beans, grilled mushroom, pickled radis
 
 + salmon (1,5)
 
-\* FILLED OMELETTE with stir fried green paprika, cheese, carrots, garlic and green sauce with Brot (6,5)
+\* OVEN ROASTED PURPLE CABBAGE STEAK
 
-+crispy speck (1,5)
+with toasted almonds & sesame seeds, bulgarian cheese and vegan creamy green sauce with spicz chickpeas and carrots salat (6,9) (AUCH VEGAN)
 
-+salmon (1,5)
++ fried egg (1)
+
++ crispy speck (1,5)
+
++ salmon (1,5)
+
+ALL DAY LONG
 
 \*Soup (Lentil-Red Beans-Kokosmilch) with Bread and Dip (VEGAN) (5,-)
 
