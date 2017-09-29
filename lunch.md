@@ -3,48 +3,34 @@ layout: lunch
 ---
 
 
-28.09.2017
+29.09.2017
 
-Great food, great coffee, great drinks, great workers....what do u need more?!?!
+Weekend ahead, food from our hearts..
 
-\* WARM GOAT CHEESE SANDWICH
+\* CROQUE MONSIEUR a la K
 
-with sundried tomato, roasted fennel and basil & rucolA (5,9)
+melted Gruyere & Bergk&auml;se, Ham, Besciamella, Dijon Mustard in Crust Bread with pickled Radish (6,5)
 
-+ fried egg (1)
+---CROQUE MADAME----- + SpiegelEi 1,-
 
-+ crispy speck (1,5)
+---VEGETARIAN OPTION----- + Grilled Mushroom - Ham
 
-+ salmon (1,5)
+\* WARM ZIEGENK&Auml;SE SANDWICH
 
-\* BUCKWHEAT RICE BOWL
+roasted Fennel, poached Egg, Avocado, Red Cabbage, Green Salat (6,9)
 
-with roasted muschroom, avocado, spicy beets, kidney beans, radish and chimichurri sauce (6,9) (VEGAN)
++ Crispy Speck 1,5
 
-+ fried egg (1)
-
-+ crispy speck (1,5)
-
-+ salmon (1,5)
-
-\* OVEN ROASTED PURPLE CABBAGE STEAK
-
-with toasted almonds & sesame seeds, bulgarian cheese and vegan creamy green sauce with spicz chickpeas and carrots salat (6,9) (AUCH VEGAN)
-
-+ fried egg (1)
-
-+ crispy speck (1,5)
-
-+ salmon (1,5)
++ Lachs 1,5
 
 ALL DAY LONG
 
-\*Soup (Lentil-Red Beans-Kokosmilch) with Bread and Dip (VEGAN) (5,-)
+\* SUPPE (Lenses, Red Beans, Kokosmilch) with Bread & Dip (5,-)
 
-\*Quiche (Mushroom-Paprika) w/o Salat (3,9/6,-)
+\* QUICHE (Mushroom, Paprika) with/without Salat (6,-/3,9)
 
-and for who can&acute;t live without sweeetyyyy
+and for those who cannot live without sweet...
 
-Chocolate-Pear-Cake, Apple tarte, Carrot Cake, Vegan Schoko Brownie, Cheesecake with Raspberry & Strawberry Cover, Vegan BananeBread....and Ice Baby!
+Choccolate-Pear Cake, Classic Cheesecake, Carrot Cake, Apple Tarte, Cheesecake with Strawberry-Rasperry Cover, Vegan Choccolate Cake, Vegan Banane Bread...and Eissssss..
 
-See you!
+i mean, what can you ask more?!?!
