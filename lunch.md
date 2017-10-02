@@ -3,34 +3,30 @@ layout: lunch
 ---
 
 
-29.09.2017
+02.10.2017
 
-Weekend ahead, food from our hearts..
+New week new food - Come and try!
 
-\* CROQUE MONSIEUR a la K
+\* FAT RICOTTA TOAST
 
-melted Gruyere & Bergk&auml;se, Ham, Besciamella, Dijon Mustard in Crust Bread with pickled Radish (6,5)
+with honey glazed almonds, grilled green onions on Krustenbrot. Side of rucola salad (5,9)
 
----CROQUE MADAME----- + SpiegelEi 1,-
++ salmon (1,5)
 
----VEGETARIAN OPTION----- + Grilled Mushroom - Ham
++ speck (1,5)
 
-\* WARM ZIEGENK&Auml;SE SANDWICH
++ poached egg (1)
 
-roasted Fennel, poached Egg, Avocado, Red Cabbage, Green Salat (6,9)
+\* LACHS OF LOVE SANDWICH
 
-+ Crispy Speck 1,5
+with salmon, sundried tomato, gruyere, red onions, housemade pickled beets, mixed salad and crustini baguette (6,9)
 
-+ Lachs 1,5
++ avocado (1)
 
-ALL DAY LONG
++ poached egg (1)
 
-\* SUPPE (Lenses, Red Beans, Kokosmilch) with Bread & Dip (5,-)
+and sweeeeets of course:
 
-\* QUICHE (Mushroom, Paprika) with/without Salat (6,-/3,9)
+\*carrot cake\* \*Beeren-Mascarpone-Torte\* \*vegan bananabread\* \*vegan brownie\* \*Joghurt-Organgen-Cheesecake\*
 
-and for those who cannot live without sweet...
-
-Choccolate-Pear Cake, Classic Cheesecake, Carrot Cake, Apple Tarte, Cheesecake with Strawberry-Rasperry Cover, Vegan Choccolate Cake, Vegan Banane Bread...and Eissssss..
-
-i mean, what can you ask more?!?!
+AND A LOT MOREEEE
