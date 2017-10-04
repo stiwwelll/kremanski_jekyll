@@ -3,30 +3,10 @@ layout: lunch
 ---
 
 
-02.10.2017
+04.10.2017
 
-New week new food - Come and try!
+\* FAT MELTED GOATCHEESE TOAST<br>with honey glazed almonds, grilled green onions on Krustenbrot. Side of Avocado Salad (6,9)<br>+ salmon (1,5)<br>+ ham (1,5)<br>+ avocado on the toast (1)<br>+ fried egg (1)
 
-\* FAT RICOTTA TOAST
+\* POMMES PAILLASON (FRENCH POTATO CAKE)<br>with besciamella, caramelized onion and fried egg, Side of Salat (6,9)<br>+ avocado (1)<br>+ ham (1,5)<br>+ salmon (1,5)
 
-with honey glazed almonds, grilled green onions on Krustenbrot. Side of rucola salad (5,9)
-
-+ salmon (1,5)
-
-+ speck (1,5)
-
-+ poached egg (1)
-
-\* LACHS OF LOVE SANDWICH
-
-with salmon, sundried tomato, gruyere, red onions, housemade pickled beets, mixed salad and crustini baguette (6,9)
-
-+ avocado (1)
-
-+ poached egg (1)
-
-and sweeeeets of course:
-
-\*carrot cake\* \*Beeren-Mascarpone-Torte\* \*vegan bananabread\* \*vegan brownie\* \*Joghurt-Organgen-Cheesecake\*
-
-AND A LOT MOREEEE
+and sweeeeets of course:<br>\*carrot cake\* \*apple cake\* \*vegan bananabread\* \*vegan brownie\*<br>AND A LOT MOREEEE
