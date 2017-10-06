@@ -3,46 +3,38 @@ layout: lunch
 ---
 
 
-05.10.2017
+06.10.2017
 
-Run away from the rain
+We get your muscles ready for the week end!!!
 
-get in K fairy tale!!
+Today Specials:
 
-\* GOATCHEESE TOAST
+\*Rice + Buckwheat with grilled mushrooms, avocado, spicy beets, chickpeas, homemade pickled radish and chimichurri sauce (6,9) (VEGAN)
 
-with sundried Tomato, Basil, Caramelized Onions & Red Chili. Side of Homemade Pickled Cabbage & Radish (6,9)
++ lachs or speck (1,5)
 
-+ salmon (1,5)
++ fried eg (1.-)
 
-+ speck (1,5)
+\*Warm Ziegenk&auml;se Sandwich with sundried Tomato, Basil, Caramelized Onions, Chili with homemade pickled cabbage and rucola salat (6,9)
 
-+ avocado (1)
++ lachs or speck (1,5)
 
-+ fried egg (1)
++ avocado or fried egg (1,-)
 
-\* POMMES PAILLASON (FRENCH POTATO CAKE)
+\*Big Ricotta Toast withc charred green onions, honey glazed almonds with rucola salat (5,9)
 
-with besciamella, caramelized onion, fried egg & rucola. Side of Salat (6,9)
++ lachs or speck (1,5)
 
-+ avocado (1)
++ avocado or poached egg (1,-)
 
-+ speck (1,5)
+All Day Long
 
-+ salmon (1,5)
+\*Suppe (Carrot, Coconutsmilk, Lensil) + Bread & Dip (5,-)
 
-\* GRAIN RICE BOWL
+\*Quiche (Zucchini, Onions, Spinach) -/+ Salat (3,9/6,-)
 
-with grilled mushroom, avocado, red lensils, homemade pickled beets with chimichurri sauce (6,9)
+and sweeeeeeeeeetssssssssss!!!!!!
 
-+ lachs (1,5)
+as always...
 
-+ speck (1,5)
-
-+ frid egg (1)
-
-and sweeeeets of course:
-
-\*carrot cake\* \*apple cake\* \*vegan bananabread\* \*vegan brownie\*
-
-AND A LOT MOREEEE
+Cheers Friendss!!!
