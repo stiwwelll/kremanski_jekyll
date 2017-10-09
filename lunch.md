@@ -3,38 +3,24 @@ layout: lunch
 ---
 
 
-06.10.2017
+09.10.2017
 
-We get your muscles ready for the week end!!!
+Endlich mal sch&ouml;nes Wetter- Zeit f&uuml;r raus und was essen...
 
-Today Specials:
+\* Spanish Tortilla with aioli and mixed salad (gr&uuml;n/rot) (6,5)
 
-\*Rice + Buckwheat with grilled mushrooms, avocado, spicy beets, chickpeas, homemade pickled radish and chimichurri sauce (6,9) (VEGAN)
+\* Fat Ricotta-Toast with glazed almonds, grilled green onions,
 
-+ lachs or speck (1,5)
+spicy beets etc....
 
-+ fried eg (1.-)
+\* Quiche (salmon and vegetables OR Goat cheese and
 
-\*Warm Ziegenk&auml;se Sandwich with sundried Tomato, Basil, Caramelized Onions, Chili with homemade pickled cabbage and rucola salat (6,9)
+vegetables) with/without salad (6/3,9)
 
-+ lachs or speck (1,5)
+\* Vegan soup (Carrot-Anis) w home-made Dip and bread (5)
 
-+ avocado or fried egg (1,-)
+or finally some ice-cream or home-made cakes or superfood........
 
-\*Big Ricotta Toast withc charred green onions, honey glazed almonds with rucola salat (5,9)
+OR?
 
-+ lachs or speck (1,5)
-
-+ avocado or poached egg (1,-)
-
-All Day Long
-
-\*Suppe (Carrot, Coconutsmilk, Lensil) + Bread & Dip (5,-)
-
-\*Quiche (Zucchini, Onions, Spinach) -/+ Salat (3,9/6,-)
-
-and sweeeeeeeeeetssssssssss!!!!!!
-
-as always...
-
-Cheers Friendss!!!
+Come and check!
