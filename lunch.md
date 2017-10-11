@@ -3,24 +3,30 @@ layout: lunch
 ---
 
 
-09.10.2017
+11.10.2017
 
-Endlich mal sch&ouml;nes Wetter- Zeit f&uuml;r raus und was essen...
+Don&acute;t be shy, come out, show yourself, fill up your day with some delicious food!!
 
-\* Spanish Tortilla with aioli and mixed salad (gr&uuml;n/rot) (6,5)
+\*The Sandwich: Speck, Potato Onion Omelette, Ricotta, Homemade Alioli in Bio Pane Rustico + side of red cabbage slaw (6,9) (AUCH VEGETARISCH 5,9)
 
-\* Fat Ricotta-Toast with glazed almonds, grilled green onions,
+\*Salmon Cheesy Crispy Salad with roasted potatoes, tomatoes, Bulgarischer K&auml;se, Red cabbage, Homemade pickled radish with crostini (7,9)
 
-spicy beets etc....
++ Avocado 1,-
 
-\* Quiche (salmon and vegetables OR Goat cheese and
++ Poached Egg 1,-
 
-vegetables) with/without salad (6/3,9)
+\*Avocado+Poached egg Toast with Honey-glazed-almonds + side of Homemade pickled beets & chili flakes (6,5)
 
-\* Vegan soup (Carrot-Anis) w home-made Dip and bread (5)
++ Lachs 1,5
 
-or finally some ice-cream or home-made cakes or superfood........
++Speck 1,5
 
-OR?
+All Day Long
 
-Come and check!
+\*Suppe (Carrots-Anis) with Bread & Dip (5,-)
+
+\*Quiche (Goatcheese-Vegetables) -/+ salad (3,9/6,-)
+
+and Almonds creme & fig Cake, Cheesecake with strawberrz cover, carrots cake, Mascarpone Cake with almonds daw and blueberry cover, vegan brownie, vegan bananabread and Eissssss!!!!!
+
+come, come to my sweet melody!!!
