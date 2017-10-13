@@ -3,30 +3,38 @@ layout: lunch
 ---
 
 
-12.10.2017
+12310.2017
 
-Take your daily medicine right at KREMANSKI! No reservation needed!
+Start the Weekend in Kremanski:
 
-\* GREEN BOWL: Grilled mushroom, avocado, red cabbage, home-made pickled radish, Lima beans, Chimichurri Sauce
+\* GRAIN BOWL
 
-+ Fried egg 1.-
+with rice and buckwheat, spicy roasted zucchini, avocado, red cabbage, housemade pickled radish and lima beans with chimichurry sauce (6,9)
 
-+ Salmon 1,5
++ fried egg (1)
 
-+ Crispy Ham 1,5
++ salmon (1,5)
 
-\*Cheesy Crispy Salmon Salad with roasted potatoes, tomatoes, Bulgarian Sheep-Cheese, Red cabbage, Homemade pickled radish with crostini (7,9)
+\* WARM SPECK - FENNEL SANDWICH
 
-+ Avocado 1,-
+with speck, ricotta, grilled fennel, salted lemon, rucola with baguette and sice salad (6,9)
 
-+ Poached Egg 1,-
++ fried egg (1)
 
-\*Suppe (Carrots-Anis) with Bread & Dip (5,-)
++ avocado
 
-\*Quiche (Champignon, Vegetables Goat chese -/+ salad (3,9/6,-)
+ALL DAY LONG
 
-and Sweeties:
+\* Soup (carrot anis) with bread and housemade dip (5)
 
-Almonds creme & fig Cake, Carrot cake, Mascarpone Cake with almonds daw and blueberry cover, vegan Brownie, vegan Bananabread and Ice cream at a special price!
+\* Quiche (goat cheese, vegetables and mashrooms) w/wo salad (3,9/6)
 
-come, come to my sweet melody!!!
+...and of course some sweets:
+
+- ICE CREAM FOR 80 c
+
+- viele Kuchen und wie immer unsere veganen Optionen: Brownie and Banana Bread :)
+
+Wir freuen uns schon auf euch!
+
+Eure K&acute;s
