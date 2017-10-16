@@ -3,38 +3,36 @@ layout: lunch
 ---
 
 
-12310.2017
+16.10.2017
 
-Start the Weekend in Kremanski:
+Come and start the Week softly in K:
 
-\* GRAIN BOWL
+Lunchtime:
 
-with rice and buckwheat, spicy roasted zucchini, avocado, red cabbage, housemade pickled radish and lima beans with chimichurry sauce (6,9)
+\* ROASTED CARROT, FRISEE, AVOCADO CREAM SALAD (7,5)
 
-+ fried egg (1)
+with toasted pumpkin seeds, grana padano and crostini
+
+\* MOZZARELLA - ROASTED TOMATO SANDWICH (6,5)
+
+with salted lemon, side salad and housemade pickles
+
+ADDITION FOR BOTH DISHES
+
++ speck (1)
 
 + salmon (1,5)
 
-\* WARM SPECK - FENNEL SANDWICH
-
-with speck, ricotta, grilled fennel, salted lemon, rucola with baguette and sice salad (6,9)
-
 + fried egg (1)
-
-+ avocado
 
 ALL DAY LONG
 
-\* Soup (carrot anis) with bread and housemade dip (5)
+SOUP (tomaten-lemon-chilli) with bread and housemade dip (5)
 
-\* Quiche (goat cheese, vegetables and mashrooms) w/wo salad (3,9/6)
+QUICHE (fennel, tried tomatoes, ricotta)
 
-...and of course some sweets:
+with/without salad (3,9/6)
 
-- ICE CREAM FOR 80 c
+and a lot of deliciouse cakes and ice cream!
 
-- viele Kuchen und wie immer unsere veganen Optionen: Brownie and Banana Bread :)
-
-Wir freuen uns schon auf euch!
-
-Eure K&acute;s
+See you soon!
