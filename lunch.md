@@ -3,36 +3,24 @@ layout: lunch
 ---
 
 
-16.10.2017
+18.10.2017
 
-Come and start the Week softly in K:
+Take advantage from this summer weather, get out and grab some deliciouse food by the K-Team!!
 
-Lunchtime:
+\* Shredder Chicken - Caramelized Onions - Grana Padano Sandwich with &lt;tomatoes & green salat o Bio Pane Rustico with small salat (6,5)
 
-\* ROASTED CARROT, FRISEE, AVOCADO CREAM SALAD (7,5)
+\* Roasted Cauliflower & Avocado Reis Bowl with Homemade pickled radish, red cabbage, chickpeas + green sauce (6,9)
 
-with toasted pumpkin seeds, grana padano and crostini
+VEGAN
 
-\* MOZZARELLA - ROASTED TOMATO SANDWICH (6,5)
++lachs 1,5
 
-with salted lemon, side salad and housemade pickles
++speck 1,5
 
-ADDITION FOR BOTH DISHES
++spiegelei 1,-
 
-+ speck (1)
+and carrot cake, cheesecake, apple cake, rasberry cheesecake, vegan brownie, vegan bananbread and Eissssssssssssss!!!!!
 
-+ salmon (1,5)
+your confidential bar
 
-+ fried egg (1)
-
-ALL DAY LONG
-
-SOUP (tomaten-lemon-chilli) with bread and housemade dip (5)
-
-QUICHE (fennel, tried tomatoes, ricotta)
-
-with/without salad (3,9/6)
-
-and a lot of deliciouse cakes and ice cream!
-
-See you soon!
+Kremanski
