@@ -3,24 +3,34 @@ layout: lunch
 ---
 
 
-18.10.2017
+23.10.2017
 
-Take advantage from this summer weather, get out and grab some deliciouse food by the K-Team!!
+Hello new Week, hello Kremanski, Hello Lunch.
 
-\* Shredder Chicken - Caramelized Onions - Grana Padano Sandwich with &lt;tomatoes & green salat o Bio Pane Rustico with small salat (6,5)
+Todays specials:
 
-\* Roasted Cauliflower & Avocado Reis Bowl with Homemade pickled radish, red cabbage, chickpeas + green sauce (6,9)
+\* SPANISH TORTILLA
 
-VEGAN
+with housemade aioli and roasted tomato and feta salad (6,5)
 
-+lachs 1,5
+\* ROASTED TOMATO MOZZARELLA EGGPLANT SANDWICH
 
-+speck 1,5
+on bio rustic bread and side rucola salad (VEGAN OPTION) (6,5)
 
-+spiegelei 1,-
++ speck (1,5)
 
-and carrot cake, cheesecake, apple cake, rasberry cheesecake, vegan brownie, vegan bananbread and Eissssssssssssss!!!!!
++ fried egg (1)
 
-your confidential bar
+ALL DAY LONG
 
-Kremanski
+SOUP (spacy tomato chickpea) with bread and housemade dip (5)
+
+QUICHE (mixed vegetable) w/wo salad (6/3,9)
+
+and for dessert:
+
+- last days of ice cream
+
+- cakes: Brownie and Banana Breas and Almond Carrot Cake
+
+See You.
