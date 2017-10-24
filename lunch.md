@@ -3,34 +3,26 @@ layout: lunch
 ---
 
 
-23.10.2017
+24.10.2017
 
-Hello new Week, hello Kremanski, Hello Lunch.
+Kremanski, our satellite of love!
 
-Todays specials:
+Today&acute;s Special:
 
-\* SPANISH TORTILLA
+\* Eggplant, Mozzarella, Spinach Toast on Bio Berliner Kruste with Rucola Salat (6,5) (VEGAN OPTION AVAILABLE)
 
-with housemade aioli and roasted tomato and feta salad (6,5)
++ Speck 1,5
 
-\* ROASTED TOMATO MOZZARELLA EGGPLANT SANDWICH
++ Fried Egg 1,-
 
-on bio rustic bread and side rucola salad (VEGAN OPTION) (6,5)
+\* Shredded Chicken, Grana padano, Caramelized onions, Green Tomato, Lettuce Sandwich on Bio Baguette with Red Cabbage & Feta slaw (6,5)
 
-+ speck (1,5)
+EVERY MEAL INCUDED AN ICE-CREAM SCOOP!!!
 
-+ fried egg (1)
+And if eis creme is not enough...
 
-ALL DAY LONG
+Cheesecake, Grandma&acute;s Apple Cake, Almonds Carrots Cake, Strawberry Cheesecake, Vegan Brownie, Vegan BananeBread...
 
-SOUP (spacy tomato chickpea) with bread and housemade dip (5)
+U know where to find us!!!
 
-QUICHE (mixed vegetable) w/wo salad (6/3,9)
-
-and for dessert:
-
-- last days of ice cream
-
-- cakes: Brownie and Banana Breas and Almond Carrot Cake
-
-See You.
+K- Team
