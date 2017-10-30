@@ -3,34 +3,36 @@ layout: lunch
 ---
 
 
-26.10.2017
+30.10.2017
 
-Kremanski, our satellite of love!
+Our Lunch is the best wind-protection:
 
-Today specials:
+\* SPANISH TORTILLA (6,5)
 
-\* Eggplant, mozzarella, spinach toast on bio Berliner kruste with salat (6,5) (VEGAN OPTION AVAILABLE)
+with housemade aioli and salad
 
-+ Speck 1,5
+\* ZIEGENK&Auml;SETOAST (6,9)
 
-+ Fried Egg 1,-
+with spicy beets, olive tapanade, almonds and side of housemade pickled cabbage
 
-\* Shredded chicken, Grana Padano, caramelized onions, green tomato, lattuce sandwich on bio baguette with rucola & Feta slaw (6,5)
+[VEGAN OPTION]
 
-\* Roasted fennel & pumpkin rice bowl with lentils, homemade pickled radish, red cabbage and Chimichuri sauce (6,9)
-
-+ Avocado (1)
-
-+ freid egg (1)
-
-+ salmon (1,5)
+ADD FOR BOTH:
 
 + speck (1,5)
 
-EVERY MEAL INCLUDED AN ICE-CREAM SCOOP!!! come come come to say hello !!!
++ avocado (1)
 
-And if eis creme is not enough...
+SPECIAL OFFER: one ice coop for free for every dish
 
-Cheesecake, Grandma&acute;s Apple Cake, Almonds Carrots Cake, Strawberry Cheesecake, Vegan Brownie, Vegan BananeBread...
+and more sweets:
 
-we are looking forward to seeing you
+\* Cheesecake
+
+\* Falling in self-love cake
+
+\* Banana Bread
+
+\* Brownie
+
+We are looking forward to seeing you :)
