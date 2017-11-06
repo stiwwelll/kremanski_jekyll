@@ -3,36 +3,40 @@ layout: lunch
 ---
 
 
-30.10.2017
+5.11.2017
 
-Our Lunch is the best wind-protection:
+Kau-Boy? Wir haben Futter f&uuml;rs Gro&szlig;stadt-Rodeo!
 
-\* SPANISH TORTILLA (6,5)
+\* Fenchel-Onion Pancake + Avocado-Rucola-Salad, Citrus-
 
-with housemade aioli and salad
+Yoghurt-Sauce (+Garlic) (6,9)
 
-\* ZIEGENK&Auml;SETOAST (6,9)
++ Speck 1,5
 
-with spicy beets, olive tapanade, almonds and side of housemade pickled cabbage
++ Salmon 1,5
 
-[VEGAN OPTION]
+\* Green Rice _something with spicy red beets, Cream cheese, poached eggs -VEGN OPTION_
 
-ADD FOR BOTH:
++ Speck 1,5
 
-+ speck (1,5)
++ Salmon 1,5
 
-+ avocado (1)
++ Avocado 1
 
-SPECIAL OFFER: one ice coop for free for every dish
+\* Quiche (MIxed-Gem&uuml;se, e.g. spinach, cabbage...)
 
-and more sweets:
++/-salad (3,9/6)
 
-\* Cheesecake
+\* Soup (Lentil) + home-made Dip and bread (5)
 
-\* Falling in self-love cake
+-VEGAN_
 
-\* Banana Bread
+Cakes AND Sweets:
 
-\* Brownie
+- Apple cake, carrot cake, cheese cake, Brownie (VEGAN),
 
-We are looking forward to seeing you :)
+Banana Bread (VEGAN)
+
+- und sogar noch ein bischen Eis (noch ein paar Tage!)
+
+Bis dann!
