@@ -3,40 +3,18 @@ layout: lunch
 ---
 
 
-5.11.2017
+7.11.2017
 
-Kau-Boy? Wir haben Futter f&uuml;rs Gro&szlig;stadt-Rodeo!
+Sunny Tuesday!<br>K specials:<br>\* Fennel Spinach Crispy Pancake with Ricotta Avocado Almonds Salat (6,9)<br>+ Salmon 1,5<br>+ Speck 1,5
 
-\* Fenchel-Onion Pancake + Avocado-Rucola-Salad, Citrus-
+\* Green Rice (Koriandel, Garlic, Persley, Chili) with Poached Egg and Feta (VEGAN OPTION AVAILABLE) (6,9)<br>+ Avocado 1,-<br>+ Salmon 1,5<br>+ Speck 1,5
 
-Yoghurt-Sauce (+Garlic) (6,9)
+ALL MEALS INCLUDED ONE ICE_CREAM SCOOP!!!!
 
-+ Speck 1,5
+All Day Long
 
-+ Salmon 1,5
+\* Suppe (Whitewine, Thyme, Lenses) with Bread & Dip (5,-)<br>\* Quiche (Mix Vegetables) -/+ Salad (3,9/6,-)
 
-\* Green Rice _something with spicy red beets, Cream cheese, poached eggs -VEGN OPTION_
+and for sweets lover..<br>Almonds Carrots Cake, Apple creme Cake, Cheesecake. Vegna Schoko Brownie, Vegan bananeBread...and more..
 
-+ Speck 1,5
-
-+ Salmon 1,5
-
-+ Avocado 1
-
-\* Quiche (MIxed-Gem&uuml;se, e.g. spinach, cabbage...)
-
-+/-salad (3,9/6)
-
-\* Soup (Lentil) + home-made Dip and bread (5)
-
--VEGAN_
-
-Cakes AND Sweets:
-
-- Apple cake, carrot cake, cheese cake, Brownie (VEGAN),
-
-Banana Bread (VEGAN)
-
-- und sogar noch ein bischen Eis (noch ein paar Tage!)
-
-Bis dann!
+u know where to find us!
