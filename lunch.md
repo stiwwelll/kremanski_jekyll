@@ -3,38 +3,34 @@ layout: lunch
 ---
 
 
-13.11.2017
+15.11.2017
 
-Monday Morning - You don&acute;t want to wake up? We help you!
+When outside it s cold, your favourite nest is ready to cuddle you!!!
 
-Our Specials today:
+\* King Mushroom & Purple Potatoes Rice + Buckwheat Bowl with homemade pickled cabbage and chimichurri sauce (6,9)
 
-\* SPANISH TORTILLA (6,5)
++ Avocado (1,-)
 
-with aioli and roasted beets
++ Lachs (1,5)
 
-+ avocado (1)
++ Speck (1,5)
 
-+ salmon (1,5)
+\* Autumn BLT Sandwich : crispy speck, sundired tomatoes, lettuce, mayo in bio berliner kruste with frisee salad (6,9)
 
-\* CRISPY SPECK - SPINACH - CIABATTA - SANDWICH (6,9)
++ Avocado (1,-)
 
-wih Creamcheese and housemade pickeld cabbage
++ Fresh Cheese (1,-)
 
-(ALSO VEGAN OR VEGGY OPTION)
+\* Vegetarian Lasagna with small salad (6,9)
 
-+ avocado (1)
+All day long
 
-Our sweets today:
+\* Suppe ( Paprika, Rosemary, Almonds, Bread and Whitewine) + Dip & Bread (5,-)
 
-Queen shuntaro cheesecake
+\* Quiche ( Mix Vegetables) -/+ Salad (3,9/6,-)
 
-Almond - Carrot - Cake
+and more sweet sweety sweetest things for you....
 
-Apple Cake
+Queen Shuntaro Cheesecake, Blueberry Cheesecake, Almonds Caroots cake, GrandMa Apple Cake, Vegan Brownie, Vegan BananaBread...
 
-Brownie
-
-Banana Bread
-
-See You sleepy monday peoples :)
+Can you immagine all of this in a caffe?!?!..Ok, now immagine you&acute;re gonna be served by lovely friendly people, can u belive that?!?!...if not, just pass by, we&acute;re going to change your mind!
