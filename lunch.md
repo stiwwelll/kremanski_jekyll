@@ -3,20 +3,28 @@ layout: lunch
 ---
 
 
-16.11.2017
+20.11.2017
 
-In a Thursdaze? ..come to Kremanski and get yourself a Passenger coffee and a fill up on one of our nourishing lunch specials!!!
+Was Ihr Wollt!
 
-\* King Mushroom & Purple Potatoes Rice + Buckwheat Bowl with avocado, homemade pickled turnips and chimichurri sauce (6,9)<br>+ Fried Egg (1,-)<br>+ Lachs (1,5)<br>+ Speck (1,5)
+\* H&auml;hnchen-Kartoffel-Karrotten-Tomaten-Eintopf
 
-\* Mozzarella, Eggplant, Marinated Paprika Toast on bio berliner kruste with frisee salad (6,2)<br>+ Fried Egg (1,-)<br>+ Speck (1,5)
++ ger&ouml;stete Zwiebeln + Brot (7,2)
 
-\* Speck, Avocado, Pesto, Sundried Tomato, Frisee, Mayo Sandwich on bio Weiss Brot<br>-without/with Salad (5,2/7)
+\* Kokoslinsen + ger&ouml;steter K&uuml;rbis + Blumenkohl
 
-All day long
++/-Auberginen-Kichererbsen-Purree, Brot (6,9)
 
-\* Suppe ( Paprika, Rosemary, Almonds, Bread and Whitewine) + Dip & Bread (5,-)<br>\* Quiche ( Mix Vegetables) -/+ Salad (3,9/6,-)
+--VEGAN--
 
-and more sweet sweety sweetest things for you....<br>Queen Shuntaro Cheesecake, Blueberry Cheesecake, Almonds Caroots cake, GrandMa Apple Cake, Vegan Brownie, Vegan BananaBread...
+\* Quiche (vegetarisch) -/+ Salat (3,9/6)
 
-Can you immagine all of this in a caffe?!?!..Ok, now immagine you&acute;re gonna be served by lovely friendly people, can u believe that?!?!...if not, just pass by, we&acute;re going to change your mind!
+\* Suppe (Kartoffel-Apfel) + Dip + Brot (5)
+
+--VEGAN--
+
+Danach hausgemachter Kuchen:
+
+Cheesecake, Apple tarte, Brownie, Banana Bread
+
+And good vibes within the dangerous city jungle....
