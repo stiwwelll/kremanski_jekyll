@@ -3,13 +3,13 @@ layout: lunch
 ---
 
 
-20.11.2017
+21.11.2017
 
-Was Ihr Wollt!
+Heute extra schneller Lunch!
 
 \* H&auml;hnchen-Kartoffel-Karrotten-Tomaten-Eintopf
 
-+ ger&ouml;stete Zwiebeln + Brot (7,2)
++ Brot (7,2)
 
 \* Kokoslinsen + ger&ouml;steter K&uuml;rbis + Blumenkohl
 
@@ -25,6 +25,6 @@ Was Ihr Wollt!
 
 Danach hausgemachter Kuchen:
 
-Cheesecake, Apple tarte, Brownie, Banana Bread
+Johannesbeer-Cheesecake, Apple tarte, Brownie, Banana Bread...
 
-And good vibes within the dangerous city jungle....
+Lots of nice Vibes!
