@@ -3,23 +3,25 @@ layout: lunch
 ---
 
 
-21.11.2017
+23.11.2017
 
-Heute extra schneller Lunch!
+Hungry?!?! Here&acute;s a tasty and healty solution!!
 
-\* H&auml;hnchen-Kartoffel-Karrotten-Tomaten-Eintopf
+\* Chichirichi&acute; Pie mit H&uuml;hn, Grana Padano, Tomaten, Rote Beete, Karotten, Zwiebeln mit Kl Salat (6,9)
 
-+ Brot (7,2)
+\* Gro&szlig;e Pilze und rote Bete Hummus mit herbst Salat aus Bruxelles Brokkoli gemacht, Grana Padano und Waln&uuml;sse and Crostini (6,9)
 
-\* Kokoslinsen + ger&ouml;steter K&uuml;rbis + Blumenkohl
+-- CAN AUCH VEGAN SEIN--
 
-+/-Auberginen-Kichererbsen-Purree, Brot (6,9)
++ Avocado (1,0)
 
---VEGAN--
++ Speck (1,5)
+
++ Lachs (1,5)
 
 \* Quiche (vegetarisch) -/+ Salat (3,9/6)
 
-\* Suppe (Kartoffel-Apfel) + Dip + Brot (5)
+\* Suppe (Linsen-K&uuml;rbis) + Dip + Brot (5)
 
 --VEGAN--
 
