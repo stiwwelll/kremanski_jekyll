@@ -3,15 +3,13 @@ layout: lunch
 ---
 
 
-23.11.2017
+24.11.2017
 
-Hungry?!?! Here&acute;s a tasty and healty solution!!
+\* Kikeriki-Pie mit Grana Padano, Tomaten, Rote Beete, Karotten, Zwiebeln mit Kl Salat (6,9)
 
-\* Chichirichi&acute; Pie mit H&uuml;hn, Grana Padano, Tomaten, Rote Beete, Karotten, Zwiebeln mit Kl Salat (6,9)
+\* Champignons und Rote Beete Hummus mit Herbstsalat aus Brokkoli, Ruccola, Grana Padano, Waln&uuml;sse und Crostinis (6,9)
 
-\* Gro&szlig;e Pilze und rote Bete Hummus mit herbst Salat aus Bruxelles Brokkoli gemacht, Grana Padano und Waln&uuml;sse and Crostini (6,9)
-
--- CAN AUCH VEGAN SEIN--
+-VEGAN OPTION_
 
 + Avocado (1,0)
 
@@ -27,6 +25,6 @@ Hungry?!?! Here&acute;s a tasty and healty solution!!
 
 Danach hausgemachter Kuchen:
 
-Johannesbeer-Cheesecake, Apple tarte, Brownie, Banana Bread...
+Johannesbeer-Cheesecake, Carrot Cake, Brownie, Banana Bread...
 
 Lots of nice Vibes!
