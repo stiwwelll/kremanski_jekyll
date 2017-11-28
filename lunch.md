@@ -3,28 +3,26 @@ layout: lunch
 ---
 
 
-24.11.2017
+Dienstag, 28.11.2017
 
-\* Kikeriki-Pie mit Grana Padano, Tomaten, Rote Beete, Karotten, Zwiebeln mit Kl Salat (6,9)
+Sandwichbildung am Kotti:
 
-\* Champignons und Rote Beete Hummus mit Herbstsalat aus Brokkoli, Ruccola, Grana Padano, Waln&uuml;sse und Crostinis (6,9)
+\* Shredded Chicken with Grana Padano, Sundried Tomato
 
--VEGAN OPTION_
+andandand + Salad (6,9)
 
-+ Avocado (1,0)
+\* Veggy Lasagne (Paprika, Ricotta, Pesto, Spinat und
 
-+ Speck (1,5)
+Besciamelle) mit/ohne Salat (6,2, 7,9)
 
-+ Lachs (1,5)
+\* Suppe (K&uuml;rbis/Linsen) mit Dip und Brot (VEGAN) (5,0)
 
-\* Quiche (vegetarisch) -/+ Salat (3,9/6)
+\* Quiche (Gem&uuml;se Mix) mit Salat oder ohne (3,9/6.0)
 
-\* Suppe (Linsen-K&uuml;rbis) + Dip + Brot (5)
+SOMETHING SWEET??
 
---VEGAN--
+Fresh Berry Cake, Brownie und Bananenbrot (VEGAN), Cheesecake andandand
 
-Danach hausgemachter Kuchen:
+...vielleicht mit einem PASSENGER (Berlin Roastery) dazu???
 
-Johannesbeer-Cheesecake, Carrot Cake, Brownie, Banana Bread...
-
-Lots of nice Vibes!
+wir freuen uns auf dich &lt;3
