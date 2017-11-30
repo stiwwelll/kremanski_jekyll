@@ -3,19 +3,15 @@ layout: lunch
 ---
 
 
-Dienstag, 28.11.2017
+Dienstag, 30.11.2017
 
-Sandwichbildung am Kotti:
+Winter sunny day, lovely coffee smell, fresh mediterranean taste: today K-specials are not a joke!
 
-\* Shredded Chicken with Grana Padano, Sundried Tomato
+\* Shredded Chicken with Grana Padano, Sundried Tomato Sandwich + Rucola Side Salad (6,9)
 
-andandand + Salad (6,9)
+\* Tortilla de Patatas with housemade Pumpkins-Pesto Sauce and Small Salad (6,2)
 
-\* Veggy Lasagne (Paprika, Ricotta, Pesto, Spinat und
-
-Besciamelle) mit/ohne Salat (6,2, 7,9)
-
-\* Suppe (K&uuml;rbis/Linsen) mit Dip und Brot (VEGAN) (5,0)
+\* Suppe (Pumpkins-Carrots-Ginger) mit Dip und Brot (VEGAN) (5,0)
 
 \* Quiche (Gem&uuml;se Mix) mit Salat oder ohne (3,9/6.0)
 
@@ -23,6 +19,6 @@ SOMETHING SWEET??
 
 Fresh Berry Cake, Brownie und Bananenbrot (VEGAN), Cheesecake andandand
 
-...vielleicht mit einem PASSENGER (Berlin Roastery) dazu???
+very good PASSENGER COFFEE (roasted in Berlin)
 
-wir freuen uns auf dich &lt;3
+we are waiting for you &lt;3
