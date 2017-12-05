@@ -3,22 +3,28 @@ layout: lunch
 ---
 
 
-Dienstag, 30.11.2017
+Dienstag, 5.12.2017
 
-Winter sunny day, lovely coffee smell, fresh mediterranean taste: today K-specials are not a joke!
+Tuesday Madness
 
-\* Shredded Chicken with Grana Padano, Sundried Tomato Sandwich + Rucola Side Salad (6,9)
+\* Ziegenk&auml;se Fenchel Ciabatta Sandwich mit getrockneten Tomaten, spring onion, und Salat (6,9)
 
-\* Tortilla de Patatas with housemade Pumpkins-Pesto Sauce and Small Salad (6,2)
++ Spiegel Ei (1)
 
-\* Suppe (Pumpkins-Carrots-Ginger) mit Dip und Brot (VEGAN) (5,0)
++ Lachs (1,5)
 
-\* Quiche (Gem&uuml;se Mix) mit Salat oder ohne (3,9/6.0)
++ Speck (1,5)
 
-SOMETHING SWEET??
+\* Roasted Pumpkin, marinated Beets & Lentils, Homemade Pickled Cabbage mixed Salad with Miso Ginger Dressing + Crostini (6,9)
 
-Fresh Berry Cake, Brownie und Bananenbrot (VEGAN), Cheesecake andandand
++ Lachs (1,5)
 
-very good PASSENGER COFFEE (roasted in Berlin)
++ poached egg (1,-)
 
-we are waiting for you &lt;3
+ALL DAY LONG:
+
+VEGGY QUICHE / CHICKEN QUICHE (3,9/6)
+
+VEGAN SOUP (5)
+
+...
