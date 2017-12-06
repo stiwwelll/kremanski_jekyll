@@ -3,11 +3,9 @@ layout: lunch
 ---
 
 
-Dienstag, 5.12.2017
+We We We We Wednesday!
 
-Tuesday Madness
-
-\* Ziegenk&auml;se Fenchel Ciabatta Sandwich mit getrockneten Tomaten, spring onion, und Salat (6,9)
+\* Ziegenk&auml;se Fenchel Ciabatta Sandwich mit getrockneten Tomaten, spring onion, beets und Salat (6,9)
 
 + Spiegel Ei (1)
 
@@ -15,11 +13,7 @@ Tuesday Madness
 
 + Speck (1,5)
 
-\* Roasted Pumpkin, marinated Beets & Lentils, Homemade Pickled Cabbage mixed Salad with Miso Ginger Dressing + Crostini (6,9)
-
-+ Lachs (1,5)
-
-+ poached egg (1,-)
+\* Vegetarian Lasagna with Ricotta, Paprika, Spinach, Zucchini & Pesto (6,2) with Salat (7,9)
 
 ALL DAY LONG:
 
@@ -27,4 +21,6 @@ VEGGY QUICHE / CHICKEN QUICHE (3,9/6)
 
 VEGAN SOUP (5)
 
-...
+....aaaaaand Someone&acute;s Grandma&acute;s Apple Pie, Upside Down Pinappkle Cake, Vegan Brownie, Vegan Banane Bread, Almonds Carrots Cake and moreeeee...
+
+What&acute;s your next step!?!?
