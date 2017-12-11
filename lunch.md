@@ -3,30 +3,4 @@ layout: lunch
 ---
 
 
-No more excuse...colour your day with some nice flavour..
-
-\* Ziegenk&auml;se, Gruyere, Crispy Zucchini & Sundired Tomatoes Sandwich with Side Salad (6,9)
-
-+ Aged Chorizo (1,5)
-
-\* Vegetarian Lasagna with Ricotta, Paprika, Spinach, Zucchini & Pesto (6,2) with Salat (7,9)
-
-\* Chorizo & Butternut Squash with eggplant puree, mozzarella & sage garlic butter with Berliner Kruste (7,9)
-
-VEGAN OPTION (6,9)
-
-- Chorizo
-
-- Mozzarella & Sage garlic butter
-
-+ Zucchini
-
-+ Butternut Squash & Eggplant puree
-
-ALL DAY LONG:
-
-VEGGY QUICHE / CHICKEN QUICHE (3,9/6)
-
-VEGAN SOUP (5)
-
-....aaaaaand Someone&acute;s Grandma&acute;s Apple Pie, Upside Down Pinappkle Cake, Vegan Brownie, Vegan Banane Bread, Almonds Carrots Cake and moreeeee...
+11.12.2017<br><br>We celebrate the first snow with some K classic...<br><br>\* Spanish Tortilla (Eggs,Potatoes,Onions) with housemade Alioli Cream And roasted Brussel Sprouts (6,5)<br><br>\* Mozzarella, roasted Paprika & Fennel, housemade Alioli Cream CIABATTA SANDWICH with roasted sage Potatoes (6,9)<br><br>+ Salmon (1,5)<br>+ Ham (1,5)<br><br>\* Quiche (Eggplants, Zucchini & Fennel) without/with Salat (3,9/6,-)<br><br>And many cakes.....<br><br>What are u waitin for!?!??!
