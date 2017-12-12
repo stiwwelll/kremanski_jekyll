@@ -3,4 +3,24 @@ layout: lunch
 ---
 
 
-11.12.2017<br><br>We celebrate the first snow with some K classic...<br><br>\* Spanish Tortilla (Eggs,Potatoes,Onions) with housemade Alioli Cream And roasted Brussel Sprouts (6,5)<br><br>\* Mozzarella, roasted Paprika & Fennel, housemade Alioli Cream CIABATTA SANDWICH with roasted sage Potatoes (6,9)<br><br>+ Salmon (1,5)<br>+ Ham (1,5)<br><br>\* Quiche (Eggplants, Zucchini & Fennel) without/with Salat (3,9/6,-)<br><br>And many cakes.....<br><br>What are u waitin for!?!??!
+12.12.2017
+
+Face a lazy Tuesday with a powerfull lunch!
+
+\* Garlic Flax Crusted Sweet Potatoes, roasted Fennel, Homemade pickled Cabbage, Miso-Ginger Dressing + Crostini (VEGAN) (6,9)
+
++ Salmon (1,5)
+
++ Avocado (1,-)
+
+\* Spanish Tortilla (Eggs, Potatoes, Onions) with Brussel sprouts Salad & Homemade Alioli Cream (6,5)
+
+\* Suppe (Sage, Tomatoes, Lentils, Buckwheat) + Bread & Dip (5,-)
+
+\* Quiche (Eggplants, Zucchini, Fennel) without/with Salad (3,9/6,-)
+
+and sweets, cakes like there sno tomorrow...
+
+so what are u waitin for!?!?
+
+color your day, follow the K!
