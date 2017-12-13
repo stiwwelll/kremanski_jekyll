@@ -3,24 +3,30 @@ layout: lunch
 ---
 
 
-12.12.2017
+13.12.2017
 
-Face a lazy Tuesday with a powerfull lunch!
+Last Lunches of the year for us...
 
-\* Garlic Flax Crusted Sweet Potatoes, roasted Fennel, Homemade pickled Cabbage, Miso-Ginger Dressing + Crostini (VEGAN) (6,9)
+We will be closed from Sunday 17 december till the 5th of January. We know, it&acute;s a pretty nice long break, but don&acute;t cry, we will be back stronger!!
+
+Meanwhile today specials ae not joke!!
+
+\* Polenta with grilled Mushroom, Leeks in Sage Butter & Grana Padano + crostini (6,9)
+
++ Parma Ham (1,5)
+
++ Salmon (1,5)
+
+\* Roasted Sweet Potatoes & Paprika Rice Bowl with purple cabbage, chickpeas, homemade pickled turnip + sweet chili miso herbs sauce (6,9)
 
 + Salmon (1,5)
 
 + Avocado (1,-)
 
-\* Spanish Tortilla (Eggs, Potatoes, Onions) with Brussel sprouts Salad & Homemade Alioli Cream (6,5)
+\* Soup (Sage-Tomatoes-Lentils-Buchwheat)
 
-\* Suppe (Sage, Tomatoes, Lentils, Buckwheat) + Bread & Dip (5,-)
++ Bread & Dip (5,-)
 
-\* Quiche (Eggplants, Zucchini, Fennel) without/with Salad (3,9/6,-)
+and many wonderfull homemade cakes.....
 
-and sweets, cakes like there sno tomorrow...
-
-so what are u waitin for!?!?
-
-color your day, follow the K!
+we wait u!! &lt;3
