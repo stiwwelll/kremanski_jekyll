@@ -3,30 +3,28 @@ layout: lunch
 ---
 
 
-13.12.2017
+14.12.2017
 
-Last Lunches of the year for us...
+Food?!? FOODPORN
 
-We will be closed from Sunday 17 december till the 5th of January. We know, it&acute;s a pretty nice long break, but don&acute;t cry, we will be back stronger!!
-
-Meanwhile today specials ae not joke!!
-
-\* Polenta with grilled Mushroom, Leeks in Sage Butter & Grana Padano + crostini (6,9)
-
-+ Parma Ham (1,5)
-
-+ Salmon (1,5)
-
-\* Roasted Sweet Potatoes & Paprika Rice Bowl with purple cabbage, chickpeas, homemade pickled turnip + sweet chili miso herbs sauce (6,9)
+\* Mushroom & Leek Rice Bown with Carrots, Chickpeas, Homemdae pickled Radish + Sweet Chili Miso Herb Dressing (6,9)
 
 + Salmon (1,5)
 
 + Avocado (1,-)
 
-\* Soup (Sage-Tomatoes-Lentils-Buchwheat)
++ Fried Egg (1,-)
 
-+ Bread & Dip (5,-)
+\* Crispy Polenta Cakes, marinated Paprika, rainbow Chard with Brussel Sprout, Walnuts, Grana Padano Salad (6,9)
 
-and many wonderfull homemade cakes.....
++ Poached Egg (1,-)
 
-we wait u!! &lt;3
++ Aged Chorizo (1,5)
+
+\* Quiche (Zucchini, Potatoes, Leek) without/with Salad (3,9/6,-)
+
+\* Soup (Sage, Tomatoes, Linsel, Buchwheat) + Bead & Dip (5,-)
+
+and.......Cheesecake, Carrots Cake, Apple Tarte, Brownie, Banane Bread + lovely workers...
+
+I mean...Kremanski, what else?!?
