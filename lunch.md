@@ -3,28 +3,24 @@ layout: lunch
 ---
 
 
-14.12.2017
+05.01.2018
 
-Food?!? FOODPORN
+We are back!!!!!
 
-\* Mushroom & Leek Rice Bown with Carrots, Chickpeas, Homemdae pickled Radish + Sweet Chili Miso Herb Dressing (6,9)
+Your lovely, cozy, peacefull, colourfull corner in the madness of Kotti opens the doors again for an exiting 2018.
 
-+ Salmon (1,5)
+First Menu of the year:
 
-+ Avocado (1,-)
+\* Jamon Serrano, mashed Avocado, chili Oil Pear slaw SANDWICH with side of Potatoes Salad (7,5)
 
-+ Fried Egg (1,-)
+\* Lentils and Eggplants Stew with Housemade Chutney, Tomatoes-Chili fermented Salsa with Bread (5,-) (VEGAN)
 
-\* Crispy Polenta Cakes, marinated Paprika, rainbow Chard with Brussel Sprout, Walnuts, Grana Padano Salad (6,9)
+\* Quiche (Sweet Potatoes, Red Beets, Spinach) -/+ salad (3,9/6,-)
 
-+ Poached Egg (1,-)
+\* Soup (Ginger, Red Beets, Carrots) with Bread & Dip (5,-)
 
-+ Aged Chorizo (1,5)
+and for the sweets lovers.....
 
-\* Quiche (Zucchini, Potatoes, Leek) without/with Salad (3,9/6,-)
+Classic Cheesecake, Choco Beets Cake, Carrots Cake, Vegan Brownie, Vegan Banane Bread....
 
-\* Soup (Sage, Tomatoes, Linsel, Buchwheat) + Bead & Dip (5,-)
-
-and.......Cheesecake, Carrots Cake, Apple Tarte, Brownie, Banane Bread + lovely workers...
-
-I mean...Kremanski, what else?!?
+What are u waitin for?!?!
