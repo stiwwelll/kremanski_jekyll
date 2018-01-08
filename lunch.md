@@ -3,24 +3,30 @@ layout: lunch
 ---
 
 
-05.01.2018
+08.01.2018
 
-We are back!!!!!
+Start the new week right!
 
-Your lovely, cozy, peacefull, colourfull corner in the madness of Kotti opens the doors again for an exiting 2018.
+Kremanksi crew and kitchen ist ready for you:
 
-First Menu of the year:
+\* WARM SHAKSHUKA
 
-\* Jamon Serrano, mashed Avocado, chili Oil Pear slaw SANDWICH with side of Potatoes Salad (7,5)
+with 2 eggs, herbs and bread (6,9)
 
-\* Lentils and Eggplants Stew with Housemade Chutney, Tomatoes-Chili fermented Salsa with Bread (5,-) (VEGAN)
+- vegan option with marinated tofu instead of egg (7,9)
 
-\* Quiche (Sweet Potatoes, Red Beets, Spinach) -/+ salad (3,9/6,-)
++ add chicken breast to the classic shatshuka (8,9)
 
-\* Soup (Ginger, Red Beets, Carrots) with Bread & Dip (5,-)
+\* SHREDDED CHICKEN SANDWICH (7,5)
+
+with grana padano, lettuce, sundried tomatoes and side salad
+
+\* Quiche (Potatoes, leek, lentil) -/+ salad (3,9/6,-)
+
+\* Soup (mushrooms, leek, red beet) with Bread & Dip (5,-)
 
 and for the sweets lovers.....
 
-Classic Cheesecake, Choco Beets Cake, Carrots Cake, Vegan Brownie, Vegan Banane Bread....
+Queen Shuntaro&acute;s Cheesecake, Choco Beets Cake, Almond Carrot Cake, Blueberry Cheesecake, Vegan Brownie, Vegan Banane Bread....
 
 What are u waitin for?!?!
