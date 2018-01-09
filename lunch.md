@@ -3,11 +3,11 @@ layout: lunch
 ---
 
 
-08.01.2018
+09.01.2018
 
-Start the new week right!
+Apparently is in Berlin the Tuesday the new Monday...so try the start the new week in the best way coming to us:
 
-Kremanksi crew and kitchen ist ready for you:
+Kremanksi crew and kitchen ist ready for youuuuuu !!! &lt;3
 
 \* WARM SHAKSHUKA
 
