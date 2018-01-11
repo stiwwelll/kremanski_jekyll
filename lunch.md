@@ -3,21 +3,19 @@ layout: lunch
 ---
 
 
-10.01.2018
+11.01.2018
 
-For this foggy Wednesday we defenetly need sunny food:
+For this another foggy and grey day we defenetly need sunny food:
 
 \* Sweet pimpkin stew, grilled mushroom, chili oil, pickled pear -- VEGAN-- (7,6)
 
-+ Italian sausage (2)
-
-\* Chicken Sandwich with Grana Padano, dried tomatoes little side salat (7,5)
+\* Chicken Empanada with homemade chutney , salsa and side salad (7,9)
 
 ...and for the whole day we have as usual:
 
-\* Quiche (Potatoes, leek, lentil) -/+ salad (3,9/6,-)
+\* Quiche (Potatoes, leek, lentil) or (leek, eggplants and beets) -/+ salad (3,9/6,-)
 
-\* Soup (mushrooms, leek, red beet) with Bread & Dip (5,-)
+\* Soup (mushrooms, leek, red beet) or (carrot, beets and ginger) with Bread & Dip (5,-)
 
 and for the sweets lovers.....
 
