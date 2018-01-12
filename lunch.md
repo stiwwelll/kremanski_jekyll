@@ -3,22 +3,20 @@ layout: lunch
 ---
 
 
-11.01.2018
+12.01.2018
 
-For this another foggy and grey day we defenetly need sunny food:
+Friday Treats!!!
 
-\* Sweet pimpkin stew, grilled mushroom, chili oil, pickled pear -- VEGAN-- (7,6)
+\*Chicken Potatoes Olives EMPANADAS with spicy salsa, chutney and side of salad (7,9)
 
-\* Chicken Empanada with homemade chutney , salsa and side salad (7,9)
+\*Pumpkin Stew with grilled mushrooms, radicchio, chili oil and bread (VEGAN) (7,5)
 
-...and for the whole day we have as usual:
++ Jamon Serrano (2,-)
 
-\* Quiche (Potatoes, leek, lentil) or (leek, eggplants and beets) -/+ salad (3,9/6,-)
+\*Soup (Beets, carrots, Ginger) with Bread & Dip (5,-)
 
-\* Soup (mushrooms, leek, red beet) or (carrot, beets and ginger) with Bread & Dip (5,-)
+\*Quiche (Eggplant, Leek, Beets) -/+ Salad (3,9/6,-)
 
-and for the sweets lovers.....
+and many sweets...Apple Cake, Carrots cake, Cheesecake, Vegan Brownie, vegan Bananebread...
 
-Queen Shuntaro&acute;s Cheesecake, Apple Tart, Almond Carrot Cake, Blueberry Cheesecake, Vegan Brownie, Vegan Banane Bread...always served with PASSENGER COFFEE !!
-
-we are waiting for you &lt;3
+we are waitin for u...
