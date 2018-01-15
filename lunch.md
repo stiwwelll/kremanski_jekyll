@@ -3,20 +3,30 @@ layout: lunch
 ---
 
 
-12.01.2018
+15.01.2018
 
-Friday Treats!!!
+Monday is the new sunday.
 
-\*Chicken Potatoes Olives EMPANADAS with spicy salsa, chutney and side of salad (7,9)
+THE CARNIVORE SANDWICH:
 
-\*Pumpkin Stew with grilled mushrooms, radicchio, chili oil and bread (VEGAN) (7,5)
+\* italian Sausage, walnuts garlic spreads, grana padano & rucola in baguette -/+ side of salad (6,9/8,5)
 
-+ Jamon Serrano (2,-)
+THE VEGAN SANDWICH:
 
-\*Soup (Beets, carrots, Ginger) with Bread & Dip (5,-)
+\* eggplnat, cauliflower, walnuts garlic spreads, sundried tomatoes, vegna butter in rustic bread -/+ side of salad (6,4/8,-)
 
-\*Quiche (Eggplant, Leek, Beets) -/+ Salad (3,9/6,-)
+THE SMALL SALAD:
 
-and many sweets...Apple Cake, Carrots cake, Cheesecake, Vegan Brownie, vegan Bananebread...
+\* lentil, beets, shitake mushrooms with miso garlic sauce and greens + bread (5,-)
 
-we are waitin for u...
+THE SOUP:
+
+\* sage, radicchio, pumpkins, mushrooms with bread & dip (5,-)
+
+THE QUICHE:
+
+\* leek, eggplant, beets -/+ side of salad (3,9/6,-)
+
+....framed but super tasty cakes and lovely coffee...
+
+Where are u then!??!
