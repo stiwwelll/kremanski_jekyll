@@ -3,30 +3,26 @@ layout: lunch
 ---
 
 
-15.01.2018
+17.01.2018
 
-Monday is the new sunday.
+Today is snowing and you might read so many posts about it, buuuut our is different ;)
 
-THE CARNIVORE SANDWICH:
+\* Kookoo Sabzi (Persian Herbs Omelette) with creamy dip, spicy apple slaw, pickled radish (6,9)
 
-\* italian Sausage, walnuts garlic spreads, grana padano & rucola in baguette -/+ side of salad (6,9/8,5)
+\* Lentil-Beets-Cauliflower-Eggplant stew with walnuts garlic sauce (VEGAN) (6,5)
 
-THE VEGAN SANDWICH:
++ Poached Egg (1,-)
 
-\* eggplnat, cauliflower, walnuts garlic spreads, sundried tomatoes, vegna butter in rustic bread -/+ side of salad (6,4/8,-)
+\* Italian Sausage with Avocado Puree, Grana Padano, Feld Salad Sandwich (on crust-rustic bread) with patato salad (8,5)
 
-THE SMALL SALAD:
+--&gt; VEGGY OPTION IS ALSO POSSIBLE (roasted couliflower) (7,9)
 
-\* lentil, beets, shitake mushrooms with miso garlic sauce and greens + bread (5,-)
+\* Soup (Paprika-Tomato-Pumpkins-Carrots) + Dip & Bread (5,-)
 
-THE SOUP:
+\* Quiche (Eggplant-Mushrooms-Pumpkins) -/+ side of salad (3,9/6,-)
 
-\* sage, radicchio, pumpkins, mushrooms with bread & dip (5,-)
+and....CARROTS CAKE, QUEEN SUNTARO&acute;S CHEESECAKE, SOMEONE&acute;S GRANDMA APPLECAKE, CHEESECAKE WITH BLUEBERRY COVER, VEGAN BROWNIE; VEGAN BANANA BREAD... with nice roasted PASSENGER COFFEE??
 
-THE QUICHE:
+what are you waiting for!?!?
 
-\* leek, eggplant, beets -/+ side of salad (3,9/6,-)
-
-....framed but super tasty cakes and lovely coffee...
-
-Where are u then!??!
+come and make you day a yummy day !!
