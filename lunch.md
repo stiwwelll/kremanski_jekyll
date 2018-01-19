@@ -3,26 +3,26 @@ layout: lunch
 ---
 
 
-17.01.2018
+19.01.2018
 
-Today is snowing and you might read so many posts about it, buuuut our is different ;)
+Let's stop talking about what's the weather looks like !! WE HAVE LOVELY FOOD THAT IS WAITING FOR YOU !!!
 
-\* Kookoo Sabzi (Persian Herbs Omelette) with creamy dip, spicy apple slaw, pickled radish (6,9)
+\* Braised Napa Cabbge, homemade kraut, walnuts garlic sauce over lentil veggy stew (7,5)
 
-\* Lentil-Beets-Cauliflower-Eggplant stew with walnuts garlic sauce (VEGAN) (6,5)
++ Poached egg (1,-)
 
-+ Poached Egg (1,-)
++ Grana padano (1,-)
 
-\* Italian Sausage with Avocado Puree, Grana Padano, Feld Salad Sandwich (on crust-rustic bread) with patato salad (8,5)
+\* Salsiccia (classicl italian sausage), creamy avocado, rucola, shaved grana padano on Berliner Kruste with side of green potato salad (7,5)
 
---&gt; VEGGY OPTION IS ALSO POSSIBLE (roasted couliflower) (7,9)
+\* stuffed Paprika (mixed veggies, sausage, Grana Padano and Panko) --&gt; SMALL BITE (4,9)
 
-\* Soup (Paprika-Tomato-Pumpkins-Carrots) + Dip & Bread (5,-)
+\* Quiche (peppers, mushrooms, Beetrots and spinach) -/+ salad (3,9/6,-)
 
-\* Quiche (Eggplant-Mushrooms-Pumpkins) -/+ side of salad (3,9/6,-)
+\* Soup (Tomatoes, carrots, pumpkins, paprika) with dip & bread (5,-)
 
-and....CARROTS CAKE, QUEEN SUNTARO&acute;S CHEESECAKE, SOMEONE&acute;S GRANDMA APPLECAKE, CHEESECAKE WITH BLUEBERRY COVER, VEGAN BROWNIE; VEGAN BANANA BREAD... with nice roasted PASSENGER COFFEE??
+and more sweets....
 
-what are you waiting for!?!?
+SOMEONE&acute;S GRANDMA APPLE CAKE, QUEEN SHUNTARO&acute;S CHEESECAKE, ALMONS CARROTS CAKE, CHEESECAKE K&Uuml;SST BLAUBEERE, VEGAN BROWNIE, VEGAN BANANA BREAD...
 
-come and make you day a yummy day !!
+WHAT ARE YOU WAITING FOR??? we are waiting just for you &lt;3
