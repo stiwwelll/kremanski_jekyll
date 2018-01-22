@@ -3,26 +3,28 @@ layout: lunch
 ---
 
 
-19.01.2018
+22.01.2018
 
-Let's stop talking about what's the weather looks like !! WE HAVE LOVELY FOOD THAT IS WAITING FOR YOU !!!
+Monday. Nothing to add.
 
-\* Braised Napa Cabbge, homemade kraut, walnuts garlic sauce over lentil veggy stew (7,5)
+Refill your stamina for the week!
 
-+ Poached egg (1,-)
+\*SHAKSHOUKA with 2 eggs, herbs and bread (7,2)
 
-+ Grana padano (1,-)
+VEGAN OPTION------&gt; with marinated Tofu (7,9)
 
-\* Salsiccia (classicl italian sausage), creamy avocado, rucola, shaved grana padano on Berliner Kruste with side of green potato salad (7,5)
+\*THE SALAD: roasted cauliflower and fennel in romesco sauce, homemade kraut, chickpeas & bread (VEGAN) (7,5)
 
-\* stuffed Paprika (mixed veggies, sausage, Grana Padano and Panko) --&gt; SMALL BITE (4,9)
++ Salmon (1,5)
 
-\* Quiche (peppers, mushrooms, Beetrots and spinach) -/+ salad (3,9/6,-)
++ Grana Padano (1,-)
 
-\* Soup (Tomatoes, carrots, pumpkins, paprika) with dip & bread (5,-)
+\*THE QUICHE (Paprika, Spinach, Beets, Mushrooms) -/+ salad (3,9/6,-)
 
-and more sweets....
+\*THE SOUP (Lentil, Rosemary, Tomaten) with Bread & Dip (5,-)
 
-SOMEONE&acute;S GRANDMA APPLE CAKE, QUEEN SHUNTARO&acute;S CHEESECAKE, ALMONS CARROTS CAKE, CHEESECAKE K&Uuml;SST BLAUBEERE, VEGAN BROWNIE, VEGAN BANANA BREAD...
+and...
 
-WHAT ARE YOU WAITING FOR??? we are waiting just for you &lt;3
+Cheesecake with Blueberries Cover, Carrots Almonds Cake, Vegan Brownie, Lime & Coconut Cake with Almonds & Walnuts, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
+
+what&acute;s your next move!?!?
