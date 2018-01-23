@@ -3,11 +3,9 @@ layout: lunch
 ---
 
 
-22.01.2018
+23.01.2018
 
-Monday. Nothing to add.
-
-Refill your stamina for the week!
+Kremanski. What else?!?!
 
 \*SHAKSHOUKA with 2 eggs, herbs and bread (7,2)
 
@@ -17,7 +15,9 @@ VEGAN OPTION------&gt; with marinated Tofu (7,9)
 
 + Salmon (1,5)
 
-+ Grana Padano (1,-)
++ Grana padano (1,-)
+
++ Poached Egg (1,-)
 
 \*THE QUICHE (Paprika, Spinach, Beets, Mushrooms) -/+ salad (3,9/6,-)
 
@@ -25,6 +25,6 @@ VEGAN OPTION------&gt; with marinated Tofu (7,9)
 
 and...
 
-Cheesecake with Blueberries Cover, Carrots Almonds Cake, Vegan Brownie, Lime & Coconut Cake with Almonds & Walnuts, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
+Queen Shuntaro&acute;s Cheesecake, Carrots Almonds Cake, Vegan Brownie, Lime & Coconut Cake with Almonds & Walnuts, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
 
 what&acute;s your next move!?!?
