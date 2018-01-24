@@ -3,13 +3,13 @@ layout: lunch
 ---
 
 
-23.01.2018
+24.01.2018
 
-Kremanski. What else?!?!
+ATTENTION ATTENTION !! It seems the spring is breaking out today..so combine this wonderful day with a stop in kremanski! We are waiting for you &lt;3
 
-\*SHAKSHOUKA with 2 eggs, herbs and bread (7,2)
+\* 2 EGGY IN A BREADY with melted Mozzarella, tomato sauce and spicy apple salad (7,5)
 
-VEGAN OPTION------&gt; with marinated Tofu (7,9)
+\* ROASTED CHICKEN with carrots, beets, patatoes lemon, creme fraiche and Grana Padano (8,5)
 
 \*THE SALAD: roasted cauliflower and fennel in romesco sauce, homemade kraut, chickpeas & bread (VEGAN) (7,5)
 
@@ -25,6 +25,8 @@ VEGAN OPTION------&gt; with marinated Tofu (7,9)
 
 and...
 
-Queen Shuntaro&acute;s Cheesecake, Carrots Almonds Cake, Vegan Brownie, Lime & Coconut Cake with Almonds & Walnuts, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
+Queen Shuntaro&acute;s Cheesecake, Carrots Almonds Cake, Vegan Brownie, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
 
-what&acute;s your next move!?!?
+...and what about a warm and intense cup of PASSANGER COFFEE ??!
+
+hop hop..time is running..!!
