@@ -3,30 +3,24 @@ layout: lunch
 ---
 
 
-24.01.2018
+26.01.2018
 
-ATTENTION ATTENTION !! It seems the spring is breaking out today..so combine this wonderful day with a stop in kremanski! We are waiting for you &lt;3
+The weekend is starting and you need energies for the dancefloor so come a have a look !!
 
-\* 2 EGGY IN A BREADY with melted Mozzarella, tomato sauce and spicy apple salad (7,5)
+\* DOUBLE FLOOR SANDWICH with homemade Romesco sauce, grilled Tofu, sundried tomato, crispy cauliflower and homemade Krautsald and nuts (VEGAN) (7,2)
 
-\* ROASTED CHICKEN with carrots, beets, patatoes lemon, creme fraiche and Grana Padano (8,5)
+\* CHICKEN SOUP with Arborio rice, fresh coriander, homemade lime-chili sauce on the side (7,9)
 
-\*THE SALAD: roasted cauliflower and fennel in romesco sauce, homemade kraut, chickpeas & bread (VEGAN) (7,5)
+ALL DAY LONG !!!
 
-+ Salmon (1,5)
+\*THE QUICHE (fennel, cauliflower, Beets) -/+ salad (3,9/6,-)
 
-+ Grana padano (1,-)
-
-+ Poached Egg (1,-)
-
-\*THE QUICHE (Paprika, Spinach, Beets, Mushrooms) -/+ salad (3,9/6,-)
-
-\*THE SOUP (Lentil, Rosemary, Tomaten) with Bread & Dip (5,-)
+\*THE SOUP (Carrot, Tomato) with Bread & Dip (5,-)
 
 and...
 
 Queen Shuntaro&acute;s Cheesecake, Carrots Almonds Cake, Vegan Brownie, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
 
-...and what about a warm and intense cup of PASSANGER COFFEE ??!
+AND MAYBE A PASSENGER COFFEE !!?
 
-hop hop..time is running..!!
+we are looking forward to serving you &lt;3
