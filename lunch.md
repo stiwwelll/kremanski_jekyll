@@ -5,22 +5,28 @@ layout: lunch
 
 26.01.2018
 
-The weekend is starting and you need energies for the dancefloor so come a have a look !!
+MACHT DIE KOALITIONSVERHANDLUNGEN HIER:
 
-\* DOUBLE FLOOR SANDWICH with homemade Romesco sauce, grilled Tofu, sundried tomato, crispy cauliflower and homemade Krautsald and nuts (VEGAN) (7,2)
+Vegan UFO Plate w amaranth, agrodolce sauce, mushrooms, sage butter, toasted pumpkin seeds, BIO BREAD
 
-\* CHICKEN SOUP with Arborio rice, fresh coriander, homemade lime-chili sauce on the side (7,9)
+also available Gluten-free (7,9)
 
-ALL DAY LONG !!!
+\*Spicy Chorizo Sandwich: Chorizo, Romesco, Mozzarella, Leeks, Salad, homemade Sauerkraut (7,2)
 
-\*THE QUICHE (fennel, cauliflower, Beets) -/+ salad (3,9/6,-)
+\* Quiche:
 
-\*THE SOUP (Carrot, Tomato) with Bread & Dip (5,-)
+-- vegetarian (egg plant, fenchel, cauliflower etc.)
 
-and...
+-- with salsiccio and veggies
 
-Queen Shuntaro&acute;s Cheesecake, Carrots Almonds Cake, Vegan Brownie, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
+o/w salad (3,9/6)
 
-AND MAYBE A PASSENGER COFFEE !!?
+\* Soup: Carrot-tomato (VEGAN) with bread and dip (5)
 
-we are looking forward to serving you &lt;3
+AND: HOMEMEAD CAKES:
+
+- Queen Shuntaro&acute;s Cheesecake, Limetten-Kokos-Torte, Grandma&acute;s Apple Cake......
+
+und Kaffee aus Berlin......
+
+BIS GLEICH!
