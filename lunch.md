@@ -3,30 +3,18 @@ layout: lunch
 ---
 
 
-26.01.2018
+01.02.2018
 
-MACHT DIE KOALITIONSVERHANDLUNGEN HIER:
+Heute Tortort Kotti:
 
-Vegan UFO Plate w amaranth, agrodolce sauce, mushrooms, sage butter, toasted pumpkin seeds, BIO BREAD
+- Tortilla &aacute; la Kremanski mit Romesco-Sauce und Ruccola-Salat (6,9)
 
-also available Gluten-free (7,9)
+- KooKoo Sabz (Persisches Krautomelette) mit Salat und eingelegtem Rettich (7,2)
 
-\*Spicy Chorizo Sandwich: Chorizo, Romesco, Mozzarella, Leeks, Salad, homemade Sauerkraut (7,2)
+- Tomate-M&ouml;hre-Kichererbesnsuppe + vegan Dip + Bread (5)
 
-\* Quiche:
+- Quiche (Salsiccio, Fenchel, Auberginen) -/+ Salat (3,9/6)
 
--- vegetarian (egg plant, fenchel, cauliflower etc.)
+Und nat&uuml;rlich leckere hausgemachte Kuchen (Carrot, Cheese, Brownie, Bananenbrot......)
 
--- with salsiccio and veggies
-
-o/w salad (3,9/6)
-
-\* Soup: Carrot-tomato (VEGAN) with bread and dip (5)
-
-AND: HOMEMEAD CAKES:
-
-- Queen Shuntaro&acute;s Cheesecake, Limetten-Kokos-Torte, Grandma&acute;s Apple Cake......
-
-und Kaffee aus Berlin......
-
-BIS GLEICH!
+Wir l&ouml;sen den Fall! Bis gleich!
