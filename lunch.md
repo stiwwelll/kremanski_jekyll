@@ -3,18 +3,24 @@ layout: lunch
 ---
 
 
-01.02.2018
+02.02.2018
 
-Heute Tortort Kotti:
+The doors is soon opening to the weekend and we all need a bit of good flavours before the toxic taste of Berlin dancefloors invade us...so come schnell schnell to us !!!!
 
-- Tortilla &aacute; la Kremanski mit Romesco-Sauce und Ruccola-Salat (6,9)
+\* SPANISH TORTILLA (onion and patato Omelette) with homemade Romesco sauce, Grapefruit and fennel salat (6,9)
 
-- KooKoo Sabz (Persisches Krautomelette) mit Salat und eingelegtem Rettich (7,2)
+\* GREEN HERB FRITTATA- MOZZARELLA SANDWICH with s homemade krautsalat (7,5)
 
-- Tomate-M&ouml;hre-Kichererbesnsuppe + vegan Dip + Bread (5)
+\* VEGAN LENTIL FENNEL STEW with homemade chutney (indian paste), spicy salsa, turmenic sauerkraut and side of bread (6,9)
 
-- Quiche (Salsiccio, Fenchel, Auberginen) -/+ Salat (3,9/6)
+\* Soup (Patato-Pumpkin-fennel) + Dip & Bread (5,-)
 
-Und nat&uuml;rlich leckere hausgemachte Kuchen (Carrot, Cheese, Brownie, Bananenbrot......)
+\* Quiche (Eggplant-Mushrooms-Pumpkins) -/+ side of salad (3,9/6,-)
 
-Wir l&ouml;sen den Fall! Bis gleich!
+something sweet and loveful??come and grab a piece or more of LIME- KOKONUT TART, CARROT- ALMOND CAKE, QUEEN SUNTARO&acute;S CHEESECAKE, SOMEONE&acute;S GRANDMA APPLECAKE, CHEESECAKE WITH RASPBERRY COVER, VEGAN BROWNIE; VEGAN BANANA BREAD... with nice roasted PASSENGER COFFEE??
+
+we are waiting just for you !! &lt;3
+
+&nbsp;
+
+&nbsp;
