@@ -3,18 +3,22 @@ layout: lunch
 ---
 
 
-06.02.2018
+07.02.2018
 
-Tuesday madness!!
+The sun is shy but surely it does come out soon, come to wait for it in Kremanski !!!
 
-\* Fennel, pine nuts, Ricotte Pie (wiht herbs, onions, grana padano) without/with Salad (4,9/6,9)
+\* ROASTED EGGPLANTS, FENCHEL, RICOTTA, PESTO SANDWICH with side of sauerkraut salad (VEGAN IPTION POSSIBLE) (7,5)
 
-\* The BOWL: grilled pumpkin, chili oil, pickled vegetables over quinoa and black beans with balsamic garlic dressing (VEGAN) (7,2)
+\* BUTTERED MISO SAVOY withcabbage, polenta, fried kimchi (veggy and homemade) and a poached egg (7,9)
 
-\* Quiche (paprika,pumpkin,fennel) without/with Salad (3,9/6,-)
+\*THE QUICHE (fennel, cauliflower, Beets) -/+ salad (3,9/6,-)
 
-\* Soup (Linsen) with Dip & Bread (5,-)
+\*THE SOUP (Carrot, Tomato) with Bread & Dip (5,-)
 
-and...Cheesecake, Carrots Cake, Chocolate-Haselnuts-Espresso Cake, Vegan Brownie, Vegan Bananebread...
+are you uo for somenthing sweet???
 
-Come, come to our sweet melody
+Queen Shuntaro&acute;s Cheesecake, Rasperry baby cheesecake, Carrots Almonds Cake, Vegan Brownie, Vegan Banana Bread, Someone&acute;s Grandma Applecake...
+
+AND MAYBE A PASSENGER COFFEE !!?
+
+we are looking forward to serving you &lt;3
