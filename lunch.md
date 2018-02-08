@@ -3,13 +3,19 @@ layout: lunch
 ---
 
 
-07.02.2018
+08.02.2018
 
-The sun is shy but surely it does come out soon, come to wait for it in Kremanski !!!
+&nbsp;
 
-\* ROASTED EGGPLANTS, FENCHEL, RICOTTA, PESTO SANDWICH with side of sauerkraut salad (VEGAN IPTION POSSIBLE) (7,5)
+Sunny and colourful Thursday in Kremanski !!!
 
-\* BUTTERED MISO SAVOY withcabbage, polenta, fried kimchi (veggy and homemade) and a poached egg (7,9)
+\* CHORIZO- FENNE- RICOTTA & PESTO SANDWICH with side of sauerkraut salad (7,5)
+
+\* SALTED LEMON HERB SAUCE POLENTA with fried kimchi (veggy and homemade),eggplants and a poached egg - GLUTEIN FREE (7,9)
+
+\* SHAKSHOUKA (tomato sauce base with 2 poached eggs on the top (7,2))
+
+----&gt; VEGAN OPTION POSSIBLE with 2 eggplants and cauliflower (7,7)
 
 \*THE QUICHE (fennel, cauliflower, Beets) -/+ salad (3,9/6,-)
 
