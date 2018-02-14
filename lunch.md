@@ -2,20 +2,22 @@
 layout: lunch
 ---
 
-13.02.2018
+14.02.2018
 
-Good morning lovely people, it&acute;s tuesday and we're still there for you with a fresh lunch:
+The day of love.
 
-\* SHREDDED CHICKEN CIABATTA SANDWICH<br>with salted lemon, grana padano and sundried tomatoes (7,5)
+The food for lovers.
 
-\* SPICY BUCKWHEAT BOWL<br>with parsnip, feta, mungbean, served with fermented honey garlic sauce [can also be prepared VEGAN] (7,9)<br>+ chicken breast (2)<br>+ salmon (1,5)<br>+ poached egg (1)
+\*THE SANDWICH: shredded chicken, salted lemon, grana padano and sundried tomatoes on Ciabatta Bread (7,5)
 
-\*THE QUICHE (fennel, cauliflower, Beets) -/+ salad (3,9/6,-)
+\*THE TOAST: avocado + smoked makrele on Bio bread with pumpkins seed-garlic-honey with hm kraut (7,5)
 
-\*THE SOUP [VEGAN] (black beans) with Bread & Dip (5,-)
+(VEGETARIAN OPTION) - makrele + feta (6,9)
 
-into somenthing sweet???<br>Queen Shuntaro&acute;s Cheesecake, Chocolate Haselnut Espresso Cake, Raspberry baby cheesecake, Vegan Brownie, Vegan Banana Bread...
+\*THE SOUP: (mungbean, garlic, chili, coriander) with bread and dip (5,-)
 
-AND MAYBE A PASSENGER COFFEE !!?
+\*THE QUICHE (mix vegetables) without or with salad (3,9/6,-)
 
-we are looking forward to serving you!
+\*THE CAKES: Queen Shuntaro&acute;s CXheesecake, Valentine Carrots Cake, Raspberry Cheesecake, Shoko Haselnuts Espresso Cake, Vegan Brownie, Vegan Banana Bread..
+
+and a lovely team, what else!?!??!
