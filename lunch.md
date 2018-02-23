@@ -2,11 +2,13 @@
 layout: lunch
 ---
 
-22.02.2018
+23.02.2018
 
-It`s lunch time in Kremanski and a sunny team is waiting for you &lt;3
+&nbsp;
 
-\* JAMON SERRANO AVOCADO GARLIC- HONEY TOAST (7,9)
+HEY GUYS, TODAY WE ARE HAVING OUR SUPER DELICOUS FRIDAY- WEEKEND LUNCH. COME HERE AND CELEBRATE THE SUNNY END OF THE WEEK WITH LOVELY FOOD AND LOVELY PEOPLE.
+
+\* JAMON SERRANO AVOCADO GARLIC- HONEY SA (7,9)
 
 with mozzarella, carmelized onion and a side of homemade sauerkraut salad
 
@@ -29,5 +31,3 @@ VEGAN OPTION IS ALSO AVAILABLE
 \*THE CAKES: Queen Shuntaro&acute;s Cheesecake, Raspberry Cheesecake, Someone's Grandma's Apple Cake, Lemon Lavander Cake, Vegan Brownie, Vegan Banana Bread..
 
 and maybe a delicious Passenger cup of coffee?? come and say hi !!
-
-&lt;3
