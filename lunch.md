@@ -2,32 +2,18 @@
 layout: lunch
 ---
 
-23.02.2018
+26.02.2018
 
-&nbsp;
+New Week, new vibes, new lunch in kremanski, come over!
 
-HEY GUYS, TODAY WE ARE HAVING OUR SUPER DELICOUS FRIDAY- WEEKEND LUNCH. COME HERE AND CELEBRATE THE SUNNY END OF THE WEEK WITH LOVELY FOOD AND LOVELY PEOPLE.
+\* Hafer-Kichererbsen-Spinar-Chia Burger serviert mit Salat (7,2)<br>(VEGAN)
 
-\* JAMON SERRANO AVOCADO GARLIC- HONEY SA (7,9)
+\* Crepes Ricotta und Spinat, serviert mit Salat (7,2)
 
-with mozzarella, carmelized onion and a side of homemade sauerkraut salad
+All Day Long
 
-VEGGY OPTION IS ALSO AVAILABLE
+\* Suppe (schwarze Bohnen) (VEGAN) mit Bro und Dip (5)<br>\* Quiche (mixed Gem&uuml;se) (Vegetarisch) ohne/mit Salat (3,9/6)
 
-\* GRILLED SHITAKE SALAD (7,9)
+Und abschlie&szlig;end einen Passenger Kaffee und etwas S&uuml;&szlig;es?<br>Apfelkuchen, Cheesecake, Lavendel-Schoko-Kuchen, Brownie oder veganes Banana Bread?<br>Oder einfach nur ein wamres L&auml;cheln, um die K&auml;lte drau&szlig;en zu &uuml;berstehen.
 
-with vegan homemade Kimchy, sweet patatoes, boiled egg, and almond rotkohl salad
-
-VEGAN OPTION IS ALSO AVAILABLE
-
-+ avocado (1)
-
-+ lachs (1,5)
-
-\*THE SOUP: (black beans, coriander, chili) QUITE SPICY !!!! with bread and dip (5,-)
-
-\*THE QUICHE (seasonal vegetables) without or with salad (3,9/6,-)
-
-\*THE CAKES: Queen Shuntaro&acute;s Cheesecake, Raspberry Cheesecake, Someone's Grandma's Apple Cake, Lemon Lavander Cake, Vegan Brownie, Vegan Banana Bread..
-
-and maybe a delicious Passenger cup of coffee?? come and say hi !!
+Kommt vorbei, oder worauf wartet ihr?<br>Euer K-Team
