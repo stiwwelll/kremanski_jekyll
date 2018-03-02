@@ -2,13 +2,7 @@
 layout: lunch
 ---
 
-01.03.2018
-
-Unser heutiges Lunchmen&uuml;
-
-Today's Lunch Menu
-
-(12.00-15:00 Uhr):
+02.03.2018
 
 1. Shakshouka
 
@@ -16,28 +10,22 @@ Today's Lunch Menu
 
 + Avocado (1)
 
-or
+or VEGAN OPTION: w Grilled Turpinade (8,2)
 
-+Vegan Spinach Chia Burger (8,9)
-
-Avocado (1)
-
-2. Croque Monsieur (Ham&cheese Sandwich) with Beschamel and Gruyere (7,5)
-
-+ Fried Egg (Croque Madam) (8,5)
-
-3. White Lasagna with Ricotta-spinach-eggplants-paprika-turpinade (6,9) with Salad (8,5)
+2. White Lasagna with Ricotta-spinach-eggplants-paprika-turpinade and sauce b&eacute;chamel (6,9) with Salad (8,5)
 
 All Day Long
 
-\* Suppe (Pastinake, Ingwer, Lemon Grass) (VEGAN) mit Bro und Dip (5)
+\* Suppe (Red Beet, Ginger, Pastinakes) (VEGAN) with bread und
 
-\* Quiche (mixed Gem&uuml;se) (Vegetarisch) ohne/mit Salat (3,9/6)
+Dip (5)
 
-Und abschlie&szlig;end einen Passenger Kaffee und etwas S&uuml;&szlig;es?
+\* Quiche (mixed vegetables) (Vegetarian) wo/w Salad (3,9/6)
 
-Apfelkuchen, Cheesecake, Lavendel-Schoko-Kuchen, Brownie oder veganes Banana Bread?
+Or one of our delicious cheesecakes? Or a VEGAN Brownie o VEGAN banana bread?
 
-Oder einfach nur ein wamres L&auml;cheln, um die K&auml;lte drau&szlig;en zu &uuml;berstehen.
+With a nice Expresso
 
-Kommt vorbei, oder worauf wartet ihr?
+Or take a hot chocolate, maybe with RUM? (Don Papa if you like?)
+
+Check it out!
