@@ -2,30 +2,22 @@
 layout: lunch
 ---
 
-02.03.2018
+05.03.2018
 
-1. Shakshouka
+1. GROsse KOchkunst im Kremanski:
 
-+ 2 Poached eggs & Herbs (7,2)
+   \* White veggie Lasagne, (spinat Ricotta, Aubergine, Paprika,
 
-+ Avocado (1)
+   Turpinambur, Pastinaken (6,9/8,5)
 
-or VEGAN OPTION: w Grilled Turpinade (8,2)
+   \* Salad with poached egg + grilled toppinambur, Sauerkraut,
 
-2. White Lasagna with Ricotta-spinach-eggplants-paprika-turpinade and sauce b&eacute;chamel (6,9) with Salad (8,5)
+   pumpkin seeds, Grana Padano (7,5)
 
-All Day Long
+   + Jamon Serrano (1,5)
 
-\* Suppe (Red Beet, Ginger, Pastinakes) (VEGAN) with bread und
+   VEGAN OPTION POSSIBLE (7,5)
 
-Dip (5)
+   oder einen unserer fantastischen Cheesecakes? Oder veganen Brownie, oder veganes Bananenbrot?+Und nat&uuml;rlich Passenger Kaffee........
 
-\* Quiche (mixed vegetables) (Vegetarian) wo/w Salad (3,9/6)
-
-Or one of our delicious cheesecakes? Or a VEGAN Brownie o VEGAN banana bread?
-
-With a nice Expresso
-
-Or take a hot chocolate, maybe with RUM? (Don Papa if you like?)
-
-Check it out!
+   bis bald!
