@@ -2,22 +2,24 @@
 layout: lunch
 ---
 
-05.03.2018
+06.03.2018
 
-1. GROsse KOchkunst im Kremanski:
+\* Curried potato hash with smoked makerels (7,9)
 
-   \* White veggie Lasagne, (spinat Ricotta, Aubergine, Paprika,
++ fried egg (1)
 
-   Turpinambur, Pastinaken (6,9/8,5)
++ VEGAN OPTION w smoked tofu (7,9)
 
-   \* Salad with poached egg + grilled toppinambur, Sauerkraut,
+\* Bulgur salad with roasted carrots, beets, olives, walnuts
 
-   pumpkin seeds, Grana Padano (7,5)
+-VEGAN- (6,9)
 
-   + Jamon Serrano (1,5)
+\* Quiche (veggie mix) o/w salad (3,9/6)
 
-   VEGAN OPTION POSSIBLE (7,5)
+\* Soup (Chick-pea. tomato, harissa) w bread and dip
 
-   oder einen unserer fantastischen Cheesecakes? Oder veganen Brownie, oder veganes Bananenbrot?+Und nat&uuml;rlich Passenger Kaffee........
+-VEGAN- (5)
 
-   bis bald!
+And, again some of our homemade cakes, Berlin coffees, superfoods.......
+
+Check it out!
