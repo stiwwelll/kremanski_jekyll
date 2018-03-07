@@ -2,24 +2,26 @@
 layout: lunch
 ---
 
-06.03.2018
+07.03.2018
 
-\* Curried potato hash with smoked makerels (7,9)
+\*
 
-+ fried egg (1)
+Wednesday sexi lunch:
 
-+ VEGAN OPTION w smoked tofu (7,9)
+\* Toasted Bulgar, Avocado, Spiced Chickpeas, Rotkohl grain Bowl with chimichurri sauce (VEGAN) (7,5)
 
-\* Bulgur salad with roasted carrots, beets, olives, walnuts
++ fried egg (1,-)
 
--VEGAN- (6,9)
++ lachs (1,5)
 
-\* Quiche (veggie mix) o/w salad (3,9/6)
+\* Taleggio + Jamon Serrano Baguette sandwich with poached pears & green garlic honey sauce with side of salad (7,5)
 
-\* Soup (Chick-pea. tomato, harissa) w bread and dip
+\* Quiche (mix vegetables) without/with salad (3,9/6,-)
 
--VEGAN- (5)
+\* Soup (Red Beets, Ginger, pastinake) with dip and brad (5,-)
 
-And, again some of our homemade cakes, Berlin coffees, superfoods.......
+and thousends of cakes...
 
-Check it out!
+orange & almonds cake (gluteinfree), choko walnuts espresso cake, cheesecake, cheesecak with rasperrz cover, brownie, bananebread...
+
+sexi, more sexi, most sexi!!
