@@ -2,26 +2,20 @@
 layout: lunch
 ---
 
-07.03.2018
+08.03.2018
 
-\*
+\* Spaghetti.....CARBONARA! (6,9)<br>&nbsp; e una Coca Cola (1)
 
-Wednesday sexi lunch:
+\* Veggi Tortilla mit veganer Mayo und Salat (7,5) -VEGAN-
 
-\* Toasted Bulgar, Avocado, Spiced Chickpeas, Rotkohl grain Bowl with chimichurri sauce (VEGAN) (7,5)
+\* Quiche (Gem&uuml;se) o/m Salat (3,9/6)
 
-+ fried egg (1,-)
+\* Suppe (Pastinaken, Rote Beete, Ingwer) mit Brot und Dip (5)
 
-+ lachs (1,5)
+-VEGAN-
 
-\* Taleggio + Jamon Serrano Baguette sandwich with poached pears & green garlic honey sauce with side of salad (7,5)
+Und vielleicht einen Acai-Shake danach?
 
-\* Quiche (mix vegetables) without/with salad (3,9/6,-)
+Oder einen Espresso? (Blend aus Brasilien, Costa Rica, Guatemala, Indien und Indonesien)?
 
-\* Soup (Red Beets, Ginger, pastinake) with dip and brad (5,-)
-
-and thousends of cakes...
-
-orange & almonds cake (gluteinfree), choko walnuts espresso cake, cheesecake, cheesecak with rasperrz cover, brownie, bananebread...
-
-sexi, more sexi, most sexi!!
+Check it out!
