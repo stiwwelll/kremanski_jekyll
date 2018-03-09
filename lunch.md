@@ -2,20 +2,26 @@
 layout: lunch
 ---
 
-08.03.2018
+09.03.2018
 
-\* Spaghetti.....CARBONARA! (6,9)<br>&nbsp; e una Coca Cola (1)
+Before the weekend starts and you get crazy in the Berlin flow, come to say hi and grab some delicious and healthy food ;)
 
-\* Veggi Tortilla mit veganer Mayo und Salat (7,5) -VEGAN-
+- SAHSHOUKA with two poached eggs, mix of herbs and bread on the side (7.2) --&gt; Good for the cold winter
 
-\* Quiche (Gem&uuml;se) o/m Salat (3,9/6)
+- Salmon, Avocado, lilac patatoes SALAD with Tahini garlic dressing and bread on the side (8,5) --&gt; good to maintain your shape and inner balance
 
-\* Suppe (Pastinaken, Rote Beete, Ingwer) mit Brot und Dip (5)
++ Taleggio cheese (1,5)
 
--VEGAN-
+somenthig sweet to give a sense to your day??
 
-Und vielleicht einen Acai-Shake danach?
+Queen Shantaro Cheesecake, someone's grandma applecake, vegan brownie, vegan banana bread, waffels, sandwiches, many sorts of egges and a lot of love &lt;3
 
-Oder einen Espresso? (Blend aus Brasilien, Costa Rica, Guatemala, Indien und Indonesien)?
+why not to accompanied the all with a cup of PASSANGER COFFEE??
 
-Check it out!
+we are wainting for you ;)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
