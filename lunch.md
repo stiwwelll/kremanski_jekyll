@@ -2,26 +2,30 @@
 layout: lunch
 ---
 
-09.03.2018
+12.03.18
 
-Before the weekend starts and you get crazy in the Berlin flow, come to say hi and grab some delicious and healthy food ;)
+Come and get up with us with our todays specials:
 
-- SAHSHOUKA with two poached eggs, mix of herbs and bread on the side (7.2) --&gt; Good for the cold winter
+\* SPANISH TORTILLA (6,9)
 
-- Salmon, Avocado, lilac patatoes SALAD with Tahini garlic dressing and bread on the side (8,5) --&gt; good to maintain your shape and inner balance
+with roasted fennel salad
 
-+ Taleggio cheese (1,5)
++ Avocado (1)
 
-somenthig sweet to give a sense to your day??
+\* YELLOW BEETY, GREEN WALNUT SAUCE, ROASTED EGGPLANTS, AVOCADO SANDWICH (7,5)
 
-Queen Shantaro Cheesecake, someone's grandma applecake, vegan brownie, vegan banana bread, waffels, sandwiches, many sorts of egges and a lot of love &lt;3
+with Krautsalad
 
-why not to accompanied the all with a cup of PASSANGER COFFEE??
++ taleggio (1,5)
 
-we are wainting for you ;)
++ fried egg (1)
 
-&nbsp;
+And something sweet after?
 
-&nbsp;
+Queen Shuntaro Cheesecake, Applecake, Schokolade-Haselnuss-Kuchen, Bitter-Almond, Banana Bread and vegan Brownie)
 
-&nbsp;
+kombiniert mit einem Passenger-Kaffee?
+
+Wenn sich das nicht verlockend anh&ouml;rt!
+
+Euer K-Team
