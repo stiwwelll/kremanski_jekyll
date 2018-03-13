@@ -8,8 +8,6 @@ gem "bootstrap-sass"
 gem "font-awesome-sass"
 gem "uglifier"
 
-gem "kremanski", path: "kremanski"
-
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
