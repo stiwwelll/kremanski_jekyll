@@ -2,30 +2,22 @@
 layout: lunch
 ---
 
-12.03.18
+13.03.18
 
-Come and get up with us with our todays specials:
+There&acute;s no tuesday without Kremanski!!!
 
-\* SPANISH TORTILLA (6,9)
+\* Potatoes and Onions omelette Sandwich with Taleggio, walnuts garlic sauce and sde of roasted fennel salad (7,5)
 
-with roasted fennel salad
++ Avocado (1,-)
 
-+ Avocado (1)
+\* Maklere and Avocado Toast eith green garlic honey sauce, pickled shallots and side of lilal potatoes salad (8,5)
 
-\* YELLOW BEETY, GREEN WALNUT SAUCE, ROASTED EGGPLANTS, AVOCADO SANDWICH (7,5)
+VEGETARIAN OPTION with Mozzarella (7,5)
 
-with Krautsalad
+\* Soup (Chickpeas, bulgar, garlic) with dip and bread (5,-)
 
-+ taleggio (1,5)
+\* Quiche (Red Beets, Turoinade, Fennel) without/with Salad (3,9/6,-)
 
-+ fried egg (1)
+and thousends of cake....Queen Shuntaro Cheesecake, Choko Haselnuts espresso cake, someone grandma&acute;s cake, vegan brownie, vegan banane bread.....
 
-And something sweet after?
-
-Queen Shuntaro Cheesecake, Applecake, Schokolade-Haselnuss-Kuchen, Bitter-Almond, Banana Bread and vegan Brownie)
-
-kombiniert mit einem Passenger-Kaffee?
-
-Wenn sich das nicht verlockend anh&ouml;rt!
-
-Euer K-Team
+something else!??!?!
