@@ -2,20 +2,30 @@
 layout: lunch
 ---
 
-08.03.2018
+12.03.18
 
-\* Spaghetti.....CARBONARA! (6,9)<br>&nbsp; e una Coca Cola (1)
+Come and get up with us with our todays specials:
 
-\* Veggi Tortilla mit veganer Mayo und Salat (7,5) -VEGAN-
+\* SPANISH TORTILLA (6,9)
 
-\* Quiche (Gem&uuml;se) o/m Salat (3,9/6)
+with roasted fennel salad
 
-\* Suppe (Pastinaken, Rote Beete, Ingwer) mit Brot und Dip (5)
++ Avocado (1)
 
--VEGAN-
+\* YELLOW BEETY, GREEN WALNUT SAUCE, ROASTED EGGPLANTS, AVOCADO SANDWICH (7,5)
 
-Und vielleicht einen Acai-Shake danach?
+with Krautsalad
 
-Oder einen Espresso? (Blend aus Brasilien, Costa Rica, Guatemala, Indien und Indonesien)?
++ taleggio (1,5)
 
-Check it out!
++ fried egg (1)
+
+And something sweet after?
+
+Queen Shuntaro Cheesecake, Applecake, Schokolade-Haselnuss-Kuchen, Bitter-Almond, Banana Bread and vegan Brownie)
+
+kombiniert mit einem Passenger-Kaffee?
+
+Wenn sich das nicht verlockend anh&ouml;rt!
+
+Euer K-Team
