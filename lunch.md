@@ -2,9 +2,9 @@
 layout: lunch
 ---
 
-13.03.18
+14.03.18
 
-There&acute;s no tuesday without Kremanski!!!
+Wednesday rocks!!
 
 \* Potatoes and Onions omelette Sandwich with Taleggio, walnuts garlic sauce and sde of roasted fennel salad (7,5)
 
@@ -20,4 +20,4 @@ VEGETARIAN OPTION with Mozzarella (7,5)
 
 and thousends of cake....Queen Shuntaro Cheesecake, Choko Haselnuts espresso cake, someone grandma&acute;s cake, vegan brownie, vegan banane bread.....
 
-something else!??!?!
+your K TEAM
