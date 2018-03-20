@@ -2,30 +2,10 @@
 layout: lunch
 ---
 
-12.03.18
+20.03.18
 
-Come and get up with us with our todays specials:
+Winter's back!<br>Today's lunch special at Kremanski:<br>(Vegan) Winter Salad (7,2)<br>w/
 
-\* SPANISH TORTILLA (6,9)
+Butternut Squash<br>Carrots<br>Broccoli<br>Onion<br>Coconut, Chilli&Ginger Dressing
 
-with roasted fennel salad
-
-+ Avocado (1)
-
-\* YELLOW BEETY, GREEN WALNUT SAUCE, ROASTED EGGPLANTS, AVOCADO SANDWICH (7,5)
-
-with Krautsalad
-
-+ taleggio (1,5)
-
-+ fried egg (1)
-
-And something sweet after?
-
-Queen Shuntaro Cheesecake, Applecake, Schokolade-Haselnuss-Kuchen, Bitter-Almond, Banana Bread and vegan Brownie)
-
-kombiniert mit einem Passenger-Kaffee?
-
-Wenn sich das nicht verlockend anh&ouml;rt!
-
-Euer K-Team
+Your K TEAM.
