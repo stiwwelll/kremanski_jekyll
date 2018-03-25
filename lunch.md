@@ -2,7 +2,7 @@
 layout: lunch
 ---
 
-20.03.18
+26.03.18
 
 Winter's back!<br>Today's lunch special at Kremanski:<br>(Vegan) Winter Salad (7,2)<br>w/
 
