@@ -2,14 +2,24 @@
 layout: lunch
 ---
 
-26.03.18
+28.03.18
 
-So late again? Well, if there was no breakfast, I can reaaaaaaallly enjoy lunch at Kremanski:<br>Today's lunch special at Kremanski:<br>\* Glass Noodels with fresh vegetables and baked Tofu (7,5)<br>&nbsp;&nbsp; w/Salmon (1,5)<br>\* White wine-Risotto with Champignons and Lentills and fresh Thymian (7,5)<br>\*Vegetarian Quiche (3,9) with salad (6)<br>\* Soup (Lemongrass-Tomato)mit Brot und Dip -VEGAN- (5)
+We know, we knooow..outside is snowing and fucking freezing but we are here waiting to warm you up with some healthy food and a cup of good PASSENGER COFFEE &lt;3
 
-und hausgemachte Kuchen, SUPERFOOD, BARISTA-COFFEE.....
+\* Glass Noodels with fresh vegetables and baked Tofu (6,9)
 
-SEE YOU SOON!!
+or Salmon (7.9)
 
-&nbsp;
+\* Mozzarella, Rucola and Tomato Salad (6)
 
-Your K TEAM.
+\*Vegetarian Quiche (3,9) with salad (6)
+
+\* Soup (spyce-Tomato) mit Brot und Dip -VEGAN- (5)
+
+Somenthing sweet???
+
+....und hausgemachte Kuchen like vegan chocolate Brownie or Banana Bread, Rasperry or Lemon Cheesecake, Hazelnut/ Espresso Cake, Rasperry White Chocolate Cake, Apple Pecan nuts cake, little but tasty hazelnut and chocolate cookies, Acai/Acerola Power shakes and Waffels...
+
+What are you waiting for??
+
+your K-Team
