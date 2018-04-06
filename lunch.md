@@ -2,26 +2,30 @@
 layout: lunch
 ---
 
-28.03.18
+06.04.18
 
-All tired....we are here:
+The K- Kitchen is establishing a fixed Men&uuml; for you..come and have a try:
 
-\* K-Bowl: Mixed Rice in a GingerLime-Dressing, Roasted Veg, onions, Mushrooms, spinach, carrots, beets----tofu OR salmon (7,5)<br>w Korean Style braised bio egg (1,5)
+- K- Bowl with fresh veggies mix, mushrooms, ginger-lime and peanut dressing
 
-\* Glass Noodels with fresh vegetables and baked Tofu (6,9)
++ homemade marineted tofu (7,5)
 
-or Salmon (7.9)
++ salmon (9)
 
-\* Mozzarella, Rucola and Tomato Salad (6)
++ korean praised egss (9)
 
-\*Vegetarian Quiche (3,9) with salad (6)
+- vegan soup (Curry, red lentils, coconut) served with bread and vegan dip (5)
 
-\* Soup (Spicy Tomato) w bread and Dip -VEGAN- (5)
+- quiche (veggie mix) with salad or without (3,9/6)
 
-Something sweet???
+- cheese/salmon or vegan avocado sandwiches (3,5)
 
-….homemade cakes like vegan chocolate Brownie or Banana Bread, Rasperry or Lemon Cheesecake, Hazelnut/ Espresso Cake, Rasperry White Chocolate Cake, Apple Pecan nuts cake, little but tasty hazelnut and chocolate cookies, Acai/Acerola Power shakes and Waffels…
+something sweet??
 
-What are you waiting for??
+we have maaaany delicious homemade cakes &lt;3
 
-your K-Team
+vegan banana bread, vegan schoko brownie, coconut lime cake, K-Karotten cake, rasperry-white chocolate, bitter orange-almond cake (glutein and dairy free), berries cheesecake (no gelatine)
+
+maybe with a cup of PASSENGER COFFEE ??
+
+come and say hi, we are waiting for you !!
