@@ -2,17 +2,15 @@
 layout: lunch
 ---
 
-06.04.18
+09.04.18
+
+KREMANSKI
 
 The K- Kitchen is establishing a fixed Men&uuml; for you..come and have a try:
 
-- K- Bowl with fresh veggies mix, mushrooms, ginger-lime and peanut dressing
+- K- Bowl with fresh veggies mix, mushrooms, ginger-lime and peanut dressing<br>+ homemade marineted tofu (7,5)<br>+ salmon (9)<br>+ korean praised egss (9)
 
-+ homemade marineted tofu (7,5)
-
-+ salmon (9)
-
-+ korean praised egss (9)
+- PORRIDGE (fruits & nuts and tahini) warm and made with love (5,3)
 
 - vegan soup (Curry, red lentils, coconut) served with bread and vegan dip (5)
 
@@ -20,12 +18,8 @@ The K- Kitchen is establishing a fixed Men&uuml; for you..come and have a try:
 
 - cheese/salmon or vegan avocado sandwiches (3,5)
 
-something sweet??
+something sweet??<br>we have maaaany delicious homemade cakes &lt;3<br>vegan banana bread, vegan schoko brownie, coconut lime cake, K-Karotten cake, rasperry-white chocolate, Charlie cheesecake (no gelatine)
 
-we have maaaany delicious homemade cakes &lt;3
-
-vegan banana bread, vegan schoko brownie, coconut lime cake, K-Karotten cake, rasperry-white chocolate, bitter orange-almond cake (glutein and dairy free), berries cheesecake (no gelatine)
-
-maybe with a cup of PASSENGER COFFEE ??
+maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
 
 come and say hi, we are waiting for you !!
