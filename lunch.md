@@ -2,11 +2,9 @@
 layout: lunch
 ---
 
-09.04.18
+10.04.18
 
-KREMANSKI
-
-The K- Kitchen is establishing a fixed Men&uuml; for you..come and have a try:
+Cu cu the week starts and the K- Kitchen is establishing a fixed Men&uuml; for you..come and have a try:
 
 - K- Bowl with fresh veggies mix, mushrooms, ginger-lime and peanut dressing<br>+ homemade marineted tofu (7,5)<br>+ salmon (9)<br>+ korean praised egss (9)
 
@@ -23,3 +21,5 @@ something sweet??<br>we have maaaany delicious homemade cakes &lt;3<br>vegan ban
 maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
 
 come and say hi, we are waiting for you !!
+
+&nbsp;
