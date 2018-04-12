@@ -2,11 +2,11 @@
 layout: lunch
 ---
 
-11.04.18
+12.04.18
 
-The sun is out again!
+Hi there... we are finally next to the weekend and the
 
-The K- Kitchen is establishing a fixed celebratory Spring Men&uuml; for you.. come and have a try:
+The K- Team want to invite yfor our delicious food! come and try the fixed celebratory Spring Men&uuml; !!
 
 - QUINOA THREE SALAD with endive, green kale and baby spinach topped with roasted pumpkin seeds mix and balsamico vinagrette dressing (7,5)
 
