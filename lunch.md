@@ -2,11 +2,11 @@
 layout: lunch
 ---
 
-12.04.18
+13.04.18
 
-Hi there... we are finally next to the weekend and the
+WEEKEND is arrived !!!!
 
-The K- Team want to invite yfor our delicious food! come and try the fixed celebratory Spring Men&uuml; !!
+The K- Team want to invite you for our delicious food! come and try the fixed celebratory Spring Men&uuml; !!
 
 - QUINOA THREE SALAD with endive, green kale and baby spinach topped with roasted pumpkin seeds mix and balsamico vinagrette dressing (7,5)
 
@@ -30,7 +30,7 @@ something sweet??
 
 we have maaaany delicious homemade cakes &lt;3
 
-vegan banana bread, vegan schoko brownie, coconut lime cake, K-Karotten cake, pear choco cake, Charlie cheesecake (no gelatine)
+vegan banana bread, vegan schoko brownie, coconut lime cake, Bitter/Almond orange cake, pear choco cake, Charlie cheesecake (no gelatine), glutein free chocolate tart!
 
 maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
 
