@@ -2,9 +2,9 @@
 layout: lunch
 ---
 
-13.04.18
+16.04.18
 
-WEEKEND is arrived !!!!
+The week, the furtune..even if with few rain drops !
 
 The K- Team want to invite you for our delicious food! come and try the fixed celebratory Spring Men&uuml; !!
 
@@ -20,7 +20,7 @@ The K- Team want to invite you for our delicious food! come and try the fixed ce
 
 - PORRIDGE (fruits & nuts and tahini) warm and made with love (5,3)
 
-- vegan SOUP (Curry, red lentils, coconut) served with bread and vegan dip (5)
+- vegan SOUP served with bread and vegan dip (5)
 
 - QUICHE (veggie mix) with salad or without (3,9/6)
 
@@ -34,4 +34,4 @@ vegan banana bread, vegan schoko brownie, coconut lime cake, Bitter/Almond orang
 
 maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
 
-come and say hi, we are waiting for you !!
+what are you waiting for ??? hop hop come ti us ;)
