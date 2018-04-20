@@ -2,26 +2,34 @@
 layout: lunch
 ---
 
-19.04.18
+20.04.18
 
-The K- Team want to invite you for our delicious food! come and try the fixed celebratory Spring Men&uuml; buuuuuuuuut today we added a spanish flavour too:
+Hey People, today the Kremanski has the super warm spring day lunch. Come here, enjoy the Kotti and celebrate food and sunshine with us:
 
-* SPANISH TORTILLA (Fluffy eggs and silvered patatoes) (3,2)
+Quinoa Supreme Salat:
 
-* QUINOA THREE SALAD with endive, green kale and baby spinach topped with roasted pumpkin seeds mix and balsamico vinagrette dressing (7,5)
+mit Chichoree, baby Spinat, gebratenem K&uuml;rbissamen & Balsamico Dressing (7,5)
 
-* K- BOWL with fresh veggies mix, mushrooms, ginger-lime and peanut dressing<br>+ homemade marineted tofu (7,5)<br>+ salmon (9)<br>+ korean praised egss (9)
+K-Bowl:
 
-* PORRIDGE (fruits & nuts and tahini) warm and made with love (5,3)
+schwarzer Reis mit frischem Gem&uuml;se, Pilzen, Tofu serviert mit Ingwer-Erdnuss-Limette Dressing (7,5)
 
-* vegan SOUP served with bread and vegan dip (5)
++ praised Egg (koreanische Art) 1,5
 
-* QUICHE (veggie mix) with salad or without (3,9/6)
++Lachs 1,5
 
-* cheese/salmon or vegan avocado SANDWICHES (3,5)
+All Day Long:
 
-something sweet??<br>we have maaaany delicious homemade cakes &lt;3<br>vegan banana bread, vegan schoko brownie, coconut lime cake, Bitter/Almond orange cake, pear choco cake, Charlie cheesecake (no gelatine), glutein free chocolate tart!
+-Suppe (vegan) + Brot+ Dip 5,0
 
-maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
+-Quiche (veggy) +/- Salat 6,0/3,9
 
-what are you waiting for ??? hop hop come ti us
+-Spanish Tortilla (Kartoffel, Zwiebel, Eier) +/- Salat 3,2/5,5
+
+- Italian Lasagna (6,5)
+
+Besides this we have as always delicous selfmade cakes like:
+
+Gluten Free chocolate Cake, Schoko-Haselnuss- Espresso Kuchen, Karotten Kuchen, Bitter- Orange Mandel Kuchen, Brownie (Vegan) and Banana Bread
+
+how sexy is that?? come to say hi ;)
