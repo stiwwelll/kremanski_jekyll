@@ -2,15 +2,15 @@
 layout: lunch
 ---
 
-20.04.18
+23.04.18
 
-Hey People, today the Kremanski has the super warm spring day lunch. Come here, enjoy the Kotti and celebrate food and sunshine with us:
+Let's start the week with an energetic and tasty way! Come here, enjoy the Kotti and celebrate our full spring food and with us:
 
-Quinoa Supreme Salat:
+- - Quinoa Supreme Salat:
 
 mit Chichoree, baby Spinat, gebratenem K&uuml;rbissamen & Balsamico Dressing (7,5)
 
-K-Bowl:
+-- K-Bowl:
 
 schwarzer Reis mit frischem Gem&uuml;se, Pilzen, Tofu serviert mit Ingwer-Erdnuss-Limette Dressing (7,5)
 
@@ -28,8 +28,12 @@ All Day Long:
 
 - Italian Lasagna (6,5)
 
+- Salmon/cheese or vegan avocado sandwiches
+
 Besides this we have as always delicous selfmade cakes like:
 
-Gluten Free chocolate Cake, Schoko-Haselnuss- Espresso Kuchen, Karotten Kuchen, Bitter- Orange Mandel Kuchen, Brownie (Vegan) and Banana Bread
+pear and Chocolate cake, Schoko-Haselnuss- Espresso Kuchen, Karotten Kuchen,vegan Brownie and Banana Bread
 
-how sexy is that?? come to say hi ;)
+accompanied with an Acai or Acerola power fruit shake or a PASSENGER COFFEE ???
+
+we are waiting for you,,, come to say hi
