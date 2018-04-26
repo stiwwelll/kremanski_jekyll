@@ -2,9 +2,9 @@
 layout: lunch
 ---
 
-24.04.18
+26.04.18
 
-nobody leaves this place hungry or unsatisfied...
+almost weekend!
 
 \*Quinoa Supreme Salat:
 
@@ -14,9 +14,9 @@ mit Chichoree, baby Spinat, gebratenem K&uuml;rbissamen & Balsamico Dressing (7,
 
 schwarzer Reis mit frischem Gem&uuml;se, Pilzen, Tofu serviert mit Ingwer-Erdnuss-Limette Dressing (7,5)
 
-+ praised Egg (koreanische Art) 1,5
+* praised Egg (koreanische Art) 1,5
 
-+ Lachs 1,5
+* Lachs 1,5
 
 All Day Long:
 
