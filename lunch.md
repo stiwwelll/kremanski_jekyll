@@ -2,9 +2,11 @@
 layout: lunch
 ---
 
-27.04.18
+02.05.18
 
-almost weekend!
+Hey people,
+
+have survived the crazy 1st May?? If you need energies and a detox treament , come to Kremanski and get a bite of our spring lunch !!
 
 \*Quinoa Supreme Salat:
 
@@ -14,9 +16,9 @@ mit Chichoree, baby Spinat, gebratenem K&uuml;rbissamen & Balsamico Dressing (7,
 
 schwarzer Reis mit frischem Gem&uuml;se, Pilzen, Tofu serviert mit Ingwer-Erdnuss-Limette Dressing (7,5)
 
-* praised Egg (koreanische Art) 1,5
++ praised Egg (koreanische Art) 1,5
 
-* Lachs 1,5
++ Lachs 1,5
 
 All Day Long:
 
@@ -32,6 +34,6 @@ All Day Long:
 
 Besides this we have as always delicous selfmade cakes like:
 
-pear and Chocolate cake, Schoko-Haselnuss- Espresso Kuchen, Karotten Kuchen,vegan Brownie and Banana Bread
+Charlie cheesecake, Lemon diary and glutein free Kuchen, vegan Karotten Kuchen,vegan Brownie and Banana Bread
 
 accompanied with an Acai or Acerola power fruit shake or a PASSENGER COFFEE ???
