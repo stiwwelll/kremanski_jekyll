@@ -2,38 +2,38 @@
 layout: lunch
 ---
 
-02.05.18
+07.05.18
 
-Hey people,
+&nbsp;
 
-have survived the crazy 1st May?? If you need energies and a detox treament , come to Kremanski and get a bite of our spring lunch !!
+....Start the week in a healthier and energetic way! A smily K-Team will serve you all this delicious food:
 
-\*Quinoa Supreme Salat:
+- QUINOA SUPREME SALAD with green kale and baby spinach topped with roasted pumpkin seeds mix and balsamico vinagrette dressing (7,5)
 
-mit Chichoree, baby Spinat, gebratenem K&uuml;rbissamen & Balsamico Dressing (7,5)
+- K- BOWL with fresh veggies mix, mushrooms, ginger-lime and peanut dressing
 
-\*K-Bowl:
++ homemade marineted tofu (7,5)
 
-schwarzer Reis mit frischem Gem&uuml;se, Pilzen, Tofu serviert mit Ingwer-Erdnuss-Limette Dressing (7,5)
++ salmon (9)
 
-+ praised Egg (koreanische Art) 1,5
++ Speck (9)
 
-+ Lachs 1,5
++ korean praised egss (9)
 
-All Day Long:
+- PORRIDGE (fruits & nuts and peatnuts butter) warm and made with love (5,3)
 
-\*Suppe (vegan) + Brot+ Dip 5,0
+- vegan SOUP served with bread and vegan dip (5)
 
-\*Quiche (veggy) +/- Salat 6,0/3,9
+- QUICHE (veggie mix) with salad or without (3,9/6)
 
-\*Spanish Tortilla (Kartoffel, Zwiebel, Eier) +/- Salat 3,2/5,5
+- cheese/salmon or vegan avocado SANDWICHES (3,5)
 
-\*Italian Lasagna (6,5)
+something sweet??
 
-\*Salmon/cheese or vegan avocado sandwiches
+we have maaaany delicious homemade cakes &lt;3
 
-Besides this we have as always delicous selfmade cakes like:
+vegan banana bread, vegan schoko brownie, rasperry-white chocolate cake, vegan K-Karotten cake, blueberry and mascarpone tart, Ivanas cheesecake
 
-Charlie cheesecake, Lemon diary and glutein free Kuchen, vegan Karotten Kuchen,vegan Brownie and Banana Bread
+maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
 
-accompanied with an Acai or Acerola power fruit shake or a PASSENGER COFFEE ???
+come and say hi, we are waiting for you !!
