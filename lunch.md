@@ -6,7 +6,7 @@ layout: lunch
 
 &nbsp;
 
-… happy sunny days that can only get better with or delicious food:
+… happy sunny days :) come and enjoy with our food:
 
 * QUINOA SUPREME SALAD with green kale and baby spinach topped with roasted pumpkin seeds mix and balsamico vinagrette dressing (7,5)
 
@@ -32,7 +32,7 @@ something sweet?
 
 we have maaaany delicious homemade cakes &lt;3
 
-vegan banana bread, vegan schoko brownie, rasperry-white chocolate cake, vegan K-Karotten cake, blueberry and mascarpone tart, Ivanas cheesecake
+vegan banana bread, vegan schoko brownie, gluten-free lemon cake, vegan K-Karotten cake, blueberry and mascarpone tart, Ivanas cheesecake
 
 maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
 
