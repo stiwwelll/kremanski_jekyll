@@ -2,7 +2,7 @@
 layout: lunch
 ---
 
-09.05.18
+16.05.18
 
 &nbsp;
 
@@ -32,8 +32,8 @@ something sweet?
 
 we have maaaany delicious homemade cakes &lt;3
 
-vegan banana bread, vegan schoko brownie, gluten-free lemon cake, vegan K-Karotten cake, blueberry and mascarpone tart, Ivanas cheesecake
+vegan banana bread, vegan schoko brownie, vegan K-Karotten cake, double layer cheese cake, pear and chocolate cake !!!
 
-maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola fruits Shake
+maybe with a cup of PASSENGER COFFEE ?? or a powerful Acai/ Acerola/ Mora/ Dragon friuts or green Shake???
 
 pass by, we're waiting for you :)
