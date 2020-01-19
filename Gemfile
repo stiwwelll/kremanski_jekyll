@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby "2.3.6"
 
-gem "jekyll", "3.4.0"
+gem "jekyll", "3.6.3"
 gem "mini_magick"
 gem "autoprefixer-rails"
 gem "bootstrap-sass"
